@@ -1,0 +1,185 @@
+{
+  "main": {
+    "id": "df7494eda787e187",
+    "type": "split",
+    "children": [
+      {
+        "id": "7be3482a412ee1ee",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "7b13f3f8b0a8d6c9",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Roles/Loyalist/Agent/Assistant.md",
+                "mode": "source",
+                "source": true
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "c722cbee7c0bad41",
+    "type": "split",
+    "children": [
+      {
+        "id": "355eb959f71b2990",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "85ae4ed2dfb5dda6",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "37668a07e3954cfa",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "77addaea05c928d8",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "8ddb4ba388f531c9",
+    "type": "split",
+    "children": [
+      {
+        "id": "2200a18a626bdc4d",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "2e57e654d6b8a284",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Roles/Loyalist/Agent/Assistant.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "af6cd36c34638066",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Roles/Loyalist/Agent/Assistant.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "ab98ee6e25513fc0",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "5e9296d726216adf",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Roles/Loyalist/Agent/Assistant.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "7b13f3f8b0a8d6c9",
+  "lastOpenFiles": [
+    "Modules/Standard Procedure.md",
+    "Templates/Role Template.md",
+    "Concepts/Agent.md",
+    "Templates/Module Template.md",
+    "Templates/Characteristic Template.md",
+    "Concepts/Subversive.md",
+    "Concepts/Role.md",
+    "Concepts/Module.md",
+    "Concepts/Malfunctioning.md",
+    "Concepts/Loyalist.md",
+    "Concepts/Characteristic.md",
+    "Concepts/Detrimental.md",
+    "Concepts/Attributes.md",
+    "Concepts/Antagonist.md",
+    "Roles/Loyalist/Agent/Coordinator.md",
+    "Roles/Subversive/Antagonist/Vessel.md",
+    "Roles/Subversive/Antagonist/Traitor.md",
+    "Roles/Loyalist/Detrimental/Accomplice.md",
+    "Roles/Loyalist/Detrimental/Technician.md",
+    "Roles/Loyalist/Detrimental/Prisoner.md",
+    "Roles/Loyalist/Agent/Analyst.md",
+    "Characteristics/Obnoxious.md",
+    "Roles/Loyalist/Agent/Assistant.md",
+    "Roles/Loyalist/Detrimental/Underachiever.md",
+    "Roles/Loyalist/Detrimental/VIP.md",
+    "Roles/Loyalist/Detrimental/Whistleblower.md",
+    "Roles/Subversive/Antagonist",
+    "Roles/Loyalist/Agent",
+    "Roles/Loyalist/Detrimental",
+    "Roles/Subversive",
+    "Roles/Loyalist",
+    "Roles",
+    "Roles"
+  ]
+}

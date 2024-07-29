@@ -1,0 +1,33 @@
+{
+  "name": "swtc-site",
+  "version": "0.0.1",
+  "type": "module",
+  "scripts": {
+    "dev": "tsx src/helpers/reduceVault.ts && astro dev",
+    "start": "astro preview",
+    "build": "tsx src/helpers/reduceVault.ts && astro check && astro build",
+    "preview": "astro preview",
+    "updateVault": "tsx src/helpers/reduceVault.ts && astro dev"
+  },
+  "dependencies": {
+    "@astrojs/check": "^0.8.3",
+    "@astrojs/starlight": "^0.25.2",
+    "astro": "^4.10.2",
+    "glob": "^11.0.0",
+    "sharp": "^0.32.5",
+    "starlight-obsidian": "^0.4.6",
+    "tsx": "^4.16.2",
+    "typescript": "^5.5.4"
+  },
+  "author": {
+    "name": "Cormac Gudge",
+    "email": "cgudge@outlook.ie",
+    "url": "https://www.linkedin.com/in/cormac-gudge-swe/"
+  },
+  "contributors": [
+    {
+      "name": "Isaac Poulton"
+    }
+  ],
+  "license": "SEE LICENSE IN LICENSE"
+}

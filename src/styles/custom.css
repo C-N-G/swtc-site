@@ -1,0 +1,37 @@
+:root {
+  --sl-content-width: 60rem;
+  --sl-color-gray-5: hsl(224, 10%, 23%);
+  /* --sl-content-pad-x: 1rem; */
+  /* --sl-sidebar-width: 18.75rem; */
+  /* --sl-text-5xl: 3.5rem; */
+}
+
+thead {
+  display: none;
+}
+
+td {
+  padding: 0 4px !important;
+  /* background: var(--sl-color-gray-5); */
+}
+
+.starlight-aside {
+  max-width: 18rem;
+  float: right;
+  background: var(--sl-color-gray-5); 
+  border: none;
+}
+
+.starlight-aside > section > p {
+  text-align: center;
+}
+
+.starlight-aside__title {
+  display: none;
+}
+
+.starlight-aside__content {
+  display: flex;
+  justify-content: center;
+  flex-wrap: wrap;
+}

@@ -1,0 +1,45 @@
+---
+title: Welcome to the Compound
+template: splash
+hero:
+  tagline: Keep Your Secrets Safe!
+  actions:
+    - text: SWTC WebApp
+      link: https://cormacgudge.xyz/swtc
+      icon: external
+      variant: primary
+    - text: SWTC Github Repository
+      link: https://github.com/C-N-G/swtc
+      icon: external
+      variant: secondary
+---
+
+import { Card, CardGrid, LinkCard } from '@astrojs/starlight/components';
+
+<LinkCard
+  title="Standard Procedure"
+  description="Start diving into the game by checking out the first Module!"
+  href="/swtcpedia/standard-procedure"
+/>
+<LinkCard
+  title="Concepts"
+  description="Or take a deep dive into the game mechanics by looking at the Concepts section!"
+  href="/swtcpedia/agent"
+/>
+
+{/* ## Next steps */}
+
+{/* <CardGrid>
+	<Card title="Update content" icon="pencil">
+		Edit `src/content/docs/index.mdx` to see this page change.
+	</Card>
+	<Card title="Add new content" icon="add-document">
+		Add Markdown or MDX files to `src/content/docs` to create new pages.
+	</Card>
+	<Card title="Configure your site" icon="setting">
+		Edit your `sidebar` and other config in `astro.config.mjs`.
+	</Card>
+	<Card title="Read the docs" icon="open-book">
+		Learn more in [the Starlight Docs](https://starlight.astro.build/).
+	</Card>
+</CardGrid> */}
