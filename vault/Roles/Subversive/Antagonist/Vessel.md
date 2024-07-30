@@ -14,7 +14,7 @@ setup:
 attributes:
   - Human
 reminders:
-  - - "\U0001F463"
+  - - "👣"
     - '#702963'
     - 'Accomplice: Is the Accomplice.'
 ---
