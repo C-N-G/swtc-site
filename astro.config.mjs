@@ -1,6 +1,6 @@
 import { defineConfig } from 'astro/config';
 import starlight from '@astrojs/starlight';
-import starlightObsidian from 'starlight-obsidian';
+import starlightObsidian, { obsidianSidebarGroup } from 'starlight-obsidian';
 import { groupedItems } from './src/helpers/getGroups';
 
 
@@ -32,7 +32,8 @@ export default defineConfig({
 			// 	github: 'https://github.com/withastro/starlight',
 			// },
 			sidebar: [
-        ...groupedItems
+        obsidianSidebarGroup // just for testing
+        // ...groupedItems
 			],
 		}),
 	],
