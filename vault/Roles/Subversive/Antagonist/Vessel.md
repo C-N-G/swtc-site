@@ -1,11 +1,24 @@
 ---
-tags:
-- Subversive
-- Antagonist
-- Human
-- Psychic
+name: Accomplice
+type: Detrimental
+description: 'My fingerprints? No, you must be mistaken.'
+ability: >-
+  You do not know you are the Accomplice. You think you are a different Loyalist
+  role, but you are not. The Antagonist knows who you are.
+setup:
+  - - You start on the Subversive team.
+  - - You think you are a Loyalist role.
+    - ShowAs Role Loyalist
+  - - You neighbour the Antagonist.
+    - Neighbour Role Antagonist
+attributes:
+  - Human
+reminders:
+  - - "\U0001F463"
+    - '#702963'
+    - 'Accomplice: Is the Accomplice.'
 ---
-> [!note]
+> [!infobox]
 > |  |  |
 > | ---- | ---- |
 > | Team | [[Subversive]] |
