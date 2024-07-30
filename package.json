@@ -1,6 +1,7 @@
 {
   "name": "swtc-site",
   "version": "0.0.1",
+  "description": "Secrets Within the Compound Website",
   "type": "module",
   "scripts": {
     "dev": "tsx src/helpers/reduceVault.ts && astro dev",
@@ -19,6 +20,10 @@
     "tsx": "^4.16.2",
     "typescript": "^5.5.4"
   },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/C-N-G/swtc-site.git"
+  },
   "author": {
     "name": "Cormac Gudge",
     "email": "cgudge@outlook.ie",
@@ -29,5 +34,9 @@
       "name": "Isaac Poulton"
     }
   ],
-  "license": "SEE LICENSE IN LICENSE"
+  "license": "SEE LICENSE IN LICENSE",
+  "bugs": {
+    "url": "https://github.com/C-N-G/swtc-site/issues"
+  },
+  "homepage": "https://github.com/C-N-G/swtc-site#readme"
 }
