@@ -9,6 +9,10 @@ export default defineConfig({
 	integrations: [
 		starlight({
 			title: 'Secrets Within the Compound Pedia',
+      logo: {
+        src: './src/assets/icon-nobg.png',
+      },
+      favicon: "/favicon.ico",
       customCss: [
         // Relative path to your custom CSS file
         './src/styles/custom.css',
