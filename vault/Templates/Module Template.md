@@ -1,19 +1,26 @@
 ---
-flavour text: “Placeholder”
+name: Placeholder Name
+flavour: Placeholder Flavour
 
 publish: false
 ---
-# Summary
+> [!infobox]
+> “Placeholder Flavour”
+
+## Summary
 Placeholder Summary.
 
-# Agents
-- Placeholder Agent
+## [[Agent|Agents]]
+- Placeholder [[Agent]]
 
-# Detrimentals
-- Placeholder Detrimental
+## [[Detrimental|Detrimentals]]
+- Placeholder [[Detrimental]]
 
-# Antagonists
-- Placeholder Antagonist
+## [[Antagonist|Antagonists]]
+- Placeholder [[Antagonist]]
 
-# Characteristics
-- Placeholder Characteristic
+## [[Characteristic|Characteristics]]
+- Placeholder [[Characteristic]]
+
+## Locations
+- Placeholder Location
