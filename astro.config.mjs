@@ -32,8 +32,8 @@ export default defineConfig({
 			// 	github: 'https://github.com/withastro/starlight',
 			// },
 			sidebar: [
-        obsidianSidebarGroup // just for testing
-        // ...groupedItems
+        // obsidianSidebarGroup // just for testing
+        ...groupedItems
 			],
 		}),
 	],

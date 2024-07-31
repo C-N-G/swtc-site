@@ -8,7 +8,8 @@
     "start": "astro preview",
     "build": "tsx src/helpers/reduceVault.ts && astro check && astro build",
     "preview": "astro preview",
-    "updateVault": "tsx src/helpers/reduceVault.ts && astro dev"
+    "updateVault": "tsx src/helpers/reduceVault.ts && astro dev",
+    "groups": "tsx src/helpers/getGroups.ts"
   },
   "dependencies": {
     "@astrojs/check": "^0.8.3",
