@@ -6,6 +6,24 @@ const mdfiles = await glob('./vault/**/*.md',);
 const reducedPath = path.join(".", "vault-reduced");
 const obsidianPath = path.join(".", "vault", ".obsidian");
 
+let folderExists = false;
+
+try {
+  await fs.access(reducedPath, fs.constants.F_OK);
+  folderExists = true;
+  console.log("vault-reduced folder already exists");
+} catch {
+  console.error("vault-reduced folder does not exist")
+}
+
+if (!folderExists) {
+  try {
+    await fs.mkdir(reducedPath);
+    console.log("created new vault-reduced folder");
+  } catch {
+    console.error("failed creating vault-reduced folder")
+  }
+}
 
 mdfiles.forEach(async filePath => {
   try {
@@ -16,8 +34,7 @@ mdfiles.forEach(async filePath => {
   }
 })
 
-
-let folderExists = false;
+folderExists = false;
 
 try {
   await fs.access(path.join(reducedPath, ".obsidian"), fs.constants.F_OK);
