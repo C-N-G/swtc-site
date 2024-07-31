@@ -13,7 +13,7 @@ attributes:
 reminders:
   - - ❌
     - #FFFFFF
-    - Placeholder Reminder Name: Placeholder Reminder Description
+    - "Placeholder Reminder Name: Placeholder Reminder Description"
 
 publish: false
 ---
@@ -24,6 +24,7 @@ publish: false
 > | [[Attributes]] | Placeholder Attribute |
 > 
 >  “Placeholder Flavour”
+
 ## Ability
 Placeholder ability text. This text here should be filled with the exact text of the ability.
 
@@ -47,3 +48,4 @@ Placeholder setup effects. This text here should be filled with the exact text o
 - Placeholder Additional Information.
 
 ## Lore
+- Placeholder Lore.
