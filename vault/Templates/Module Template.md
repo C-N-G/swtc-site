@@ -24,3 +24,6 @@ Placeholder Summary.
 
 ## Locations
 - Placeholder Location
+
+## Lore
+- Placeholder Lore.
