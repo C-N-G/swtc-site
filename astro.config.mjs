@@ -8,7 +8,7 @@ import { groupedItems } from './src/helpers/getGroups';
 export default defineConfig({
 	integrations: [
 		starlight({
-			title: 'Secrets Within the Compound Pedia',
+			title: 'Secrets Within the Compound',
       logo: {
         src: './src/assets/icon-nobg.png',
       },
