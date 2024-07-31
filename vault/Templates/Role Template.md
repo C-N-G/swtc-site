@@ -7,12 +7,14 @@ flavour: Placeholder Flavour
 ability: >
   Placeholder Ability
 appears:
-    asType: Placeholder Type
-    asTeam: Placeholder Team
-    for: Placeholder Team
-attributes:
+  asType: Placeholder Type
+  asTeam: Placeholder Team
+  for: Placeholder Team
+attributes: 
+  - Placeholder Attribute
 orderType: Placeholder orderType
 setup:
+  - - Placeholder setup Solo Description
   - - Placeholder Setup Effect Description
     - Placeholder Setup Effect Command
 attributes:
