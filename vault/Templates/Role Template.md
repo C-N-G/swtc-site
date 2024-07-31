@@ -1,30 +1,55 @@
 ---
-team: Placeholder
-type: Placeholder
-module: Placeholder
-attributes: Placeholder
-flavour text: “Placeholder”
+name: Placeholder Name
+team: Placeholder Team
+type: Placeholder Type
+module: Placeholder Module
+flavour: Placeholder Flavour
+ability: >
+  Placeholder Ability
+orderType: Placeholder orderType
+setup:
+  - - Placeholder Setup Effect Description
+    - Placeholder Setup Effect Command
+attributes:
+  - Placeholder Attribute
+reminders:
+  - - ❌
+    - #FFFFFF
+    - Placeholder Reminder Name: Placeholder Reminder Description
 
 publish: false
 ---
-# Ability
+> [!infobox]
+> |  |  |
+> | ---- | ---- |
+> | Team | Placeholder Team |
+> | Type | Placeholder Type |
+> | [[Module]] | Placeholder Module |
+> | [[Attributes]] | Placeholder Attribute |
+> 
+>  “Placeholder Flavour”
+
+## Ability
 Placeholder ability text. This text here should be filled with the exact text of the ability.
 
-# Setup Effects
+## Setup Effects
 Placeholder setup effects. This text here should be filled with the exact text of the setup effects.
 
-# Examples
+## Examples
 - Placeholder Example.
 
 - Placeholder Example.
 
 - Placeholder Example.
 
-# How to Play
+## How to Play
 - Placeholder Strategy.
 
-# How to Narrate
+## How to Narrate
 - Placeholder Narration.
 
-# Additional Information
+## Additional Information
 - Placeholder Additional Information.
+
+## Lore
+- Placeholder Lore.
