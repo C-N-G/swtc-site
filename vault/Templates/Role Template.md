@@ -6,11 +6,11 @@ module: Placeholder Module
 flavour: Placeholder Flavour
 ability: >
   Placeholder Ability
-  appears:
-    asType: Placeholder Type
+appears:
+	asType: Placeholder Type
     asTeam: Placeholder Team
     for: Placeholder Team
-  attributes:
+attributes:
 orderType: Placeholder orderType
 setup:
   - - Placeholder Setup Effect Description
