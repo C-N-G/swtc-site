@@ -7,7 +7,7 @@ flavour: Placeholder Flavour
 ability: >
   Placeholder Ability
 appears:
-	asType: Placeholder Type
+    asType: Placeholder Type
     asTeam: Placeholder Team
     for: Placeholder Team
 attributes:
