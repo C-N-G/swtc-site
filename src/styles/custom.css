@@ -12,7 +12,15 @@ thead {
 
 td {
   padding: 0 4px !important;
-  /* background: var(--sl-color-gray-5); */
+  border-right: 1px solid;
+}
+
+td:last-child {
+  border-right: none;
+}
+
+tr:last-child > td {
+  border-bottom: none;
 }
 
 .starlight-aside {
@@ -21,6 +29,13 @@ td {
   background: var(--sl-color-bg-sidebar); 
   border: 1px solid var(--sl-color-hairline-shade);
   color: var(--sl-color-text);
+}
+
+@media only screen and (max-width: 550px) {
+  .starlight-aside {
+    float: none;
+    margin: auto;
+  }
 }
 
 .starlight-aside__content a {
@@ -46,9 +61,6 @@ td {
 	--sl-color-accent-low: #5e0808;
 	--sl-color-accent: #a61c1c;
 	--sl-color-accent-high: #fa5757;
-	/* --sl-color-accent-low: #381a00;
-	--sl-color-accent: #9e5400;
-	--sl-color-accent-high: #f5bb8e; */
 	--sl-color-white: #ffffff;
 	--sl-color-gray-1: #eeedef;
 	--sl-color-gray-2: #c3c1c4;
@@ -63,9 +75,6 @@ td {
 	--sl-color-accent-low: #fa5757;
 	--sl-color-accent: #a61c1c;
 	--sl-color-accent-high: #5e0808;
-	/* --sl-color-accent-low: #f9cfae;
-	--sl-color-accent: #9e5400;
-	--sl-color-accent-high: #4d2500; */
 	--sl-color-white: #191819;
 	--sl-color-gray-1: #282629;
 	--sl-color-gray-2: #3a373b;
