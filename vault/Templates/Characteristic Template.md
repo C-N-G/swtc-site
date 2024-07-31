@@ -12,8 +12,8 @@ attributes:
   - Placeholder Attribute
 reminders:
   - - ❌
-    - #FFFFFF
-    - "Placeholder Reminder Name: Placeholder Reminder Description"
+    - "#FFFFFF"
+    - 'Placeholder Reminder Name: Placeholder Reminder Description'
 
 publish: false
 ---
