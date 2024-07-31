@@ -6,6 +6,11 @@ module: Placeholder Module
 flavour: Placeholder Flavour
 ability: >
   Placeholder Ability
+  appears:
+    asType: Placeholder Type
+    asTeam: Placeholder Team
+    for: Placeholder Team
+  attributes:
 orderType: Placeholder orderType
 setup:
   - - Placeholder Setup Effect Description
@@ -15,7 +20,7 @@ attributes:
 reminders:
   - - ❌
     - #FFFFFF
-    - Placeholder Reminder Name: Placeholder Reminder Description
+    - "Placeholder Reminder Name: Placeholder Reminder Description"
 
 publish: false
 ---
