@@ -17,8 +17,6 @@ setup:
   - - Placeholder setup Solo Description
   - - Placeholder Setup Effect Description
     - Placeholder Setup Effect Command
-attributes:
-  - Placeholder Attribute
 reminders:
   - - ❌
     - "#FFFFFF"
