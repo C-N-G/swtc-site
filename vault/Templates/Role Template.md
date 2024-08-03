@@ -6,13 +6,13 @@ module: Placeholder Module
 flavour: Placeholder Flavour
 ability: >
   Placeholder Ability
+orderType: Placeholder orderType
 appears:
   asType: Placeholder Type
   asTeam: Placeholder Team
   for: Placeholder Team
 attributes: 
   - Placeholder Attribute
-orderType: Placeholder orderType
 setup:
   - - Placeholder setup Solo Description
   - - Placeholder Setup Effect Description
