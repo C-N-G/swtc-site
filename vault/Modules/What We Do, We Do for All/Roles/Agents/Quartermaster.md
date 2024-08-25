@@ -6,7 +6,7 @@ attributes: Human
 flavour text: “Form an orderly line! It’s important we ration our supplies!”
 ---
 ## Ability
-Each night, you learn a different [[Agent]] [[Role]] (not yourself) that is in play, until there are no more left to learn.
+Each night, you learn a different [[Agent]] [[role]] (not yourself) that is in play, until there are no more left to learn.
 
 ## Examples
 - Placeholder Example.

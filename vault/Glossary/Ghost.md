@@ -1,0 +1,1 @@
+A [[player]] that is dead. Informally might be used to refer to [[Role|roles]] with the spirit [[Attributes|attribute]].

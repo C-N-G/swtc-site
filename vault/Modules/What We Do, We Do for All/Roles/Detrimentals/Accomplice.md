@@ -6,7 +6,7 @@ attributes: Human
 flavour text: “My fingerprints? No, you must be mistaken.”
 ---
 ## Ability
-You do not know you are the Accomplice. You think you are an [[Agent]] [[Role]], but you are not. All [[Antagonist|Antagonists]] knows who you are. This ability works even if you are [[malfunctioning]].
+You do not know you are the Accomplice. You think you are an [[Agent]] [[role]], but you are not. All [[Antagonist|Antagonists]] know who you are.
 
 ## Setup Effects
 You neighbour an [[Antagonist]].

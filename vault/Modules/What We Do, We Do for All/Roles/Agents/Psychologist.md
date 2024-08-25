@@ -6,7 +6,7 @@ attributes: Human
 flavour text: “Placeholder”
 ---
 ## Ability
-Each night, you must choose a [[player]]: you learn their [[Characteristic]].
+Each night, you must choose a [[player]]: you learn their [[characteristic]].
 
 ## Setup Effects
 Placeholder setup effects. This text here should be filled with the exact text of the setup effects.

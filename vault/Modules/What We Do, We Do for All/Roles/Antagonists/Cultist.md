@@ -6,7 +6,7 @@ attributes: Human
 flavour text: “Our victory is inevitable, it is preordained!”
 ---
 ## Ability
-Each night, after the first, choose a [[player]]: they die if chosen by the majority of Cultists.
+Each night, after the first, choose a [[player]]: they die if chosen by the majority of Cultists. If no [[player]] receives a majority, a Cultist becomes injured.
 
 ## Setup Effects
 All [[Detrimental|Detrimentals]] are Cultists.

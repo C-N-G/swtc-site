@@ -6,7 +6,7 @@ attributes: Human
 flavour text: “I’ve seen things in the dark hours of the night, things you people wouldn’t believe.”
 ---
 ## Ability
-Each night, you learn how many other [[Player|players]] woke up, or will wake up, that night due to their ability.
+Each night, you learn a [[player]] (not yourself) who woke up or will wake up that night due to their ability.
 
 ## Examples
 - Placeholder Example.

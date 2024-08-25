@@ -1,0 +1,1 @@
+A mechanic which removes a [[player]]’s abilities without them being dead.

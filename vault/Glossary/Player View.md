@@ -1,0 +1,1 @@
+A [[player]]’s view of the interface.

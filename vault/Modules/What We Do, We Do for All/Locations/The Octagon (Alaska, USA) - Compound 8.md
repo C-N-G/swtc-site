@@ -3,7 +3,7 @@ module: What We Do, We Do for All
 flavour text: “Placeholder”
 ---
 ## Effect
-There are no effects in this location.
+This location has no effect.
 
 ## Setup Effects
 Placeholder setup effects. This text here should be filled with the exact text of the setup effects.

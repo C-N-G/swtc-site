@@ -30,7 +30,6 @@ What We Do, We Do for All primarily focuses on cohesion and human [[Antagonist|a
 - [[Knowledgeable]]
 - [[Observant]]
 - [[Perceptive]]
-- [[Persevering]]
 - [[Resourceful]]
 - [[Trustworthy]]
 

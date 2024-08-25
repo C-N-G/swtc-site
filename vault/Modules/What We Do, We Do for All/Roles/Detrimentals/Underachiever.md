@@ -6,7 +6,7 @@ attributes: Human
 flavour text: “Almost.”
 ---
 ## Ability
-You do not know you are the Underachiever. You think you are an [[Agent]] [[Role]], but you are not. This ability works even if you are [[malfunctioning]].
+You do not know you are the Underachiever. You think you are an [[Agent]] [[role]], but you are not.
 
 ## Examples
 - The Underachiever thinks they are the [[Analyst]]. The [[Narrator]] wakes the Underachiever up and treats them as if they are the [[Analyst]] who is [[Malfunctioning]].

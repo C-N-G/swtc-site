@@ -6,7 +6,7 @@ attributes: Human
 flavour text: “Placeholder”
 ---
 ## Ability
-Each night, you must choose a [[player]]: you learn a [[Role]] they are not.
+Each night, you must choose a [[player]] and a [[role]]: you learn if they are this [[role]].
 
 ## Examples
 - Placeholder Example.

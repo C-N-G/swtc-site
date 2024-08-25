@@ -3,7 +3,7 @@ module: What We Do, We Do for All
 flavour text: “Placeholder”
 ---
 ## Ability
-You start knowing that 1 of 3 [[Player|players]] (not yourself) is a specific [[Characteristic]].
+You start knowing that 1 of 3 [[Player|players]] (not yourself) is a specific [[characteristic]].
 
 ## Setup Effects
 Placeholder setup effects. This text here should be filled with the exact text of the setup effects.
