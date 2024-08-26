@@ -4,9 +4,6 @@ flavour: Placeholder Flavour
 ability: |
   You start knowing whether a role of your choice is in play or not.
 orderType: char_with_starting_info
-setup:
-  - - Placeholder Setup Effect Description
-    - Placeholder Setup Effect Command
 reminders:
   - - 📖
     - "#FFFF00"
