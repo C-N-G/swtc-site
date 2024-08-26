@@ -1,10 +1,28 @@
 ---
-module: Possessions and Obsessions
-attributes: Psychic
-flavour text: “Placeholder”
+name: Empathetic
+flavour: Placeholder Flavour
+ability: |
+  You start knowing how many players (not yourself) are Psychic.
+orderType: char_with_starting_info
+attributes:
+  - Psychic
+reminders:
+  - - ❤️
+    - "#FFFF00"
+    - "Empathetic: Learnt this player."
 ---
+> [!infobox]
+> |  |  |
+> | ---- | ---- |
+> | [[Attributes]] | Psychic |
+> 
+>  “Placeholder Flavour”
+
 ## Ability
 You start knowing how many [[Player|players]] (not yourself) are Psychic.
+
+## Setup Effects
+Placeholder setup effects. This text here should be filled with the exact text of the setup effects.
 
 ## Examples
 - Placeholder Example.
@@ -21,3 +39,6 @@ You start knowing how many [[Player|players]] (not yourself) are Psychic.
 
 ## Additional Information
 - Placeholder Additional Information.
+
+## Lore
+- Placeholder Lore.
