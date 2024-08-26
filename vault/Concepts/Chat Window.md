@@ -1,1 +1,0 @@
-The window in the bottom right, below the character window, used for chat functionality.

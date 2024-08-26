@@ -1,1 +1,0 @@
-The window in the bottom left which holds the main board area.

@@ -1,1 +1,0 @@
-The interface display in the [[Dynamic Window]] area, used for submitting and tracking vote related information.

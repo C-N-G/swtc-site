@@ -1,1 +1,0 @@
-The area in the centre of the board area which displays different interface elements depending on the need.

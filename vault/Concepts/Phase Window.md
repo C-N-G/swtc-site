@@ -1,1 +1,0 @@
-The window in the top left of the interface showing the current phase of the game.
