@@ -1,9 +1,15 @@
 ---
-module: Body Horror
-flavour text: “Placeholder”
+name: Meticulous
+flavour: Placeholder Flavour
+ability: |
+  Each night, you learn if you are malfunctioning. This ability cannot malfunction.
+orderType: char_with_recurring_info
 ---
+> [!infobox]
+>  “Placeholder Flavour”
+
 ## Ability
-You learn if you become [[Malfunctioning]]. This ability cannot [[Malfunctioning|malfunction]].
+Each night, you learn if you are [[malfunctioning]]. This ability cannot [[Malfunctioning|malfunction]].
 
 ## Setup Effects
 Placeholder setup effects. This text here should be filled with the exact text of the setup effects.
@@ -23,3 +29,6 @@ Placeholder setup effects. This text here should be filled with the exact text o
 
 ## Additional Information
 - Placeholder Additional Information.
+
+## Lore
+- Placeholder Lore.
