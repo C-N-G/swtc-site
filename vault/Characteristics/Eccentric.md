@@ -1,27 +1,11 @@
 ---
-name: Placeholder Name
-module: Placeholder Module
+name: Eccentric
 flavour: Placeholder Flavour
 ability: |
-  Placeholder Ability
-orderType: Placeholder orderType
-setup:
-  - - Placeholder Setup Effect Description
-    - Placeholder Setup Effect Command
-attributes:
-  - Placeholder Attribute
-reminders:
-  - - ❌
-    - "#FFFFFF"
-    - "Placeholder Reminder Name: Placeholder Reminder Description"
-publish: false
+  Each night, you have the ability of a different characteristic.
+orderType: char_converts_self
 ---
 > [!infobox]
-> |  |  |
-> | ---- | ---- |
-> | [[Module]] | Placeholder Module |
-> | [[Attributes]] | Placeholder Attribute |
-> 
 >  “Placeholder Flavour”
 
 ## Ability
