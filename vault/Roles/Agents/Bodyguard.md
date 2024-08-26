@@ -1,10 +1,28 @@
 ---
+name: Bodyguard
 team: Loyalist
 type: Agent
-module: What We Do, We Do for All
-attributes: Human
-flavour text: “Your service will be remembered.”
+flavour: Your service will be remembered.
+ability: |
+  Each night, after the first, you must choose a player (not yourself): if that player is killed that night you are killed instead.
+orderType: Placeholder orderType
+attributes:
+  - Human
+reminders:
+  - - 👮
+    - "#0000FF"
+    - "Bodyguard: Protected this player."
 ---
+> [!infobox]
+> |  |  |
+> | ---- | ---- |
+> | Team | Placeholder Team |
+> | Type | Placeholder Type |
+> | [[Attributes]] | Placeholder Attribute |
+> 
+>  “Your service will be remembered.”
+
+
 ## Ability
 Each night, after the first, you must choose a [[player]] (not yourself): if that [[player]] is killed that night you are killed instead.
 
@@ -20,3 +38,7 @@ Each night, after the first, you must choose a [[player]] (not yourself): if tha
 - Each night, wake up the Bodyguard. Tell them to choose a [[player]]. Send them back to sleep. If the [[player]] chosen by the Bodyguard is killed that night they are killed instead.
 
 ## Additional Information
+Placeholder.
+
+## Lore
+Placeholder.
