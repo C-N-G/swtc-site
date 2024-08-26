@@ -1,36 +1,23 @@
 ---
-name: Placeholder Name
-team:
-  - Placeholder Team
-  - Placeholder Team
-type: Placeholder Type
-module: Placeholder Module
+name: Therapist
+team: Loyalist
+type: Agent
 flavour: Placeholder Flavour
 ability: |
-  Placeholder Ability
-orderType: Placeholder orderType
-appears:
-  asType: Placeholder Type
-  asTeam: Placeholder Team
-  for: Placeholder Team
+  Each night, you learn a player who is malfunctioning or that no one is malfunctioning.
+orderType: role_with_recurring_info
 attributes:
-  - Placeholder Attribute
-setup:
-  - - Placeholder setup Solo Description
-  - - Placeholder Setup Effect Description
-    - Placeholder Setup Effect Command
+  - Human
 reminders:
-  - - ❌
-    - "#FFFFFF"
-    - "Placeholder Reminder Name: Placeholder Reminder Description"
-publish: false
+  - - 💆
+    - "#0000FF"
+    - "Therapist: Learnt this player."
 ---
 > [!infobox]
 > |  |  |
 > | ---- | ---- |
-> | Team | [[Loyalist]] |
-> | [[Type]] | [[Agent]] |
-> | [[Module]] | Placeholder [[Module]] |
+> | Team | Loyalist |
+> | Type | Agent |
 > | [[Attributes]] | Human |
 > 
 >  “Placeholder Flavour”
