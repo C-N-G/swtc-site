@@ -1,10 +1,33 @@
 ---
-team: Loyalist
-type: Agent
-module: Body Horror
-attributes: Human
-flavour text: “Can I get you a coffee, sir?”
+name: 'Assistant'
+team:
+  - 'Loyalist'
+type: 'Agent'
+flavour: 'Can I get you a coffee, sir?'
+ability: >
+  'You start knowing an Agent player (not yourself) and their role. If you die, they become malfunctioning.'
+orderType: 'role_with_starting_info'
+attributes: 
+  - 'Human'
+reminders:
+  - - '☕'
+    - '#0000FF'
+    - 'Assistant: Knows this player's role.'
+  - - '☕'
+    - '#0000FF'
+    - 'Assistant: This player is malfunctioning.'
+
+publish: false
 ---
+> [!infobox]
+> |  |  |
+> | ---- | ---- |
+> | Team | Assistant |
+> | Type | Agent |
+> | [[Attributes]] | Human |
+> 
+>  “Can I get you a coffee, sir?”
+
 ## Ability
 You start knowing an [[Agent]] [[player]] (not yourself) and their [[role]]. If you die, they become [[malfunctioning]].
 
@@ -24,3 +47,6 @@ You start knowing an [[Agent]] [[player]] (not yourself) and their [[role]]. If 
 
 ## Additional Information
 - If the Assistant is [[Malfunctioning]] they can be told an incorrect [[player]], or an incorrect [[Role]]. If they cease to be [[Malfunctioning]] they will not receive new information.
+
+## Lore
+- Placeholder Lore.
