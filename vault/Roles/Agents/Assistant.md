@@ -1,7 +1,6 @@
 ---
 name: 'Assistant'
-team:
-  - 'Loyalist'
+team: 'Loyalist'
 type: 'Agent'
 flavour: 'Can I get you a coffee, sir?'
 ability: >
@@ -20,7 +19,7 @@ reminders:
 > [!infobox]
 > |  |  |
 > | ---- | ---- |
-> | Team | Assistant |
+> | Team | Loyalist |
 > | Type | Agent |
 > | [[Attributes]] | Human |
 > 
