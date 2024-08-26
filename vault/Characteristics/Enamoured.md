@@ -1,31 +1,22 @@
 ---
-name: Placeholder Name
-module: Placeholder Module
+name: Enamoured
 flavour: Placeholder Flavour
 ability: |
-  Placeholder Ability
-orderType: Placeholder orderType
-setup:
-  - - Placeholder Setup Effect Description
-    - Placeholder Setup Effect Command
-attributes:
-  - Placeholder Attribute
+  You start knowing a player (not yourself) and their role. If they die, you become malfunctioning.
+orderType: char_with_starting_info
 reminders:
-  - - ❌
-    - "#FFFFFF"
-    - "Placeholder Reminder Name: Placeholder Reminder Description"
-publish: false
+  - - 💑
+    - "#FFFF00"
+    - "Enamoured: Learnt this player"
+  - - 💑
+    - "#FFFF00"
+    - "Enamoured: This player is malfunctioning"
 ---
-> [!infobox]
-> |  |  |
-> | ---- | ---- |
-> | [[Module]] | Placeholder Module |
-> | [[Attributes]] | Placeholder Attribute |
-> 
+> [!infobox] 
 >  “Placeholder Flavour”
 
 ## Ability
-You start knowing a player (not yourself) and their [[Role]]. If they die, you become malfunctioning.
+You start knowing a player (not yourself) and their [[role]]. If they die, you become malfunctioning.
 
 ## Setup Effects
 Placeholder setup effects. This text here should be filled with the exact text of the setup effects.
