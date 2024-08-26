@@ -22,7 +22,6 @@ reminders:
 > 
 >  “Your service will be remembered.”
 
-
 ## Ability
 Each night, after the first, you must choose a [[player]] (not yourself): if that [[player]] is killed that night you are killed instead.
 
