@@ -5,7 +5,7 @@ type: Agent
 flavour: Your service will be remembered.
 ability: |
   Each night, after the first, you must choose a player (not yourself): if that player is killed that night you are killed instead.
-orderType: Placeholder orderType
+orderType: role_protects_others_death
 attributes:
   - Human
 reminders:
