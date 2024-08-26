@@ -4,11 +4,11 @@ flavour: Placeholder Flavour
 ability: |
   Placeholder Ability
 orderType: Placeholder orderType
+attributes:
+  - Placeholder Attribute
 setup:
   - - Placeholder Setup Effect Description
     - Placeholder Setup Effect Command
-attributes:
-  - Placeholder Attribute
 reminders:
   - - ❌
     - "#FFFFFF"
