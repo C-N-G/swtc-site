@@ -1,9 +1,22 @@
 ---
-module: In the Midst of Night
-flavour text: “Placeholder”
+name: Placeholder Name
+flavour: Placeholder Flavour
+ability: |
+  Once per game, during the night, you may choose any not in-play characteristic, you become that characteristic. If that characteristic is in-play, you don’t change characteristic but think you do.
+orderType: char_converts_self
+reminders:
+  - - 🔄
+    - "#FFFF00"
+    - "Adaptable: Has used their ability."
 ---
+> [!infobox]
+>  “Placeholder Flavour”
+
 ## Ability
-Once per game, during the night, you may choose any not in-play [[Characteristic]], you become that [[Characteristic]]. If that [[Characteristic]] is in-play, you don’t change [[Characteristic]] but think you do.
+Once per game, during the night, you may choose any not in-play [[characteristic]], you become that [[characteristic]]. If that [[characteristic]] is in-play, you don’t change [[characteristic]] but think you do.
+
+## Setup Effects
+Placeholder setup effects. This text here should be filled with the exact text of the setup effects.
 
 ## Examples
 - Placeholder Example.
@@ -20,3 +33,6 @@ Once per game, during the night, you may choose any not in-play [[Characteristic
 
 ## Additional Information
 - Placeholder Additional Information.
+
+## Lore
+- Placeholder Lore.
