@@ -1,27 +1,15 @@
 ---
-name: Placeholder Name
-module: Placeholder Module
+name: Inquisitive
 flavour: Placeholder Flavour
 ability: |
-  Placeholder Ability
-orderType: Placeholder orderType
-setup:
-  - - Placeholder Setup Effect Description
-    - Placeholder Setup Effect Command
-attributes:
-  - Placeholder Attribute
+  Once per game, during the night, you may choose to learn a role. One of your living neighbours is this role.
+orderType: char_with_recurring_info
 reminders:
-  - - ❌
-    - "#FFFFFF"
-    - "Placeholder Reminder Name: Placeholder Reminder Description"
-publish: false
+  - - ❓
+    - "#FFFF00"
+    - "Inquisitive: Learnt this player."
 ---
 > [!infobox]
-> |  |  |
-> | ---- | ---- |
-> | [[Module]] | Placeholder Module |
-> | [[Attributes]] | Placeholder Attribute |
-> 
 >  “Placeholder Flavour”
 
 ## Ability
