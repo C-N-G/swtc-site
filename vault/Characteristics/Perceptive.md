@@ -1,7 +1,17 @@
 ---
-module: What We Do, We Do for All
-flavour text: “Placeholder”
+name: Perceptive
+flavour: Placeholder Flavour
+ability: |
+  You start knowing that 1 of 3 players (not yourself) is a specific characteristic.
+orderType: char_with_starting_info
+reminders:
+  - - 🔍
+    - "#FFFF00"
+    - "Perceptive: Learnt this player."
 ---
+> [!infobox]
+>  “Placeholder Flavour”
+
 ## Ability
 You start knowing that 1 of 3 [[Player|players]] (not yourself) is a specific [[characteristic]].
 
@@ -23,3 +33,6 @@ Placeholder setup effects. This text here should be filled with the exact text o
 
 ## Additional Information
 - Placeholder Additional Information.
+
+## Lore
+- Placeholder Lore.
