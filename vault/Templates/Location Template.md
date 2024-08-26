@@ -2,7 +2,7 @@
 name: Placeholder Name
 flavour: Placeholder Flavour
 ability: |
-  "Placeholder Ability"
+  Placeholder Ability
 orderType: Placeholder orderType
 setup:
   - - Placeholder Setup Effect Description

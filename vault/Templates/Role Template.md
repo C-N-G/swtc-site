@@ -4,7 +4,7 @@ team: Placeholder Team
 type: Placeholder Type
 flavour: Placeholder Flavour
 ability: |
-  "Placeholder Ability"
+  Placeholder Ability
 orderType: Placeholder orderType
 appears:
   asType: Placeholder Type
