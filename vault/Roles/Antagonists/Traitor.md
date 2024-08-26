@@ -1,10 +1,27 @@
 ---
+name: Traitor
 team: Subversive
 type: Antagonist
-module: What We Do, We Do for All
-attributes: Human
-flavour text: “What?! It’s not me!”
+flavour: What?! It’s not me!
+ability: |
+  You start knowing 3 not in-play roles. Each night, after the first, you must choose a player: that player dies.
+orderType: role_kills_others
+attributes:
+  - Human
+reminders:
+  - - 🗡️
+    - "#FF0000"
+    - "Traitor: Chose this player."
 ---
+> [!infobox]
+> |  |  |
+> | ---- | ---- |
+> | Team | Subversive |
+> | Type | Antagonist |
+> | [[Attributes]] | Human |
+> 
+>  “What?! It’s not me!”
+
 ## Ability
 You start knowing 3 not in-play [[Role|roles]]. Each night, after the first, you must choose a [[player]]: that [[player]] dies.
 
@@ -26,3 +43,7 @@ You start knowing 3 not in-play [[Role|roles]]. Each night, after the first, you
 - Each night, after the first, wake up the Traitor. Ask them to choose a [[player]]. Send them back to sleep. Mark their choice as dead. At the start of the following day, announce which [[player]] died at night.
 
 ## Additional Information
+- Placeholder Additional Information.
+
+## Lore
+- Placeholder Lore.
