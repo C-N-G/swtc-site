@@ -1,10 +1,22 @@
 ---
-module: What We Do, We Do for All
-attributes: Placeholder
-flavour text: “Placeholder”
+name: Knowledgeable
+flavour: Placeholder Flavour
+ability: |
+  You start knowing whether a role of your choice is in play or not.
+orderType: char_with_starting_info
+setup:
+  - - Placeholder Setup Effect Description
+    - Placeholder Setup Effect Command
+reminders:
+  - - 📖
+    - "#FFFF00"
+    - "Knowledgeable: Learnt that this role is in play."
 ---
+> [!infobox]
+>  “Placeholder Flavour”
+
 ## Ability
-You start knowing whether a [[Role]] of your choice is in play or not.
+You start knowing whether a [[role]] of your choice is in play or not.
 
 ## Setup Effects
 Placeholder setup effects. This text here should be filled with the exact text of the setup effects.
@@ -24,3 +36,6 @@ Placeholder setup effects. This text here should be filled with the exact text o
 
 ## Additional Information
 - Placeholder Additional Information.
+
+## Lore
+- Placeholder Lore.
