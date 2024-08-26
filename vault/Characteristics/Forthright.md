@@ -1,9 +1,17 @@
 ---
-module: Vox Populi, Vox Diaboli
-flavour text: “Placeholder”
+name: Forthright
+flavour: Placeholder Flavour
+ability: |
+  All players know your characteristic.
 ---
+> [!infobox]
+>  “Placeholder Flavour”
+
 ## Ability
-All [[Player|players]] know your [[Characteristic]].
+All [[Player|players]] know your [[characteristic]].
+
+## Setup Effects
+Placeholder setup effects. This text here should be filled with the exact text of the setup effects.
 
 ## Examples
 - Placeholder Example.
@@ -20,3 +28,6 @@ All [[Player|players]] know your [[Characteristic]].
 
 ## Additional Information
 - Placeholder Additional Information.
+
+## Lore
+- Placeholder Lore.
