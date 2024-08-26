@@ -1,38 +1,26 @@
 ---
-name: Placeholder Name
-team:
-  - Placeholder Team
-type: Placeholder Type
-module: Placeholder Module
-flavour: Placeholder Flavour
+name: Whistleblower
+team: Loyalist
+type: Detrimental
+flavour: Give them some truth.
 ability: |
-  Placeholder Ability
-orderType: Placeholder orderType
-appears:
-  asType: Placeholder Type
-  asTeam: Placeholder Team
-  for: Placeholder Team
+  Each night, the Antagonists learn an Agent player and their role, until there are no more left to learn.
+orderType: role_with_recurring_info
 attributes:
-  - Placeholder Attribute
-setup:
-  - - Placeholder setup Solo Description
-  - - Placeholder Setup Effect Description
-    - Placeholder Setup Effect Command
+  - Human
 reminders:
-  - - ❌
-    - "#FFFFFF"
-    - "Placeholder Reminder Name: Placeholder Reminder Description"
-publish: false
+  - - 🪈
+    - "#702963"
+    - "Whistleblower: Antagonists learnt this Agent player and their role."
 ---
 > [!infobox]
 > |  |  |
 > | ---- | ---- |
-> | Team | Placeholder Team |
-> | Type | Placeholder Type |
-> | [[Module]] | Placeholder Module |
-> | [[Attributes]] | Placeholder Attribute |
+> | Team | Loyalist |
+> | Type | Detrimental |
+> | [[Attributes]] | Human |
 > 
->  “Placeholder Flavour”
+>  “Give them some truth.”
 
 ## Ability
 Each night, the Antagonists learn an Agent player and their role, until there are no more left to learn.
