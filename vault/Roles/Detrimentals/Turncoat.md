@@ -1,10 +1,23 @@
 ---
-team: Loyalist/Subversive
-type: Placeholder
-module: In the Midst of Night
-attributes: Human
-flavour text: “Placeholder”
+name: Turncoat
+team: Either
+type: Placeholder Type
+flavour: Placeholder Flavour
+ability: |
+  Each night, after the first, you change team.
+orderType: role_converts_self
+attributes:
+  - Human
 ---
+> [!infobox]
+> |  |  |
+> | ---- | ---- |
+> | Team | Either |
+> | Type | Detrimental |
+> | [[Attributes]] | Human |
+> 
+>  “Placeholder Flavour”
+
 ## Ability
 Each night, after the first, you change team.
 
@@ -26,3 +39,6 @@ Placeholder setup effects. This text here should be filled with the exact text o
 
 ## Additional Information
 - Placeholder Additional Information.
+
+## Lore
+- Placeholder Lore.
