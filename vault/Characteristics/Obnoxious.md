@@ -1,9 +1,22 @@
 ---
-module: Body Horror
-flavour text: “Placeholder”
+name: Obnoxious
+flavour: Placeholder Flavour
+ability: |
+  The first person (not yourself) to choose you with their ability becomes malfunctioning.
+reminders:
+  - - 💩
+    - "#FFFF00"
+    - "Obnoxious: This player is malfunctioning."
+publish: false
 ---
+> [!infobox]
+>  “Placeholder Flavour”
+
 ## Ability
-The first person (not yourself) to choose you with an ability becomes [[Malfunctioning]].
+The first person (not yourself) to choose you with their ability becomes [[malfunctioning]].
+
+## Setup Effects
+Placeholder setup effects. This text here should be filled with the exact text of the setup effects.
 
 ## Examples
 - Placeholder Example.
@@ -20,3 +33,6 @@ The first person (not yourself) to choose you with an ability becomes [[Malfunct
 
 ## Additional Information
 - Placeholder Additional Information.
+
+## Lore
+- Placeholder Lore.
