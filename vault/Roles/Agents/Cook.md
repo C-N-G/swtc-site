@@ -1,10 +1,26 @@
 ---
+name: Cook
 team: Loyalist
 type: Agent
-module: Body Horror
-attributes: Human
-flavour text: “First, we eat.”
+flavour: First, we eat.
+ability: |
+  Your neighbours cannot malfunction.
+attributes:
+  - Human
+reminders:
+  - - 🧑‍🍳
+    - "#0000FF"
+    - "Cook: This player cannot malfunction."
 ---
+> [!infobox]
+> |  |  |
+> | ---- | ---- |
+> | Team | Placeholder Team |
+> | Type | Placeholder Type |
+> | [[Attributes]] | Placeholder Attribute |
+> 
+>  “First, we eat.”
+
 ## Ability
 Your neighbours cannot [[Malfunctioning|malfunction]].
 
@@ -21,3 +37,7 @@ Your neighbours cannot [[Malfunctioning|malfunction]].
 - If the Cook becomes [[Malfunctioning]] remove the immunity from their neighbours.
 
 ## Additional Information
+- Placeholder.
+
+## Lore
+- Placeholder Lore.
