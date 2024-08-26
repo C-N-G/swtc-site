@@ -1,37 +1,25 @@
 ---
-name: Placeholder Name
-team:
-  - Placeholder Team
-  - Placeholder Team
-type: Placeholder Type
-module: Placeholder Module
+name: Medium
+team: Loyalist
+type: Agent
 flavour: Placeholder Flavour
 ability: |
-  Placeholder Ability
-orderType: Placeholder orderType
-appears:
-  asType: Placeholder Type
-  asTeam: Placeholder Team
-  for: Placeholder Team
+  Each night, after the first, you may choose a dead player: you learn their role.
+orderType: role_with_late_info
 attributes:
-  - Placeholder Attribute
-setup:
-  - - Placeholder setup Solo Description
-  - - Placeholder Setup Effect Description
-    - Placeholder Setup Effect Command
+  - Human
+  - Psychic
 reminders:
-  - - ❌
-    - "#FFFFFF"
-    - "Placeholder Reminder Name: Placeholder Reminder Description"
-publish: false
+  - - 👻
+    - "#0000FF"
+    - "Medium: Chose this player."
 ---
 > [!infobox]
 > |  |  |
 > | ---- | ---- |
-> | Team | Placeholder Team |
-> | Type | Placeholder Type |
-> | [[Module]] | Placeholder Module |
-> | [[Attributes]] | Placeholder Attribute |
+> | Team | Loyalist |
+> | Type | Agent |
+> | [[Attributes]] | Human, Psychic |
 > 
 >  “Placeholder Flavour”
 
