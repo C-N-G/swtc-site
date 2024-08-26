@@ -1,10 +1,28 @@
 ---
+name: Clairvoyant
 team: Loyalist
 type: Agent
-module: Possessions and Obsessions
-attributes: Human, Psychic
-flavour text: “Open your eyes, and see where you are not.”
+flavour: Open your eyes, and see where you are not.
+ability: |
+  Each night, you must choose a player: you learn their team.
+orderType: role_with_recurring_info
+attributes:
+  - Human
+  - Psychic
+reminders:
+  - - 🔮
+    - "#0000FF"
+    - "Clairvoyant: Chose this player."
 ---
+> [!infobox]
+> |  |  |
+> | ---- | ---- |
+> | Team | Placeholder Team |
+> | Type | Placeholder Type |
+> | [[Attributes]] | Placeholder Attribute |
+> 
+>  “Open your eyes, and see where you are not.”
+
 ## Ability
 Each night, you must choose a [[player]]: you learn their team.
 
@@ -21,3 +39,7 @@ Each night, you must choose a [[player]]: you learn their team.
 - Each night, wake up the Clairvoyant. Tell them to choose a [[player]]. Tell them the team of their chosen [[player]]. Send them back to sleep.
 
 ## Additional Information
+- Placeholder.
+
+## Lore
+- Placeholder Lore.
