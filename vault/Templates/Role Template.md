@@ -1,7 +1,6 @@
 ---
 name: 'Placeholder Name'
-team:
-  - 'Placeholder Team'
+team: 'Placeholder Team'
 type: 'Placeholder Type'
 flavour: 'Placeholder Flavour'
 ability: >
