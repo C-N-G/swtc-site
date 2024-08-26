@@ -1,10 +1,29 @@
 ---
+name: Underachiever
 team: Loyalist
 type: Detrimental
-module: What We Do, We Do for All
-attributes: Human
-flavour text: “Almost.”
+flavour: Almost.
+ability: |
+  You do not know you are the Underachiever. You think you are an Agent role, but you are not.
+attributes:
+  - Human
+setup:
+  - - You think you are an Agent role.
+    - ShowAs Role Agent
+reminders:
+  - - 🙃
+    - "#702963"
+    - "Underachiever: Is the Underachiever."
 ---
+> [!infobox]
+> |  |  |
+> | ---- | ---- |
+> | Team | Loyalist |
+> | Type | Detrimental |
+> | [[Attributes]] | Human |
+> 
+>  “Almost.”
+
 ## Ability
 You do not know you are the Underachiever. You think you are an [[Agent]] [[role]], but you are not.
 
@@ -21,3 +40,6 @@ You do not know you are the Underachiever. You think you are an [[Agent]] [[role
 
 ## Additional Information
 - Placeholder Additional Information.
+
+## Lore
+- Placeholder Lore.
