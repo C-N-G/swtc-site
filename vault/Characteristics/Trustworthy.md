@@ -1,7 +1,16 @@
 ---
-module: What We Do, We Do for All
-flavour text: “Placeholder”
+name: Trustworthy
+flavour: Placeholder Flavour
+ability: |
+  The first time you’re dismissed, you survive.
+reminders:
+  - - 🤝
+    - "#FFFF00"
+    - "Trustworthy: Has used their ability."
 ---
+> [!infobox]
+>  “Placeholder Flavour”
+
 ## Ability
 The first time you’re [[Dismissal|dismissed]], you survive.
 
@@ -23,3 +32,6 @@ Placeholder setup effects. This text here should be filled with the exact text o
 
 ## Additional Information
 - Placeholder Additional Information.
+
+## Lore
+- Placeholder Lore.
