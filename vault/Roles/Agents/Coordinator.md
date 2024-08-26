@@ -1,12 +1,29 @@
 ---
+name: Coordinator
 team: Loyalist
 type: Agent
-module: What We Do, We Do for All
-attributes: Human
-flavour text: “Listen, I know your family just got eaten, but can you please explain why you’re underperforming in all key metrics?”
+flavour: Listen, I know your family just got eaten, but can you please explain why you’re underperforming in all key metrics?
+ability: |
+  You start knowing that 1 of 3 players is a specific Detrimental role or that 0 are in-play.
+orderType: role_with_starting_info
+attributes:
+  - Human
+reminders:
+  - - 🧑‍💼
+    - "#0000FF"
+    - "Coordinator: Learnt this player."
 ---
+> [!infobox]
+> |  |  |
+> | ---- | ---- |
+> | Team | Loyalist |
+> | Type | Agent |
+> | [[Attributes]] | Human |
+> 
+>  “Listen, I know your family just got eaten, but can you please explain why you’re underperforming in all key metrics?”
+
 ## Ability
-You start knowing that 1 of 3 [[Player|players]] is a specific [[Detrimental]] [[Role]] or that 0 are in-play.
+You start knowing that 1 of 3 [[Player|players]] is a specific [[Detrimental]] [[role]] or that 0 are in-play.
 
 ## Examples
 - The Coordinator wakes up on the first night, and learns that John, Jane, or Adam is the [[Underachiever]]. Adam is the [[Underachiever]].
@@ -22,3 +39,7 @@ You start knowing that 1 of 3 [[Player|players]] is a specific [[Detrimental]] [
 - The first night that the Coordinator is in play wake up the Coordinator. Tell them that 1 of 3 [[Player|players]] is a specific [[Detrimental]] [[Role]] or that there are 0 [[Detrimental]] [[Role|roles]] in this game. Send them back to sleep.
 
 ## Additional Information
+- Placeholder Additional Information.
+
+## Lore
+- Placeholder Lore.
