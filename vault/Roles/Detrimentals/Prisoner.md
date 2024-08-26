@@ -15,9 +15,9 @@ appears:
 > [!infobox]
 > |  |  |
 > | ---- | ---- |
-> | Team | Placeholder Team |
-> | Type | Placeholder Type |
-> | [[Attributes]] | Placeholder Attribute |
+> | Team | Loyalist |
+> | Type | Detrimental |
+> | [[Attributes]] | Human |
 > 
 >  “How long will you keep me here? I beg you just let it end!”
 
