@@ -1,10 +1,31 @@
 ---
+name: Accomplice
 team: Subversive
 type: Detrimental
-module: What We Do, We Do for All
-attributes: Human
-flavour text: “My fingerprints? No, you must be mistaken.”
+flavour: My fingerprints? No, you must be mistaken.
+ability: |
+  You do not know you are the Accomplice. You think you are an Agent role, but you are not. All Antagonists know who you are.
+attributes:
+  - Human
+setup:
+  - - You think you are a Loyalist role.
+    - ShowAs Role Loyalist.
+  - - You neighbour the Antagonist.
+    - Neighbour Role Antagonist
+reminders:
+  - - 👣
+    - "#702963"
+    - "Accomplice: Is the Accomplice."
 ---
+> [!infobox]
+> |  |  |
+> | ---- | ---- |
+> | Team | Subversive |
+> | Type | Detrimental |
+> | [[Attributes]] | Human |
+> 
+>  “My fingerprints? No, you must be mistaken.”
+
 ## Ability
 You do not know you are the Accomplice. You think you are an [[Agent]] [[role]], but you are not. All [[Antagonist|Antagonists]] know who you are.
 
@@ -27,3 +48,7 @@ You neighbour an [[Antagonist]].
 - You can provide the Accomplice with any arbitrary information that corresponds to the [[Role]] they believe they have. However, be cautious about game balance; their ability should primarily be [[Detrimental]] to the [[Loyalist]] team.
 
 ## Additional Information
+- Placeholder Additional Information.
+
+## Lore
+- Placeholder Lore.
