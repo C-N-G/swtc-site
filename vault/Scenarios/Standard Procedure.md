@@ -21,13 +21,15 @@ Standard Procedure is designed for new and returning players, containing a littl
 - [[Medium]]
 - [[Warden]]
 
-## [[Detrimental|Detrimentals]] (6)
+## [[Detrimental|Detrimentals]] (8)
 - [[Accomplice]]
 - [[Prisoner]]
 - [[Technician]]
+- [[Test Subject]]
 - [[Turncoat]]
 - [[Underachiever]]
 - [[VIP]]
+- [[Whistleblower]]
 
 ## [[Antagonist|Antagonists]] (1)
 - [[Traitor]]
