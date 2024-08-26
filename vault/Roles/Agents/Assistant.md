@@ -16,8 +16,6 @@ reminders:
   - - '☕'
     - '#0000FF'
     - 'Assistant: This player is malfunctioning.'
-
-publish: false
 ---
 > [!infobox]
 > |  |  |
