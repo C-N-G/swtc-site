@@ -1,25 +1,25 @@
 ---
-name: Placeholder Name
+name: 'Placeholder Name'
 team:
-  - Placeholder Team
-type: Placeholder Type
-flavour: Placeholder Flavour
+  - 'Placeholder Team'
+type: 'Placeholder Type'
+flavour: 'Placeholder Flavour'
 ability: >
-  Placeholder Ability
-orderType: Placeholder orderType
+  'Placeholder Ability'
+orderType: 'Placeholder orderType'
 appears:
-  asType: Placeholder Type
-  asTeam: Placeholder Team
-  for: Placeholder Team
+  asType: 'Placeholder Type'
+  asTeam: 'Placeholder Team'
+  for: 'Placeholder Team'
 attributes: 
-  - Placeholder Attribute
+  - 'Placeholder Attribute'
 setup:
-  - - Placeholder setup Solo Description
-  - - Placeholder Setup Effect Description
-    - Placeholder Setup Effect Command
+  - - 'Placeholder setup Solo Description'
+  - - 'Placeholder Setup Effect Description'
+    - 'Placeholder Setup Effect Command'
 reminders:
-  - - ❌
-    - "#FFFFFF"
+  - - '❌'
+    - '#FFFFFF'
     - 'Placeholder Reminder Name: Placeholder Reminder Description'
 
 publish: false

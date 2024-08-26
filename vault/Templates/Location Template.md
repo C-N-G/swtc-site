@@ -1,17 +1,17 @@
 ---
-name: Placeholder Name
-flavour: Placeholder Flavour
+name: 'Placeholder Name'
+flavour: 'Placeholder Flavour'
 ability: >
-  Placeholder Ability
-orderType: Placeholder orderType
+  'Placeholder Ability'
+orderType: 'Placeholder orderType'
 setup:
-  - - Placeholder Setup Effect Description
-    - Placeholder Setup Effect Command
+  - - 'Placeholder Setup Effect Description'
+    - 'Placeholder Setup Effect Command'
 attributes:
-  - Placeholder Attribute
+  - 'Placeholder Attribute'
 reminders:
-  - - ❌
-    - "#FFFFFF"
+  - - '❌'
+    - '#FFFFFF'
     - 'Placeholder Reminder Name: Placeholder Reminder Description'
 
 publish: false

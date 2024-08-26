@@ -1,6 +1,6 @@
 ---
-name: Placeholder Name
-flavour: Placeholder Flavour
+name: 'Placeholder Name'
+flavour: 'Placeholder Flavour'
 
 publish: false
 ---
