@@ -7,7 +7,6 @@ reminders:
   - - 💩
     - "#FFFF00"
     - "Obnoxious: This player is malfunctioning."
-publish: false
 ---
 > [!infobox]
 >  “Placeholder Flavour”
