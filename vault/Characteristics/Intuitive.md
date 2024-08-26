@@ -1,8 +1,19 @@
 ---
-module: Possessions and Obsessions
-attributes: Psychic
-flavour text: “Placeholder”
+name: Intuitive
+flavour: Placeholder Flavour
+ability: |
+  Each night, you learn who the Narrator thinks you should speak with the most.
+orderType: char_with_recurring_info
+attributes:
+  - Psychic
 ---
+> [!infobox]
+> |  |  |
+> | ---- | ---- |
+> | [[Attributes]] | Psychic |
+> 
+>  “Placeholder Flavour”
+
 ## Ability
 Each night, you learn who the [[Narrator]] thinks you should speak with the most.
 
@@ -24,3 +35,6 @@ Placeholder setup effects. This text here should be filled with the exact text o
 
 ## Additional Information
 - Placeholder Additional Information.
+
+## Lore
+- Placeholder Lore.
