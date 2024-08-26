@@ -6,12 +6,12 @@ flavour: Placeholder Flavour
 ability: |
   Placeholder Ability
 orderType: Placeholder orderType
+attributes:
+  - Placeholder Attribute
 appears:
   asType: Placeholder Type
   asTeam: Placeholder Team
   for: Placeholder Team
-attributes:
-  - Placeholder Attribute
 setup:
   - - Placeholder setup Solo Description
   - - Placeholder Setup Effect Description
