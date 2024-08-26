@@ -1,6 +1,5 @@
 ---
 name: Placeholder Name
-module: Placeholder Module
 flavour: Placeholder Flavour
 ability: >
   Placeholder Ability
@@ -20,7 +19,6 @@ publish: false
 > [!infobox]
 > |  |  |
 > | ---- | ---- |
-> | [[Module]] | Placeholder Module |
 > | [[Attributes]] | Placeholder Attribute |
 > 
 >  “Placeholder Flavour”

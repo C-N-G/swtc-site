@@ -3,7 +3,6 @@ name: Placeholder Name
 team:
   - Placeholder Team
 type: Placeholder Type
-module: Placeholder Module
 flavour: Placeholder Flavour
 ability: >
   Placeholder Ability
@@ -30,7 +29,6 @@ publish: false
 > | ---- | ---- |
 > | Team | Placeholder Team |
 > | Type | Placeholder Type |
-> | [[Module]] | Placeholder Module |
 > | [[Attributes]] | Placeholder Attribute |
 > 
 >  “Placeholder Flavour”
