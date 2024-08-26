@@ -33,7 +33,7 @@ You [[Appearance|appear]] as a [[Subversive]] [[Antagonist]] to all [[Loyalist]]
 - Try to become [[Malfunctioning]], this will allow [[Loyalist]] [[Player|players]] to learn your real team and [[Role]].
 
 ## How to Narrate
-- The Prisoner counts as a [[Subversive]] [[Antagonist]] for all starting effects and abilities. If someone chooses the Prisoner with an ability, then treat the Prisoner as if they were actually a [[Subversive]] [[Antagonist]].
+- The Prisoner counts as a [[Subversive]] [[Antagonist]] for all abilities and setup effects. If someone chooses the Prisoner with an ability, then treat the Prisoner as if they were actually a [[Subversive]] [[Antagonist]].
 
 ## Additional Information
 - Placeholder Additional Information.
