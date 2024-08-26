@@ -2,7 +2,6 @@
 name: Placeholder Name
 team:
   - Placeholder Team
-  - Placeholder Team
 type: Placeholder Type
 module: Placeholder Module
 flavour: Placeholder Flavour

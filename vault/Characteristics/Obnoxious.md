@@ -1,13 +1,9 @@
 ---
-module: Placeholder
-attributes: Placeholder
+module: Body Horror
 flavour text: “Placeholder”
 ---
 ## Ability
-The first person (not yourself) to choose you with an ability becomes [[malfunctioning]].
-
-## Setup Effects
-Placeholder setup effects. This text here should be filled with the exact text of the setup effects.
+The first person (not yourself) to choose you with an ability becomes [[Malfunctioning]].
 
 ## Examples
 - Placeholder Example.
