@@ -1,10 +1,26 @@
 ---
+name: Prisoner
 team: Loyalist
 type: Detrimental
-module: In the Midst of Night
-attributes: Human
-flavour text: “How long will you keep me here? I beg you just let it end!”
+flavour: How long will you keep me here? I beg you just let it end!
+ability: |
+  You appear as a Subversive Antagonist to all Loyalist players, except the Warden.
+attributes:
+  - Human
+appears:
+  asType: Antagonist
+  asTeam: Subversive
+  for: Loyalist
 ---
+> [!infobox]
+> |  |  |
+> | ---- | ---- |
+> | Team | Placeholder Team |
+> | Type | Placeholder Type |
+> | [[Attributes]] | Placeholder Attribute |
+> 
+>  “How long will you keep me here? I beg you just let it end!”
+
 ## Ability
 You [[Appearance|appear]] as a [[Subversive]] [[Antagonist]] to all [[Loyalist]] [[Player|players]], except the [[Warden]].
 
@@ -20,3 +36,7 @@ You [[Appearance|appear]] as a [[Subversive]] [[Antagonist]] to all [[Loyalist]]
 - The Prisoner counts as a [[Subversive]] [[Antagonist]] for all starting effects and abilities. If someone chooses the Prisoner with an ability, then treat the Prisoner as if they were actually a [[Subversive]] [[Antagonist]].
 
 ## Additional Information
+- Placeholder Additional Information.
+
+## Lore
+- Placeholder Lore.
