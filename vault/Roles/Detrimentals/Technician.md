@@ -1,10 +1,26 @@
 ---
+name: Technician
 team: Loyalist
 type: Detrimental
-module: Body Horror
-attributes: Human
-flavour text: “I don’t think you’re aware of how much I do around here.”
+flavour: I don’t think you’re aware of how much I do around here.
+ability: |
+  When you die, 2 players on your team (not yourself) become malfunctioning.
+attributes:
+  - Human
+reminders:
+  - - 🔧
+    - "#702963"
+    - "Technician: This player is malfunctioning."
 ---
+> [!infobox]
+> |  |  |
+> | ---- | ---- |
+> | Team | Loyalist |
+> | Type | Detrimental |
+> | [[Attributes]] | Human |
+> 
+>  “I don’t think you’re aware of how much I do around here.”
+
 ## Ability
 When you die, 2 [[Player|players]] on your team (not yourself) become [[malfunctioning]].
 
@@ -21,3 +37,7 @@ When you die, 2 [[Player|players]] on your team (not yourself) become [[malfunct
 - If the Technician dies, immediately mark 2 [[Player|players]] on their team (not them) as [[Malfunctioning]].
 
 ## Additional Information
+- Placeholder Additional Information.
+
+## Lore
+- Placeholder Lore.
