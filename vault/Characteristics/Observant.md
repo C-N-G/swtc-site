@@ -1,7 +1,17 @@
 ---
-module: What We Do, We Do for All
-flavour text: “Placeholder”
+name: Observant
+flavour: Placeholder Flavour
+ability: |
+  You start knowing how many of your neighbours woke up or will wake up that night due to their ability.
+orderType: char_with_starting_info
+reminders:
+  - - 👓
+    - "#FFFF00"
+    - "Observant: This player woke due to their ability."
 ---
+> [!infobox]
+>  “Placeholder Flavour”
+
 ## Ability
 You start knowing how many of your neighbours woke up or will wake up that night due to their ability.
 
@@ -23,3 +33,6 @@ Placeholder setup effects. This text here should be filled with the exact text o
 
 ## Additional Information
 - Placeholder Additional Information.
+
+## Lore
+- Placeholder Lore.
