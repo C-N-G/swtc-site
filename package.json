@@ -15,6 +15,7 @@
     "@astrojs/check": "^0.8.3",
     "@astrojs/starlight": "^0.25.2",
     "astro": "^4.10.2",
+    "front-matter": "^4.0.2",
     "glob": "^11.0.0",
     "sharp": "^0.32.5",
     "starlight-obsidian": "^0.4.6",
