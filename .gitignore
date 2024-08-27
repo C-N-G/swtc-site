@@ -24,3 +24,5 @@ pnpm-debug.log*
 */.obsidian/plugins
 */.obsidian/workspace.json
 vault-reduced/
+src/content/docs/swtcpedia
+public/swtcpedia
