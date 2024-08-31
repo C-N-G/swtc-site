@@ -1,10 +1,18 @@
 ---
-module: Placeholder
-attributes: Placeholder
-flavour text: “Placeholder”
+name: Obnoxious
+flavour: Placeholder Flavour
+ability: |
+  The first person (not yourself) to choose you with their ability becomes malfunctioning.
+reminders:
+  - - 💩
+    - "#FFFF00"
+    - "Obnoxious: This player is malfunctioning."
 ---
+> [!infobox]
+>  “Placeholder Flavour”
+
 ## Ability
-The first person (not yourself) to choose you with an ability becomes [[malfunctioning]].
+The first person (not yourself) to choose you with their ability becomes [[malfunctioning]].
 
 ## Setup Effects
 Placeholder setup effects. This text here should be filled with the exact text of the setup effects.
@@ -24,3 +32,6 @@ Placeholder setup effects. This text here should be filled with the exact text o
 
 ## Additional Information
 - Placeholder Additional Information.
+
+## Lore
+- Placeholder Lore.

@@ -1,6 +1,6 @@
 import { defineConfig } from 'astro/config';
 import starlight from '@astrojs/starlight';
-import starlightObsidian from 'starlight-obsidian';
+import starlightObsidian, { obsidianSidebarGroup } from 'starlight-obsidian';
 import { groupedItems } from './src/helpers/getGroups';
 
 
@@ -8,7 +8,7 @@ import { groupedItems } from './src/helpers/getGroups';
 export default defineConfig({
 	integrations: [
 		starlight({
-			title: 'Secrets Within the Compound Pedia',
+			title: 'Secrets Within the Compound',
       logo: {
         src: './src/assets/icon-nobg.png',
       },
@@ -32,6 +32,7 @@ export default defineConfig({
 			// 	github: 'https://github.com/withastro/starlight',
 			// },
 			sidebar: [
+        // obsidianSidebarGroup // just for testing
         ...groupedItems
 			],
 		}),
