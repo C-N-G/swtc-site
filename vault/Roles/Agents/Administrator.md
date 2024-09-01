@@ -4,6 +4,7 @@ type: Agent
 module: What We Do, We Do for All
 attributes: Human
 flavour text: “Placeholder”
+publish: false
 ---
 ## Ability
 Each night, you learn the current Cohesion.

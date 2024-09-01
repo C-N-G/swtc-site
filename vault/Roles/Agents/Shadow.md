@@ -4,6 +4,7 @@ type: Agent
 module: Possessions and Obsessions
 attributes: Psychic, Spirit
 flavour text: “Why you, and not me? Why shouldn't it be me? WHY?”
+publish: false
 ---
 ## Ability
 You start knowing an in-play [[Agent]] [[role]]. If you were obsessed that you were this role, you gain their ability when they die.

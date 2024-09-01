@@ -4,6 +4,7 @@ type: Agent
 module: In the Midst of Night
 attributes: Human
 flavour text: “Some of you aren't pulling your weight around here!”
+publish: false
 ---
 ## Ability
 Each night, you learn how many living [[Player|players]] are on your team.

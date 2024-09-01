@@ -2,6 +2,7 @@
 module: In the Midst of Night
 attributes: Placeholder
 flavour text: “Placeholder”
+publish: false
 ---
 ## Ability
 You can not change team.

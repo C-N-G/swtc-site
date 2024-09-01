@@ -4,6 +4,7 @@ type: Agent
 module: What We Do, We Do for All
 attributes: Human
 flavour text: “Don’t blame me, I’m just presenting the data.”
+publish: false
 ---
 ## Ability
 Each night, you learn which team the [[Narrator]] thinks is winning.

@@ -2,6 +2,7 @@
 module: Vox Populi, Vox Diaboli
 attributes: Placeholder
 flavour text: “Placeholder”
+publish: false
 ---
 ## Ability
 If you do not vote, the voting power of both of your living neighbours is increased by +1.

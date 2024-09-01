@@ -4,6 +4,7 @@ type: Agent
 module: Vox Populi, Vox Diaboli
 attributes: Human
 flavour text: “Yes sir, all your papers are in order. Wait, the system says your signature doesn't match.”
+publish: false
 ---
 ## Ability
 Each night, after the first, you learn the team of a [[player]] who was nominated during the previous day.
