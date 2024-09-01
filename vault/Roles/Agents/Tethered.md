@@ -4,6 +4,7 @@ type: Agent
 module: Possessions and Obsessions
 attributes: Psychic, Spirit
 flavour text: “The thread may be pulled, but it shall never unwind.”
+publish: false
 ---
 ## Ability
 You start knowing an [[Agent]] [[player]] (not yourself). If they are alive, you are alive. If they are dead, you are dead. This ability works even if you're dead.

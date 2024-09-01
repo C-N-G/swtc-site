@@ -1,7 +1,7 @@
 ---
 name: Turncoat
 team: Either
-type: Placeholder Type
+type: Detrimental
 flavour: Placeholder Flavour
 ability: |
   Each night, after the first, you change team.

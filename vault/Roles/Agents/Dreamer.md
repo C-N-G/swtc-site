@@ -4,6 +4,7 @@ type: Agent
 module: Possessions and Obsessions
 attributes: Human, Psychic
 flavour text: “Placeholder”
+publish: false
 ---
 ## Ability
 Each night, you learn two statements, only one of which is true.

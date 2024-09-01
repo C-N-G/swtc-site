@@ -11,7 +11,7 @@ attributes:
 setup:
   - - Placeholder setup Solo Description
   - - Placeholder Setup Effect Description
-    - Placeholder Setup Effect Command
+    - AddInvariant 1 Role Prisoner
 reminders:
   - - ⛓️
     - "#0000FF"

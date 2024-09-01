@@ -4,6 +4,7 @@ type: Antagonist
 module: Possessions and Obsessions
 attributes: Psychic, Spirit
 flavour text: “For I am merely a ship to sail, a cup to drink out of, a vessel for a higher power.”
+publish: false
 ---
 ## Ability
 Each night, after the first, you must choose a [[player]]: that [[player]] dies. The first time this game that a Vessel is killed by their own ability, a [[player]] of their choice becomes a Vessel on their team.

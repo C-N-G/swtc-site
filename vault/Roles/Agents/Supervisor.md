@@ -4,6 +4,7 @@ type: Agent
 module: Vox Populi, Vox Diaboli
 attributes: Human
 flavour text: “Placeholder”
+publish: false
 ---
 ## Ability
 All [[Player|players]] know your [[Role]].

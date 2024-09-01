@@ -1,6 +1,7 @@
 ---
 module: In the Midst of Night
 flavour text: “Placeholder”
+publish: false
 ---
 ## Ability
 You [[Appearance|appear]] as a different [[Characteristic]].

@@ -2,6 +2,7 @@
 module: Vox Populi, Vox Diaboli
 attributes: Placeholder
 flavour text: “Placeholder”
+publish: false
 ---
 ## Ability
 For every day that you don't vote, your [[vote power]] increases by +1.

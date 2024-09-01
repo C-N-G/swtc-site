@@ -2,6 +2,7 @@
 module: Vox Populi, Vox Diaboli
 attributes: Placeholder
 flavour text: “Placeholder”
+publish: false
 ---
 ## Ability
 Each night, after the first, you learn a [[player]] who voted on you during the previous day.

@@ -1,5 +1,5 @@
 ---
-name: Placeholder Name
+name: Adaptable
 flavour: Placeholder Flavour
 ability: |
   Once per game, during the night, you may choose any not in-play characteristic, you become that characteristic. If that characteristic is in-play, you don’t change characteristic but think you do.
