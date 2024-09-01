@@ -9,7 +9,7 @@ attributes:
   - Human
 setup:
   - - You think you are a Loyalist role.
-    - ShowAs Role Loyalist.
+    - ShowAs Role Loyalist
   - - You neighbour the Antagonist.
     - Neighbour Role Antagonist
 reminders:
