@@ -2,6 +2,7 @@
 module: Vox Populi, Vox Diaboli
 attributes: Placeholder
 flavour text: “Placeholder”
+publish: false
 ---
 ## Ability
 If you nominate first, your [[vote power]] increases by +1.

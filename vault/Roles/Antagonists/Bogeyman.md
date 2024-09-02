@@ -4,6 +4,7 @@ type: Antagonist
 module: Vox Populi, Vox Diaboli
 attributes: Psychic, Spirit
 flavour text: “Full of fear they’ll get no rest, consumed with terror and distress, and when that fear is all that’s left, here comes the Bogeyman.”
+publish: false
 ---
 ## Ability
 Each night, you must choose a [[player]] (not yourself): if they are [[Dismissal|dismissed]] you win. If no-one was [[Dismissal|dismissed]] during the day, the [[player]] that you chose dies that night.

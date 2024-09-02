@@ -4,6 +4,7 @@ type: Agent
 module: Body Horror
 attributes: Human
 flavour text: “Placeholder”
+publish: false
 ---
 ## Ability
 Each night, after the first, choose a [[player]]: they are not injured.

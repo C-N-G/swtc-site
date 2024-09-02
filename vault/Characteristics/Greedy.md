@@ -2,6 +2,7 @@
 module: Vox Populi, Vox Diaboli
 attributes: Placeholder
 flavour text: “Placeholder”
+publish: false
 ---
 ## Ability
 The [[vote power]] of your votes and all votes against you is increased by +1.

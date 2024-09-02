@@ -4,6 +4,7 @@ type: Agent
 module: Possessions and Obsessions
 attributes: Human, Psychic
 flavour text: “Placeholder”
+publish: false
 ---
 ## Ability
 Each night, the [[Narrator]] asks you a question, you learn if you answered correctly.

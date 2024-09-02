@@ -4,6 +4,7 @@ type: Agent
 module: In the Midst of Night
 attributes: Human
 flavour text: “Placeholder”
+publish: false
 ---
 ## Ability
 Each night, you learn the direction to the closest [[Subversive]] [[player]] from you, if equidistant this information is arbitrary.
