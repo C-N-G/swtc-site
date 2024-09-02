@@ -3,8 +3,7 @@ name: Assistant
 team: Loyalist
 type: Agent
 flavour: Can I get you a coffee, sir?
-ability: |
-  "You start knowing an Agent player (not yourself) and their role. If you die, they become malfunctioning."
+ability: You start knowing an Agent player (not yourself) and their role. If you die, they become malfunctioning.
 orderType: role_with_starting_info
 attributes:
   - Human
