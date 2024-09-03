@@ -4,11 +4,11 @@ team: Loyalist
 type: Detrimental
 flavour: Almost.
 ability: |
-  You do not know you are the Underachiever. You think you are an Agent role, but you are not.
+  You are confused about being an Agent.
 attributes:
   - Human
 setup:
-  - - You think you are an Agent role.
+  - - You are confused about being an Agent.
     - ShowAs Role Agent
 reminders:
   - - 🙃
@@ -25,7 +25,7 @@ reminders:
 >  “Almost.”
 
 ## Ability
-You do not know you are the Underachiever. You think you are an [[Agent]] [[role]], but you are not.
+You are [[Confusion|confused]] about being an Agent.
 
 ## Examples
 - The Underachiever thinks they are the [[Analyst]]. The [[Narrator]] wakes the Underachiever up and treats them as if they are the [[Analyst]] who is [[Malfunctioning]].
