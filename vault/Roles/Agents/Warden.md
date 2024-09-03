@@ -9,8 +9,7 @@ orderType: role_converts_others
 attributes:
   - Human
 setup:
-  - - Placeholder setup Solo Description
-  - - Placeholder Setup Effect Description
+  - - If there is no Prisoner, +1 Prisoner.
     - AddInvariant 1 Role Prisoner
 reminders:
   - - ⛓️
