@@ -32,7 +32,7 @@ You are [[Confusion|confused]] about being an Agent.
 - The Underachiever is [[Malfunctioning]]. There is no difference to their ability. The Underachiever thinks they are the [[Analyst]]. The [[Narrator]] wakes the Underachiever up and treats them as if they are the [[Analyst]] who is [[Malfunctioning]].
 
 ## How to Play
-- If you suspect that you're the Underachiever, then your number one priority should be trying to confirm your [[Role]]. If the [[Role]] you think you are is consistently giving you information you know to be wrong, then perhaps you are the [[Accomplice]].
+- If you suspect that you're the Underachiever, then your number one priority should be trying to confirm your [[Role]]. If the [[Role]] you think you are is consistently giving you information you know to be wrong, then perhaps you are the [[Underachiever]].
 
 ## How to Narrate
 - Treat the Underachiever as if they were the [[Role]] that they believe themselves to be and as if that [[Role]] was [[Malfunctioning]].
