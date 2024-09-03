@@ -2,7 +2,7 @@
 name: Underachiever
 team: Loyalist
 type: Detrimental
-flavour: Almost.
+flavour: Almost there...
 ability: |
   You are confused about being an Agent.
 attributes:
@@ -22,7 +22,7 @@ reminders:
 > | Type | Detrimental |
 > | [[Attributes]] | Human |
 > 
->  “Almost.”
+>  “Almost there...”
 
 ## Ability
 You are [[Confusion|confused]] about being an Agent.
