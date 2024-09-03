@@ -33,7 +33,7 @@ You are [[Confusion|confused]] about being an Agent. All [[Antagonist|Antagonist
 You neighbour an [[Antagonist]].
 
 ## Examples
-- On the first night that the Accomplice is in play they join the [[Subversive]] team. The [[Antagonist]] learns who the Accomplice is. The Accomplice thinks they are the [[Analyst]]. The [[Narrator]] wakes the Accomplice up and treats them as if they are the [[Analyst]] who is [[Malfunctioning]].
+- On the first night that the Accomplice is in play they join the [[Subversive]] team. The [[Antagonist]] learns who the Accomplice is. The Accomplice is confused about being the [[Analyst]]. The [[Narrator]] wakes the Accomplice up and gives them arbitrary information.
 - The Accomplice is [[Malfunctioning]] on the first night they are in play. The [[Antagonist]] does not learn who the Accomplice is. The Accomplice thinks they are the [[Analyst]]. The [[Narrator]] wakes the Accomplice up and treats them as if they are the [[Analyst]] who is [[Malfunctioning]].
 
 ## How to Play
