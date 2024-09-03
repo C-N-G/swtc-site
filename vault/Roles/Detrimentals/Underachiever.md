@@ -28,7 +28,7 @@ reminders:
 You are [[Confusion|confused]] about being an Agent.
 
 ## Examples
-- The Underachiever thinks they are the [[Analyst]]. The [[Narrator]] wakes the Underachiever up and treats them as if they are the [[Analyst]] who is [[Malfunctioning]].
+- The Underachiever is confused about being the [[Analyst]]. The [[Narrator]] wakes the Underachiever up and gives them arbitrary information.
 - The Underachiever is [[Malfunctioning]]. There is no difference to their ability. The Underachiever thinks they are the [[Analyst]]. The [[Narrator]] wakes the Underachiever up and treats them as if they are the [[Analyst]] who is [[Malfunctioning]].
 
 ## How to Play
