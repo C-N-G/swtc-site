@@ -76,7 +76,7 @@ const sortGroupFunc = (a: GroupItem, b: GroupItem) => {
 
 export const groupedItems = [
   {label: "Glossary", collapsed: true, items: groupItems(mdfiles, "glossary")},
-  // {label: "Tutorial", collapsed: true, items: findFolders(mdfiles, "tutorial")}, // need to touch up the tutorial before publishing - isaac
+  {label: "Tutorial", collapsed: true, items: findFolders(mdfiles, "tutorial")},
   // {label: "Modules", collapsed: true, items: groupItems(findModules(mdfiles), "modules")}, // need to update this for the new structure
   {label: "Scenarios", collapsed: true, items: groupItems(mdfiles, "scenarios")},
   {label: "Roles", collapsed: true, items: groupItems(mdfiles, "roles")},
