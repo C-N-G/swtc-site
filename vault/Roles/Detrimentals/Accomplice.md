@@ -4,11 +4,11 @@ team: Subversive
 type: Detrimental
 flavour: My fingerprints? No, you must be mistaken.
 ability: |
-  You do not know you are the Accomplice. You think you are an Agent role, but you are not. All Antagonists know who you are.
+  You are confused about being an Agent.
 attributes:
   - Human
 setup:
-  - - You think you are a Loyalist role.
+  - - You are confused about being an Agent.
     - ShowAs Role Loyalist
   - - You neighbour the Antagonist.
     - Neighbour Role Antagonist
@@ -27,7 +27,7 @@ reminders:
 >  “My fingerprints? No, you must be mistaken.”
 
 ## Ability
-You do not know you are the Accomplice. You think you are an [[Agent]] [[role]], but you are not. All [[Antagonist|Antagonists]] know who you are.
+You are [[Confusion|confused]] about being an Agent. All [[Antagonist|Antagonists]] know who you are.
 
 ## Setup Effects
 You neighbour an [[Antagonist]].
