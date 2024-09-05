@@ -1,11 +1,23 @@
 ---
+name: Analyst
 team: Loyalist
 type: Agent
-module: What We Do, We Do for All
-attributes: Human
-flavour text: “Don’t blame me, I’m just presenting the data.”
-publish: false
+flavour: Don’t blame me, I’m just presenting the data.
+ability: |
+  Each night, you learn which team the Narrator thinks is winning.
+orderType: role_with_recurring_info
+attributes:
+  - Human
 ---
+> [!infobox]
+> |  |  |
+> | ---- | ---- |
+> | Team | Loyalist |
+> | Type | Agent |
+> | [[Attributes]] | Human |
+> 
+>  “Don’t blame me, I’m just presenting the data.”
+
 ## Ability
 Each night, you learn which team the [[Narrator]] thinks is winning.
 
@@ -22,3 +34,5 @@ Each night, you learn which team the [[Narrator]] thinks is winning.
 - Each night, wake up the Analyst. Tell them which team you think is winning. Send them back to sleep. Use your best judgement to ascertain the current state of the game.
 
 ## Additional Information
+
+## Lore
