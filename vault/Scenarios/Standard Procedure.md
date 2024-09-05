@@ -38,9 +38,9 @@ chars:
   - Methodical
   - Meticulous
   - Obnoxious
-  - Observant
   - Perceptive
   - Persevering
+  - Shrewd
   - Trustworthy
 ---
 > [!infobox]
@@ -50,10 +50,10 @@ chars:
 Standard Procedure is designed for new and returning players, containing a little bit of all the basic mechanics that are present in Secrets Within the Compound.
 
 ## [[Agent|Agents]] (12)
+- [[Analyst]]
 - [[Assistant]]
 - [[Bodyguard]]
 - [[Clairvoyant]]
-- [[Cook]]
 - [[Coordinator]]
 - [[Investigator]]
 - [[Psychologist]]
@@ -91,9 +91,9 @@ Standard Procedure is designed for new and returning players, containing a littl
 - [[Methodical]]
 - [[Meticulous]]
 - [[Obnoxious]]
-- [[Observant]]
 - [[Perceptive]]
 - [[Persevering]]
+- [[Shrewd]]
 - [[Trustworthy]]
 
 ## Locations
