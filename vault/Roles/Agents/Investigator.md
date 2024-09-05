@@ -4,7 +4,7 @@ team: Loyalist
 type: Agent
 flavour: Placeholder Flavour
 ability: |
-  Each night, you must choose a player and a role: you learn if they are this role.
+  Each night, you must choose a player and an Agent role: you learn if they are this Agent role.
 orderType: role_with_recurring_info
 attributes:
   - Human
@@ -23,7 +23,7 @@ reminders:
 >  “Placeholder Flavour”
 
 ## Ability
-Each night, you must choose a [[player]] and a [[role]]: you learn if they are this [[role]].
+Each night, you must choose a [[player]] and an Agent [[role]]: you learn if they are this Agent [[role]].
 
 ## Setup Effects
 Placeholder setup effects. This text here should be filled with the exact text of the setup effects.
