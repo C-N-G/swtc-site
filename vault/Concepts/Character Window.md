@@ -1,0 +1,1 @@
+The window in the middle right, below the [[options window]], which displays information and functionality to the current [[player]].

@@ -1,0 +1,1 @@
+The window in the top right leading to extra functionality.

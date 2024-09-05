@@ -1,0 +1,1 @@
+A [[Narrator]]’s view of the interface.
