@@ -4,7 +4,7 @@ team: Loyalist
 type: Agent
 flavour: Open your eyes, and see where you are not.
 ability: |
-  Each night, you must choose a player: you learn their team.
+  Each night, you must choose 3 players: you learn if at least one of them is on the Subversive team.
 orderType: role_with_recurring_info
 attributes:
   - Human
@@ -24,7 +24,7 @@ reminders:
 >  “Open your eyes, and see where you are not.”
 
 ## Ability
-Each night, you must choose a [[player]]: you learn their team.
+Each night, you must choose 3 players: you learn if at least one of them is on the Subversive team.
 
 ## Examples
 - The Clairvoyant chooses John. John is the [[Traitor]]. The Clairvoyant learns that John is on the [[Subversive]] team.
