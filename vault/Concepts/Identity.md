@@ -1,1 +1,0 @@
-The combination of a [[player]]’s [[role]] and [[characteristic]].

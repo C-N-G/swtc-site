@@ -1,1 +1,0 @@
-How many votes a [[player]]'s vote is counted as.

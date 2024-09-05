@@ -1,1 +1,0 @@
-The current game with its accompanying [[Player|players]], narrators, [[Role|roles]], [[Characteristic|characteristics]], and the current state of the game.
