@@ -15,9 +15,9 @@ reminders:
 > [!infobox]
 > |  |  |
 > | ---- | ---- |
-> | Team | Placeholder Team |
-> | Type | Placeholder Type |
-> | [[Attributes]] | Placeholder Attribute |
+> | Team | Loyalist |
+> | Type | Agent |
+> | [[Attributes]] | Human |
 > 
 >  “First, we eat.”
 
