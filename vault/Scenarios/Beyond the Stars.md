@@ -1,5 +1,6 @@
 ---
 flavour: “Placeholder”
+publish: false
 ---
 > [!infobox]
 > “Placeholder.”
