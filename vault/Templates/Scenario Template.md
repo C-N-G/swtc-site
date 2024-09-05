@@ -1,6 +1,8 @@
 ---
 name: Placeholder Name
 flavour: Placeholder Flavour
+roles:
+chars:
 publish: false
 ---
 > [!infobox]
