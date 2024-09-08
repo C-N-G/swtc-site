@@ -7,7 +7,7 @@ publish: false
 # Summary
 
 
-## [[Agent|Agents]]
+## [[Agent|Agents]] (12)
 - [[Clairvoyant]]
 - [[Coordinator]]
 - [[Dreamer]]
@@ -21,16 +21,18 @@ publish: false
 - [[Telepath]]
 - [[Tethered]]
 
-## [[Detrimental|Detrimentals]]
+## [[Detrimental|Detrimentals]] (8)
 - [[Anomaly]]
+- [[Technician]]
 - [[Test Subject]]
 - [[Tulpa]]
+- [[Underachiever]]
 
-## [[Antagonist|Antagonists]]
+## [[Antagonist|Antagonists]] (2)
 - [[Necromancer]]
 - [[Vessel]]
 
-## [[Characteristic|Characteristics]]
+## [[Characteristic|Characteristics]] (18)
 - [[Empathetic]]
 
 

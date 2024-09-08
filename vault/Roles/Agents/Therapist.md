@@ -4,7 +4,7 @@ team: Loyalist
 type: Agent
 flavour: Placeholder Flavour
 ability: |
-  Each night, you learn a player who is malfunctioning, or that no one is malfunctioning.
+  Each night, you learn how many living players are malfunctioning or confused.
 orderType: role_with_recurring_info
 attributes:
   - Human
@@ -23,7 +23,7 @@ reminders:
 >  “Placeholder Flavour”
 
 ## Ability
-Each night, you learn a [[player]] who is [[malfunctioning]], or that no one is [[malfunctioning]].
+Each night, you learn how many living players are [[malfunctioning]] or [[Confusion|confused]].
 
 ## Setup Effects
 Placeholder setup effects. This text here should be filled with the exact text of the setup effects.
