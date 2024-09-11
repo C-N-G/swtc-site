@@ -7,7 +7,7 @@ flavour text: “Don’t worry, the first twenty years are the worst.”
 publish: false
 ---
 ## Ability
-Once per game, during the night, you may choose any not in-play Agent role, you become that role. If that role is in-play, you become [[Confusion|confused]] about being that role.
+Once per game, during the night, you may choose any not in-play [[Agent]] [[role]], you become that [[role]]. If that [[role]] is in-play, you become [[Confusion|confused]] about being that [[role]].
 
 ## Examples
 - Placeholder Example.
