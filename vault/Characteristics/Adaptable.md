@@ -2,7 +2,7 @@
 name: Adaptable
 flavour: Placeholder Flavour
 ability: |
-  Once per game, during the night, you may choose any not in-play characteristic, you become that characteristic. If that characteristic is in-play, you don’t change characteristic but think you do.
+  Once per game, during the night, you may choose any not in-play characteristic, you become that characteristic. If that characteristic is in-play, you become confused about being that characteristic.
 orderType: char_converts_self
 reminders:
   - - 🔄
@@ -13,7 +13,7 @@ reminders:
 >  “Placeholder Flavour”
 
 ## Ability
-Once per game, during the night, you may choose any not in-play [[characteristic]], you become that [[characteristic]]. If that [[characteristic]] is in-play, you don’t change [[characteristic]] but think you do.
+Once per game, during the night, you may choose any not in-play [[characteristic]], you become that [[characteristic]]. If that [[characteristic]] is in-play, you become [[Confusion|confused]] about being that [[characteristic]].
 
 ## Setup Effects
 Placeholder setup effects. This text here should be filled with the exact text of the setup effects.
