@@ -16,7 +16,7 @@ reminders:
 >  “Placeholder Flavour”
 
 ## Ability
-You start knowing a player (not yourself) and their [[role]]. If they die, you become malfunctioning.
+You start knowing a [[player]] (not yourself) and their [[role]]. If they die, you become [[malfunctioning]].
 
 ## Setup Effects
 Placeholder setup effects. This text here should be filled with the exact text of the setup effects.
