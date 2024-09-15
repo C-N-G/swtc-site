@@ -44,7 +44,7 @@ chars:
   - Trustworthy
 ---
 > [!infobox]
-> “Attention, following the death of [[Agent]] Johnson the compound is now on high [[Alert]]. The standard procedures for such a situation are now in effect until the culprit is found and eliminated.”
+> “Attention, following the death of [[Agent]] Johnson the compound is now on high alert. The standard procedures for such a situation are now in effect until the culprit is found and eliminated.”
 
 ## Summary
 Standard Procedure is designed for new and returning players, containing a little bit of all the basic mechanics that are present in Secrets Within the Compound.
