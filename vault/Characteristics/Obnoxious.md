@@ -2,7 +2,7 @@
 name: Obnoxious
 flavour: Placeholder Flavour
 ability: |
-  The first person (not yourself) to choose you with their ability becomes malfunctioning.
+  The first player (not yourself) to choose you with their ability during the night is malfunctioning until the day.
 reminders:
   - - 💩
     - "#FFFF00"
@@ -12,7 +12,7 @@ reminders:
 >  “Placeholder Flavour”
 
 ## Ability
-The first person (not yourself) to choose you with their ability becomes [[malfunctioning]].
+The first [[player]] (not yourself) to choose you with their ability during the night is [[malfunctioning]] until the day.
 
 ## Setup Effects
 Placeholder setup effects. This text here should be filled with the exact text of the setup effects.
