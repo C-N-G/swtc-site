@@ -23,6 +23,7 @@ publish: false
 
 ## [[Detrimental|Detrimentals]] (8)
 - [[Anomaly]]
+- [[Phantom]]
 - [[Technician]]
 - [[Test Subject]]
 - [[Tulpa]]
