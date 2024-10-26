@@ -28,6 +28,7 @@ publish: false
 - [[Test Subject]]
 - [[Tulpa]]
 - [[Underachiever]]
+- [[Wraith]]
 
 ## [[Antagonist|Antagonists]] (2)
 - [[Necromancer]]
