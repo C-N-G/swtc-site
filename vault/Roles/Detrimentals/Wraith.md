@@ -25,7 +25,7 @@ publish: false
 >  “Placeholder Flavour”
 
 ## Ability
-Once per game, during the night, you may choose to kill the player who last nominated you.
+Once per game, during the night, you may choose to kill the player who last nominated you, even if you are dead.
 
 ## Setup Effects
 Placeholder setup effects. This text here should be filled with the exact text of the setup effects.
