@@ -36,7 +36,7 @@ publish: false
 >  “Placeholder Flavour”
 
 ## Ability
-Each night, after the first, you learn if the most recently dismissed player was Human.
+Each night, after the first, you learn if player who most recently died from dismissal was Human.
 
 ## Setup Effects
 Placeholder setup effects. This text here should be filled with the exact text of the setup effects.
