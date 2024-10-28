@@ -23,6 +23,7 @@ publish: false
 
 ## [[Detrimental|Detrimentals]] (8)
 - [[Anomaly]]
+- [[Doppelganger]]
 - [[Phantom]]
 - [[Technician]]
 - [[Test Subject]]
