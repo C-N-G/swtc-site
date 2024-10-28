@@ -4,7 +4,7 @@ team: Subversive
 type: Detrimental
 flavour: Placeholder Flavour
 ability: |
-  Once per game, during the night, you may choose to kill the player who last nominated you.
+  Once per game, during the night, you may choose to kill the player who last nominated you, even if you are dead.
 orderType: role_kills_others
 attributes:
   - Psychic
