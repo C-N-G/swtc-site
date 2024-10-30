@@ -1,11 +1,25 @@
 ---
+name: Dreamer
 team: Loyalist
 type: Agent
-module: Possessions and Obsessions
-attributes: Human, Psychic
-flavour text: “Placeholder”
+flavour: Placeholder Flavour
+ability: |
+  Each night, you learn two statements, only one of which is true.
+orderType: role_with_recurring_info
+attributes:
+  - Human
+  - Psychic
 publish: false
 ---
+> [!infobox]
+> |  |  |
+> | ---- | ---- |
+> | Team | Loyalist |
+> | Type | Agent |
+> | [[Attributes]] | Human, Psychic |
+> 
+>  “Placeholder Flavour”
+
 ## Ability
 Each night, you learn two statements, only one of which is true.
 
@@ -27,3 +41,6 @@ Placeholder setup effects. This text here should be filled with the exact text o
 
 ## Additional Information
 - Placeholder Additional Information.
+
+## Lore
+- Placeholder Lore.
