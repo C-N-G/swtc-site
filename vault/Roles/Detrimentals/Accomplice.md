@@ -9,7 +9,7 @@ attributes:
   - Human
 setup:
   - - You are confused about being an Agent.
-    - ShowAs Role Loyalist
+    - ShowAs Role Agent
   - - You neighbour the Antagonist.
     - Neighbour Role Antagonist
 reminders:
