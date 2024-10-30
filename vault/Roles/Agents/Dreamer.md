@@ -9,7 +9,6 @@ orderType: role_with_recurring_info
 attributes:
   - Human
   - Psychic
-publish: false
 ---
 > [!infobox]
 > |  |  |
