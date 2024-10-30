@@ -1,13 +1,32 @@
 ---
+name: Medic
 team: Loyalist
 type: Agent
-module: Possessions and Obsessions
-attributes: Human
-flavour text: “You can’t save everyone.”
-publish: false
+flavour: Placeholder Flavour
+ability: |
+  Once per game, during the night, if any players have died tonight, you learn who, and may choose one to resurrect.
+orderType: role_resurrects_others
+attributes:
+  - Human
+reminders:
+  - - 🚑
+    - "#0000FF"
+    - "Medic: Chose this player."
 ---
+> [!infobox]
+> |  |  |
+> | ---- | ---- |
+> | Team | Loyalist |
+> | Type | Agent |
+> | [[Attributes]] | Human |
+> 
+>  “Placeholder Flavour”
+
 ## Ability
 Once per game, during the night, if any [[Player|players]] have died tonight, you learn who, and may choose one to resurrect.
+
+## Setup Effects
+Placeholder setup effects. This text here should be filled with the exact text of the setup effects.
 
 ## Examples
 - Placeholder Example.
@@ -24,3 +43,6 @@ Once per game, during the night, if any [[Player|players]] have died tonight, yo
 
 ## Additional Information
 - Placeholder Additional Information.
+
+## Lore
+- Placeholder Lore.
