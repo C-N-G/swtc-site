@@ -16,7 +16,7 @@ reminders:
 > [!infobox]
 > |  |  |
 > | ---- | ---- |
-> | Team | Mortician |
+> | Team | Loyalist |
 > | Type | Agent |
 > | [[Attributes]] | Human |
 > 
