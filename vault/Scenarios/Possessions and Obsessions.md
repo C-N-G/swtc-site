@@ -36,7 +36,24 @@ publish: false
 - [[Vessel]]
 
 ## [[Characteristic|Characteristics]] (18)
+- [[Adaptable]]
+- [[Alert]]
+- [[Approachable]]
+- [[Critical]]
+- [[Cunning]]
+- [[Diligent]]
 - [[Empathetic]]
+- [[Honest]]
+- [[Inquisitive]]
+- [[Intuitive]]
+- [[Knowledgeable]]
+- [[Methodical]]
+- [[Obnoxious]]
+- [[Perceptive]]
+- [[Persevering]]
+- [[Prideful]]
+- [[Secretive]]
+- [[Shrewd]]
 
 
 ## Locations
