@@ -1,11 +1,28 @@
 ---
-team: Placeholder
-type: Placeholder
-module: Possessions and Obsessions
-attributes: Human
-flavour text: “You see, a Spirit is just a coalescence of psychic energy, and with the right equipment, it's possible to... smooth out that discrepancy, so to speak. Does busting these Ghosts apart make me feel good? Not really, it's just my job.”
+name: Exorcist
+team: Loyalist
+type: Agent
+flavour: You see, a Spirit is just a coalescence of psychic energy, and with the right equipment, it's possible to... smooth out that discrepancy, so to speak. Does busting these Ghosts apart make me feel good? Not really, it's just my job.
+ability: |
+  Once per game, during the day, you may publicly choose a player: if they are a Spirit, they die.
+attributes:
+  - Human
+  - Psychic
+reminders:
+  - - ✝️
+    - "#0000FF"
+    - "Exorcist: Chose this player"
 publish: false
 ---
+> [!infobox]
+> |  |  |
+> | ---- | ---- |
+> | Team | Loyalist |
+> | Type | Agent |
+> | [[Attributes]] | Human, Psychic |
+> 
+>  “You see, a Spirit is just a coalescence of psychic energy, and with the right equipment, it's possible to... smooth out that discrepancy, so to speak. Does busting these Ghosts apart make me feel good? Not really, it's just my job.”
+
 ## Ability
 Once per game, during the day, you may publicly choose a [[player]]: if they are a Spirit, they die.
 
@@ -27,3 +44,6 @@ Placeholder setup effects. This text here should be filled with the exact text o
 
 ## Additional Information
 - Placeholder Additional Information.
+
+## Lore
+- Placeholder Lore.
