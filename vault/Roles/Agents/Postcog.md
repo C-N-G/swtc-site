@@ -1,11 +1,24 @@
 ---
+name: Postcog
 team: Loyalist
 type: Agent
-module: Possessions and Obsessions
-attributes: Human, Psychic
-flavour text: “Placeholder”
-publish: false
+flavour: Placeholder Flavour
+ability: |
+  Each night, the Narrator asks you a question, you learn if you answered correctly.
+orderType: role_with_recurring_info
+attributes:
+  - Human
+  - Psychic
 ---
+> [!infobox]
+> |  |  |
+> | ---- | ---- |
+> | Team | Loyalist |
+> | Type | Agent |
+> | [[Attributes]] | Human, Psychic |
+> 
+>  “Placeholder Flavour”
+
 ## Ability
 Each night, the [[Narrator]] asks you a question, you learn if you answered correctly.
 
@@ -27,3 +40,6 @@ Placeholder setup effects. This text here should be filled with the exact text o
 
 ## Additional Information
 - Placeholder Additional Information.
+
+## Lore
+- Placeholder Lore.
