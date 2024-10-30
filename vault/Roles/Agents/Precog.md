@@ -1,13 +1,29 @@
 ---
+name: Precog
 team: Loyalist
 type: Agent
-module: Possessions and Obsessions
-attributes: Human, Psychic
-flavour text: “Placeholder”
-publish: false
+flavour: Placeholder Flavour
+ability: |
+  You start knowing the answer to a single yes or no question of your choice.
+orderType: role_with_starting_info
+attributes:
+  - Human
+  - Psychic
 ---
+> [!infobox]
+> |  |  |
+> | ---- | ---- |
+> | Team | Loyalist |
+> | Type | Agent |
+> | [[Attributes]] | Human, Psychic |
+> 
+>  “Placeholder Flavour”
+
 ## Ability
 You start knowing the answer to a single yes or no question of your choice.
+
+## Setup Effects
+Placeholder setup effects. This text here should be filled with the exact text of the setup effects.
 
 ## Examples
 - Placeholder Example.
@@ -24,3 +40,6 @@ You start knowing the answer to a single yes or no question of your choice.
 
 ## Additional Information
 - Placeholder Additional Information.
+
+## Lore
+- Placeholder Lore.
