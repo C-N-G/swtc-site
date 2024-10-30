@@ -12,7 +12,6 @@ reminders:
   - - ✝️
     - "#0000FF"
     - "Exorcist: Chose this player"
-publish: false
 ---
 > [!infobox]
 > |  |  |
