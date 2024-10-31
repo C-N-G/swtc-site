@@ -5,13 +5,13 @@ type: Detrimental
 flavour: Placeholder Flavour
 ability: |
   You are confused about being an in-play Agent, you are told which player has that role, and they are told you are their role.
+orderType: role_with_starting_info
 attributes:
   - Psychic, Spirit
 reminders:
   - - 🪞
     - "#702963"
-    - "Doppelganger: Is this Player's Doppelganger."
-publish: false
+    - "Doppelganger: Learnt this player."
 ---
 > [!infobox]
 > |  |  |
