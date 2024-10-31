@@ -1,31 +1,19 @@
 ---
-name: Placeholder Name
-module: Placeholder Module
+name: Honest
 flavour: Placeholder Flavour
 ability: |
-  Placeholder Ability
-orderType: Placeholder orderType
-setup:
-  - - Placeholder Setup Effect Description
-    - Placeholder Setup Effect Command
-attributes:
-  - Placeholder Attribute
+  If you are obsessed about being Honest, a different player will learn your characteristic each night, until there is no one left.
+orderType: char_with_recurring_info
 reminders:
-  - - ❌
-    - "#FFFFFF"
-    - "Placeholder Reminder Name: Placeholder Reminder Description"
-publish: false
+  - - 🫂
+    - "#FFFF00"
+    - "Honest: This player learnt who was Honest."
 ---
 > [!infobox]
-> |  |  |
-> | ---- | ---- |
-> | [[Module]] | Placeholder Module |
-> | [[Attributes]] | Placeholder Attribute |
-> 
 >  “Placeholder Flavour”
 
 ## Ability
-If you are obsessed about being Honest, a different player will learn your characteristic.
+If you are [[Obsession|obsessed]] about being Honest, a different [[player]] will learn your [[characteristic]] each night, until there is no one left.
 
 ## Setup Effects
 Placeholder setup effects. This text here should be filled with the exact text of the setup effects.
