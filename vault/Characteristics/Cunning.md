@@ -1,31 +1,18 @@
 ---
-name: Placeholder Name
-module: Placeholder Module
+name: Cunning
 flavour: Placeholder Flavour
 ability: |
-  Placeholder Ability
-orderType: Placeholder orderType
-setup:
-  - - Placeholder Setup Effect Description
-    - Placeholder Setup Effect Command
-attributes:
-  - Placeholder Attribute
+  Once per game, during the night, if you were chosen by another player's ability you may choose another player to redirect it to.
 reminders:
-  - - ❌
-    - "#FFFFFF"
-    - "Placeholder Reminder Name: Placeholder Reminder Description"
-publish: false
+  - - 🦊
+    - "#FFFF00"
+    - "Cunning: Chose this player."
 ---
 > [!infobox]
-> |  |  |
-> | ---- | ---- |
-> | [[Module]] | Placeholder Module |
-> | [[Attributes]] | Placeholder Attribute |
-> 
 >  “Placeholder Flavour”
 
 ## Ability
-Once per game, during the night, if you were chosen by another player's ability you may choose to redirect it to another player.
+Once per game, during the night, if you were chosen by another player's ability you may choose another player to redirect it to.
 
 ## Setup Effects
 Placeholder setup effects. This text here should be filled with the exact text of the setup effects.
