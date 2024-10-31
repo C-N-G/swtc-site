@@ -5,10 +5,12 @@ type: Detrimental
 flavour: Manufactured to fit a purpose. Sleeping, I return, formless again.
 ability: |
   You are confused about being an Agent. If you are obsessed that you are the Tulpa, you will be dismissed immediately.
-orderType: Placeholder orderType
 attributes:
   - Psychic
   - Spirit
+setup:
+  - - You are confused about being an Agent.
+    - ShowAs Role Agent
 reminders:
   - - 💭
     - "#702963"
