@@ -1,27 +1,14 @@
 ---
-name: Placeholder Name
-module: Placeholder Module
+name: Prideful
 flavour: Placeholder Flavour
 ability: |
-  Placeholder Ability
-orderType: Placeholder orderType
-setup:
-  - - Placeholder Setup Effect Description
-    - Placeholder Setup Effect Command
-attributes:
-  - Placeholder Attribute
+  You can't die during the night. If you are obsessed about being Prideful you lose this ability.
 reminders:
-  - - ❌
-    - "#FFFFFF"
-    - "Placeholder Reminder Name: Placeholder Reminder Description"
-publish: false
+  - - 😏
+    - "#FFFF00"
+    - "Prideful: Lost their ability."
 ---
 > [!infobox]
-> |  |  |
-> | ---- | ---- |
-> | [[Module]] | Placeholder Module |
-> | [[Attributes]] | Placeholder Attribute |
-> 
 >  “Placeholder Flavour”
 
 ## Ability
