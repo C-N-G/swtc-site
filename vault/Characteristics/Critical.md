@@ -1,25 +1,15 @@
 ---
-name: Placeholder Name
+name: Critical
 flavour: Placeholder Flavour
 ability: |
-  Placeholder Ability
-orderType: Placeholder orderType
-attributes:
-  - Placeholder Attribute
-setup:
-  - - Placeholder Setup Effect Description
-    - Placeholder Setup Effect Command
+  Once per game, during the night, you may choose a player: you learn if they have an ability that interacts with obsession.
+orderType: role_with_recurring_info
 reminders:
   - - ❌
-    - "#FFFFFF"
-    - "Placeholder Reminder Name: Placeholder Reminder Description"
-publish: false
+    - "#FFFF00"
+    - "Critical: Chose this player."
 ---
 > [!infobox]
-> |  |  |
-> | ---- | ---- |
-> | [[Attributes]] | Placeholder Attribute |
-> 
 >  “Placeholder Flavour”
 
 ## Ability
