@@ -1,11 +1,28 @@
 ---
+name: Tulpa
 team: Loyalist
 type: Detrimental
-module: Possessions and Obsessions
-attributes: Psychic, Spirit
-flavour text: “Manufactured to fit a purpose. Sleeping, I return, formless again.”
-publish: false
+flavour: Manufactured to fit a purpose. Sleeping, I return, formless again.
+ability: |
+  You are confused about being an Agent. If you are obsessed that you are the Tulpa, you will be dismissed immediately.
+orderType: Placeholder orderType
+attributes:
+  - Psychic
+  - Spirit
+reminders:
+  - - 💭
+    - "#702963"
+    - "Tulpa: Was dismissed."
 ---
+> [!infobox]
+> |  |  |
+> | ---- | ---- |
+> | Team | Loyalist |
+> | Type | Detrimental |
+> | [[Attributes]] | Psychic, Spirit |
+> 
+>  “Manufactured to fit a purpose. Sleeping, I return, formless again.”
+
 ## Ability
 You are [[Confusion|confused]] about being an Agent. If you are obsessed that you are the Tulpa, you will be [[Dismissal|dismissed]] immediately.
 
@@ -27,3 +44,6 @@ Placeholder setup effects. This text here should be filled with the exact text o
 
 ## Additional Information
 - Placeholder Additional Information.
+
+## Lore
+- Placeholder Lore.
