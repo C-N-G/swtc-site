@@ -1,11 +1,32 @@
 ---
+name: Vessel
 team: Subversive
 type: Antagonist
-module: Possessions and Obsessions
-attributes: Psychic, Spirit
-flavour text: “For I am merely a ship to sail, a cup to drink out of, a vessel for a higher power.”
-publish: false
+flavour: For I am merely a ship to sail, a cup to drink out of, a vessel for a higher power.
+ability: |
+  Each night, after the first, you must choose a player: that player dies. The first time this game that a Vessel is killed by their own ability, a player of their choice becomes a Vessel on their team.
+orderType: role_converts_others_or_kills
+attributes:
+  - Human
+  - Psychic
+  - Spirit
+reminders:
+  - - 👻
+    - "#FF0000"
+    - "Vessel: Chose this player."
+  - - 👻
+    - "#FF0000"
+    - "Vessel: Became the Vessel."
 ---
+> [!infobox]
+> |  |  |
+> | ---- | ---- |
+> | Team | Subversive |
+> | Type | Antagonist |
+> | [[Attributes]] | Human, Psychic, Spirit |
+> 
+>  “For I am merely a ship to sail, a cup to drink out of, a vessel for a higher power.”
+
 ## Ability
 Each night, after the first, you must choose a [[player]]: that [[player]] dies. The first time this game that a Vessel is killed by their own ability, a [[player]] of their choice becomes a Vessel on their team.
 
@@ -27,3 +48,7 @@ Each night, after the first, you must choose a [[player]]: that [[player]] dies.
 - Each night, after the first, wake up the Vessel. Ask them to choose a [[player]]. If they didn't choose themselves, send them back to sleep. Mark their choice as dead. If they chose themselves, ask them to choose a [[player]] to become a Vessel on their team send them back to sleep. At the start of the following day, announce which [[player]] died at night.
 
 ## Additional Information
+- Placeholder Additional Information.
+
+## Lore
+- Placeholder Lore.
