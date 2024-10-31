@@ -3,12 +3,9 @@ name: Phantom
 team: Loyalist
 type: Detrimental
 flavour: Placeholder Flavour
-ability: |
-  Placeholder Ability
 attributes:
   - Psychic
   - Spirit
-publish: false
 ---
 > [!infobox]
 > |  |  |
