@@ -13,7 +13,6 @@ reminders:
   - - 💀
     - "#702963"
     - "Wraith: Chose this player."
-publish: false
 ---
 > [!infobox]
 > |  |  |
