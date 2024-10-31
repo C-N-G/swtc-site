@@ -9,7 +9,7 @@ orderType: role_kills_self
 attributes:
   - Human
 reminders:
-  - - ⚰️
+  - - 🧪
     - "#702963"
     - "Test Subject: Killed self."
 ---
