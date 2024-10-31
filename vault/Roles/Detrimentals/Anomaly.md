@@ -4,8 +4,8 @@ team: Either
 type: Detrimental
 flavour: weWEwe wereWEREwere alwaysALWAYSalways hereHEREhere.
 ability: |
-  Once per game, during the night, you may choose to kill a living neighbour.
-orderType: role_kills_others
+  Each night, you must choose a player (not yourself): you join their opposing team. You do not know which team you are on.
+orderType: role_converts_self
 attributes:
   - Psychic
   - Spirit
@@ -13,7 +13,6 @@ reminders:
   - - 🌀
     - "#702963"
     - "Anomaly: Chose this player."
-publish: false
 ---
 > [!infobox]
 > |  |  |
@@ -25,7 +24,7 @@ publish: false
 >  “weWEwe wereWEREwere alwaysALWAYSalways hereHEREhere.”
 
 ## Ability
-Once per game, during the night, you may choose to kill a living neighbour.
+Each night, you must choose a player (not yourself): you join their opposing team. You do not know which team you are on.
 
 ## Setup Effects
 Placeholder setup effects. This text here should be filled with the exact text of the setup effects.

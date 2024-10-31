@@ -1,42 +1,29 @@
 ---
-name: Placeholder Name
-team:
-  - Placeholder Team
-  - Placeholder Team
-type: Placeholder Type
-module: Placeholder Module
+name: Mortician
+team: Loyalist
+type: Agent
 flavour: Placeholder Flavour
 ability: |
-  Placeholder Ability
-orderType: Placeholder orderType
-appears:
-  asType: Placeholder Type
-  asTeam: Placeholder Team
-  for: Placeholder Team
+  Each night, after the first, you learn if player who most recently died from dismissal was Human.
+orderType: role_with_late_info
 attributes:
-  - Placeholder Attribute
-setup:
-  - - Placeholder setup Solo Description
-  - - Placeholder Setup Effect Description
-    - Placeholder Setup Effect Command
+  - Human
 reminders:
-  - - ❌
-    - "#FFFFFF"
-    - "Placeholder Reminder Name: Placeholder Reminder Description"
-publish: false
+  - - ⚰️
+    - "#0000FF"
+    - "Mortician: Learnt if this player was Human."
 ---
 > [!infobox]
 > |  |  |
 > | ---- | ---- |
-> | Team | Placeholder Team |
-> | Type | Placeholder Type |
-> | [[Module]] | Placeholder Module |
-> | [[Attributes]] | Placeholder Attribute |
+> | Team | Loyalist |
+> | Type | Agent |
+> | [[Attributes]] | Human |
 > 
 >  “Placeholder Flavour”
 
 ## Ability
-Each night, after the first, you learn if the most recently dismissed player was Human.
+Each night, after the first, you learn if player who most recently died from dismissal was Human.
 
 ## Setup Effects
 Placeholder setup effects. This text here should be filled with the exact text of the setup effects.

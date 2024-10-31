@@ -5,7 +5,7 @@ ability: |
   During the night, once per game, when you’re chosen by a player (not yourself), you learn who they are, even if their ability would kill you.
 reminders:
   - - 🚨
-    - "FFFF00"
+    - "#FFFF00"
     - "Alert: Has used their ability."
 ---
 > [!infobox]

@@ -1,26 +1,23 @@
 ---
-name: Postcog
+name: Phantom
 team: Loyalist
-type: Agent
+type: Detrimental
 flavour: Placeholder Flavour
-ability: |
-  Each night, the Narrator asks you a question, you learn if you answered correctly.
-orderType: role_with_recurring_info
 attributes:
-  - Human
   - Psychic
+  - Spirit
 ---
 > [!infobox]
 > |  |  |
 > | ---- | ---- |
 > | Team | Loyalist |
-> | Type | Agent |
-> | [[Attributes]] | Human, Psychic |
+> | Type | Detrimental |
+> | [[Attributes]] | Psychic, Spirit |
 > 
 >  “Placeholder Flavour”
 
 ## Ability
-Each night, the [[Narrator]] asks you a question, you learn if you answered correctly.
+Any Loyalist ability that targets you has no effect and yields arbitrary information.
 
 ## Setup Effects
 Placeholder setup effects. This text here should be filled with the exact text of the setup effects.

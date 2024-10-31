@@ -1,26 +1,18 @@
 ---
-name: Postcog
-team: Loyalist
-type: Agent
+name: Prideful
 flavour: Placeholder Flavour
 ability: |
-  Each night, the Narrator asks you a question, you learn if you answered correctly.
-orderType: role_with_recurring_info
-attributes:
-  - Human
-  - Psychic
+  You can't die during the night. If you are obsessed about being Prideful you lose this ability.
+reminders:
+  - - 😏
+    - "#FFFF00"
+    - "Prideful: Lost their ability."
 ---
 > [!infobox]
-> |  |  |
-> | ---- | ---- |
-> | Team | Loyalist |
-> | Type | Agent |
-> | [[Attributes]] | Human, Psychic |
-> 
 >  “Placeholder Flavour”
 
 ## Ability
-Each night, the [[Narrator]] asks you a question, you learn if you answered correctly.
+You can't die during the night. If you are obsessed about being Prideful you lose this ability.
 
 ## Setup Effects
 Placeholder setup effects. This text here should be filled with the exact text of the setup effects.

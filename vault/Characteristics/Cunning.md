@@ -1,26 +1,18 @@
 ---
-name: Postcog
-team: Loyalist
-type: Agent
+name: Cunning
 flavour: Placeholder Flavour
 ability: |
-  Each night, the Narrator asks you a question, you learn if you answered correctly.
-orderType: role_with_recurring_info
-attributes:
-  - Human
-  - Psychic
+  Once per game, during the night, if you were chosen by another player's ability you may choose another player to redirect it to.
+reminders:
+  - - 🦊
+    - "#FFFF00"
+    - "Cunning: Chose this player."
 ---
 > [!infobox]
-> |  |  |
-> | ---- | ---- |
-> | Team | Loyalist |
-> | Type | Agent |
-> | [[Attributes]] | Human, Psychic |
-> 
 >  “Placeholder Flavour”
 
 ## Ability
-Each night, the [[Narrator]] asks you a question, you learn if you answered correctly.
+Once per game, during the night, if you were chosen by another player's ability you may choose another player to redirect it to.
 
 ## Setup Effects
 Placeholder setup effects. This text here should be filled with the exact text of the setup effects.

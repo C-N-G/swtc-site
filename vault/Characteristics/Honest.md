@@ -1,26 +1,19 @@
 ---
-name: Postcog
-team: Loyalist
-type: Agent
+name: Honest
 flavour: Placeholder Flavour
 ability: |
-  Each night, the Narrator asks you a question, you learn if you answered correctly.
-orderType: role_with_recurring_info
-attributes:
-  - Human
-  - Psychic
+  If you are obsessed about being Honest, a different player will learn your characteristic each night, until there is no one left.
+orderType: char_with_recurring_info
+reminders:
+  - - 🫂
+    - "#FFFF00"
+    - "Honest: This player learnt who was Honest."
 ---
 > [!infobox]
-> |  |  |
-> | ---- | ---- |
-> | Team | Loyalist |
-> | Type | Agent |
-> | [[Attributes]] | Human, Psychic |
-> 
 >  “Placeholder Flavour”
 
 ## Ability
-Each night, the [[Narrator]] asks you a question, you learn if you answered correctly.
+If you are [[Obsession|obsessed]] about being Honest, a different [[player]] will learn your [[characteristic]] each night, until there is no one left.
 
 ## Setup Effects
 Placeholder setup effects. This text here should be filled with the exact text of the setup effects.

@@ -2,4 +2,4 @@
 aliases:
   - Scenarios
 ---
-A scenario is a list of [[Role|roles]] and [[Characteristic|characteristics]], from one or more [[Module|modules]], that has been compiled for play.
+A Scenario is a collection of [[Role|roles]] and [[Characteristic|characteristics]] that have been designed to be played together. You can create your own Scenario, or play one of the official premade Scenarios!

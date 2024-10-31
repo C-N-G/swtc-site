@@ -1,26 +1,19 @@
 ---
-name: Postcog
-team: Loyalist
-type: Agent
+name: Critical
 flavour: Placeholder Flavour
 ability: |
-  Each night, the Narrator asks you a question, you learn if you answered correctly.
+  Once per game, during the night, you may choose a player: you learn if they have an ability that interacts with obsession.
 orderType: role_with_recurring_info
-attributes:
-  - Human
-  - Psychic
+reminders:
+  - - ❌
+    - "#FFFF00"
+    - "Critical: Chose this player."
 ---
 > [!infobox]
-> |  |  |
-> | ---- | ---- |
-> | Team | Loyalist |
-> | Type | Agent |
-> | [[Attributes]] | Human, Psychic |
-> 
 >  “Placeholder Flavour”
 
 ## Ability
-Each night, the [[Narrator]] asks you a question, you learn if you answered correctly.
+Once per game, during the night, you may choose a player: you learn if they have an ability that interacts with obsession.
 
 ## Setup Effects
 Placeholder setup effects. This text here should be filled with the exact text of the setup effects.
