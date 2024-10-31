@@ -1,6 +1,6 @@
 ---
 name: Anomaly
-team: Either
+team: Loyalist
 type: Detrimental
 flavour: weWEwe wereWEREwere alwaysALWAYSalways hereHEREhere.
 ability: |
