@@ -7,7 +7,11 @@ ability: |
   You are confused about being an in-play Agent, you are told which player has that role, and they are told you are their role.
 orderType: role_with_starting_info
 attributes:
-  - Psychic, Spirit
+  - Psychic
+  - Spirit
+setup:
+  - - You are confused about being an Agent.
+    - ShowAs Role Agent
 reminders:
   - - 🪞
     - "#702963"
