@@ -46,7 +46,7 @@ chars:
 ---
 > [!infobox]
 > “Placeholder flavour.”
-# Summary
+## Summary
 Possessions and Obsessions is designed to focus on the mechanic of [[obsession]]. It is not recommended for beginner [[Player|players]].
 
 ## [[Agent|Agents]] (12)
