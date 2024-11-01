@@ -96,7 +96,3 @@ Possessions and Obsessions is designed to focus on the mechanic of [[obsession]]
 - [[Prideful]]
 - [[Secretive]]
 - [[Shrewd]]
-
-
-## Locations
-- Placeholder Location
