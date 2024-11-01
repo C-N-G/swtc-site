@@ -47,7 +47,7 @@ chars:
 > [!infobox]
 > “Placeholder flavour.”
 # Summary
-Possessions and Obsessions is designed to focus on the mechanic of Obsession. It is not recommended for beginner players.
+Possessions and Obsessions is designed to focus on the mechanic of [[obsession]]. It is not recommended for beginner [[Player|players]].
 
 ## [[Agent|Agents]] (12)
 - [[Clairvoyant]]
