@@ -3,6 +3,8 @@ name: Phantom
 team: Loyalist
 type: Detrimental
 flavour: Placeholder Flavour
+ability: |
+  Any Loyalist ability that targets you has no effect and yields arbitrary information.
 attributes:
   - Psychic
   - Spirit
