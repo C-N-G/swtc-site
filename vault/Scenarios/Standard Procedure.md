@@ -95,9 +95,3 @@ Standard Procedure is designed for new and returning players, containing a littl
 - [[Persevering]]
 - [[Shrewd]]
 - [[Trustworthy]]
-
-## Locations
-- Placeholder Location
-
-## Lore
-- Placeholder Lore.
