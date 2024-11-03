@@ -1,10 +1,14 @@
 ---
-module: In the Midst of Night
-flavour text: “Placeholder”
-publish: false
+name: Secretive
+flavour: Placeholder Flavour
+ability: |
+  You appear as a different characteristic.
 ---
+> [!infobox]
+>  “Placeholder Flavour”
+
 ## Ability
-You [[Appearance|appear]] as a different [[Characteristic]].
+You [[Appearance|appear]] as a different [[characteristic]].
 
 ## Setup Effects
 Placeholder setup effects. This text here should be filled with the exact text of the setup effects.
@@ -24,3 +28,6 @@ Placeholder setup effects. This text here should be filled with the exact text o
 
 ## Additional Information
 - Placeholder Additional Information.
+
+## Lore
+- Placeholder Lore.

@@ -43,6 +43,8 @@
 - A new [[characteristic]] that can tell others their [[characteristic]].
 ##### [[Prideful]]
 - A new [[characteristic]] that can't die during the night, as long as they're not [[Obsession|obsessed]] that they're [[prideful]].
+##### [[Secretive]]
+- A new [[characteristic]] (which some of you may have seen before the changes to the [[Scenario]] system) that appears as a different characteristic to other players.
 ### Changes
 #### [[Role|Roles]]
 ##### [[Test Subject]]
