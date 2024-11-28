@@ -4,7 +4,7 @@ team: Subversive
 type: Antagonist
 flavour: Spirits gather round me, hearken to my call; I chain you to these bones, one, many, or all!
 ability: |
-  Each night, after the first, you may choose a dead player: they join your team.
+  Each night, after the first, you may choose a dead player: they learn they were chosen by the Necromancer and they join your team.
 orderType: role_converts_others
 attributes:
   - Human
@@ -24,7 +24,7 @@ reminders:
 >  “Spirits gather round me, hearken to my call; I chain you to these bones, one, many, or all!”
 
 ## Ability
-Each night, after the first, you may choose a dead [[player]]: they join your team.
+Each night, after the first, you may choose a dead [[player]]: they learn they were chosen by the Necromancer and they join your team.
 
 ## Setup Effects
 Placeholder setup effects. This text here should be filled with the exact text of the setup effects.

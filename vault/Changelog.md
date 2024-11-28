@@ -1,8 +1,20 @@
+## 28/11/2024
+### Changes
+#### [[Scenario|Scenarios]]
+##### [[Possessions and Obsessions]]
+- Removed the Necromancer from [[Possessions and Obsessions]] until the role receives some tweaks.
+#### [[Role|Roles]]
+##### [[Necromancer]]
+- Changed the [[Necromancer]]'s ability so that [[Player|players]] converted by the [[Necromancer]] learn they were chosen.
+#### Rules and Mechanics
+##### [[Confusion]]
+- Altered [[confusion]] slightly to allow for situations where hypothetically [[Player|Players]] can now be [[Confusion|confused]] about things other than just their own [[role]] or [[characteristic]].
+
 ## 31/10/2024
 ### Additions
 #### [[Scenario|Scenarios]]
 ##### [[Possessions and Obsessions]]
-- A new [[scenario]] titled "[[Possessions and Obsessions]]" is now available, featuring new [[Role|roles]] and [[Characteristic|characteristics]], and some old [[Role|roles]] that used to be part of the [[Standard Procedure]] module before the [[Scenario]] changes. It mainly centres around the new mechanic of obsession.
+- A new [[scenario]] titled "[[Possessions and Obsessions]]" is now available, featuring new [[Role|roles]] and [[Characteristic|characteristics]], and some old [[Role|roles]] that used to be part of the [[Standard Procedure]] module before the [[Scenario]] changes. It mainly centres around the new mechanic of [[obsession]].
 #### [[Role|Roles]]
 ##### [[Dreamer]]
 - A new [[Agent]] [[role]] that learns two statements each night. Can you work out which is true?
@@ -44,7 +56,7 @@
 ##### [[Prideful]]
 - A new [[characteristic]] that can't die during the night, as long as they're not [[Obsession|obsessed]] that they're [[prideful]].
 ##### [[Secretive]]
-- A new [[characteristic]] (which some of you may have seen before the changes to the [[Scenario]] system) that appears as a different characteristic to other players.
+- A new [[characteristic]] (which some of you may have seen before the changes to the [[Scenario]] system) that appears as a different [[characteristic]] to other [[Player|players]].
 ### Changes
 #### [[Role|Roles]]
 ##### [[Test Subject]]
