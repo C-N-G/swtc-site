@@ -1,5 +1,8 @@
 ## 28/11/2024
 ### Changes
+#### [[Scenario|Scenarios]]
+##### [[Possessions and Obsessions]]
+- Removed the Necromancer from [[Possessions and Obsessions]] until the role receives some tweaks.
 #### [[Role|Roles]]
 ##### [[Necromancer]]
 - Changed the [[Necromancer]]'s ability so that [[Player|players]] converted by the [[Necromancer]] learn they were chosen.
