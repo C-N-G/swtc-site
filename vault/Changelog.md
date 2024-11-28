@@ -1,3 +1,9 @@
+## 28/11/2024
+### Changes
+#### [[Role|Roles]]
+##### [[Necromancer]]
+- Changed the Necromancer's ability so that players converted by the Necromancer learn they were chosen.
+
 ## 31/10/2024
 ### Additions
 #### [[Scenario|Scenarios]]
