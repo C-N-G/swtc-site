@@ -4,7 +4,7 @@ team: Loyalist
 type: Agent
 flavour: Placeholder Flavour
 ability: |
-  Each night, after the first, you learn if player who most recently died from dismissal was Human.
+  Each night, after the first, you learn if the player who most recently died from dismissal was Human.
 orderType: role_with_late_info
 attributes:
   - Human
@@ -23,7 +23,7 @@ reminders:
 >  “Placeholder Flavour”
 
 ## Ability
-Each night, after the first, you learn if player who most recently died from dismissal was Human.
+Each night, after the first, you learn if the player who most recently died from dismissal was Human.
 
 ## Setup Effects
 Placeholder setup effects. This text here should be filled with the exact text of the setup effects.
