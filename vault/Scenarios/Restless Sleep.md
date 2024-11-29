@@ -8,7 +8,7 @@ publish: false
 ## Summary
 Restless Sleep is a scenario with a single antagonist, the Bogeyman. With no malfunctioning, and the only source of misinformation being the Detrimentals, can the Bogeyman strike fear into the hearts of the Loyalists or will the Agency prevail?
 
-## Agents
+## Agents (12)
 - [[Bureaucrat]]
 - [[Clairvoyant]]
 - [[Coordinator]]
@@ -20,16 +20,16 @@ Restless Sleep is a scenario with a single antagonist, the Bogeyman. With no mal
 - [[Supervisor]]
 - [[Telepath]]
 
-## Detrimentals
+## Detrimentals  (8)
 - [[VIP]]
 - [[Prisoner]]
 - [[Tulpa]]
 - [[Underachiever]]
 
-## Antagonists
+## Antagonists (1)
 - [[Bogeyman]]
 
-## Characteristics
+## Characteristics (18)
 - [[Charitable]]
 - [[Empathetic]]
 - [[Forthright]]
