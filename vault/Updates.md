@@ -1,8 +1,16 @@
+## 29/11/2024
+#### [[Scenario|Scenarios]]
+##### [[The Experiment]]
+- A new [[scenario]] titled "[[The Experiment]]" is now available. It is not really a proper [[scenario]] and is instead a [[scenario]] to test highly WIP features and content. Currently it will be for testing a new [[Antagonist]] added in this update, the [[Bogeyman]]
+#### [[Role|Roles]]
+##### [[Bogeyman]]
+- A new [[Antagonist]] [[role]] that can win if a [[player]] they choose is [[Dismissal|dismissed]].
+
 ## 28/11/2024
 ### Changes
 #### [[Scenario|Scenarios]]
 ##### [[Possessions and Obsessions]]
-- Removed the Necromancer from [[Possessions and Obsessions]] until the role receives some tweaks.
+- Removed the [[Necromancer]] from [[Possessions and Obsessions]] until the [[role]] receives some tweaks.
 #### [[Role|Roles]]
 ##### [[Necromancer]]
 - Changed the [[Necromancer]]'s ability so that [[Player|players]] converted by the [[Necromancer]] learn they were chosen.
