@@ -47,10 +47,3 @@ Placeholder setup effects. This text here should be filled with the exact text o
 
 ## Lore
 - Placeholder Lore.
-
-
-flavour text: “Spirits gather round me, hearken to my call; I chain you to these bones, one, many, or all!”
-publish: false
----
-## Ability
-Each night, after the first, you may choose a dead [[player]]: they join your team.
