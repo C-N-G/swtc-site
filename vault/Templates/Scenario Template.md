@@ -13,6 +13,9 @@ publish: false
 ## Summary
 Placeholder Summary.
 
+## Location
+- Placeholder Location
+
 ## [[Agent|Agents]]
 - Placeholder [[Agent]]
 
@@ -24,9 +27,6 @@ Placeholder Summary.
 
 ## [[Characteristic|Characteristics]]
 - Placeholder [[Characteristic]]
-
-## Locations
-- Placeholder Location
 
 ## Lore
 - Placeholder Lore.
