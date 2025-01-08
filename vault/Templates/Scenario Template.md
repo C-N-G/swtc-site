@@ -1,6 +1,8 @@
 ---
 name: Placeholder Name
 flavour: Placeholder Flavour
+location:
+- Placeholder Location
 roles:
 - Placeholder Role
 chars:
