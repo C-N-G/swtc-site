@@ -48,6 +48,9 @@ chars:
 ## Summary
 Possessions and Obsessions is designed to focus on the mechanic of [[obsession]]. It is not recommended for beginner [[Player|players]].
 
+## Location
+- [[The Catacombs - Compound 3]]
+
 ## [[Agent|Agents]] (12)
 - [[Clairvoyant]]
 - [[Coordinator]]
