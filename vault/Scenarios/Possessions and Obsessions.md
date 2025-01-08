@@ -1,6 +1,8 @@
 ---
 name: Possessions and Obsessions
 flavour: “Placeholder flavour.”
+location:
+  - The Catacombs - Compound 3
 roles:
   - Clairvoyant
   - Coordinator
