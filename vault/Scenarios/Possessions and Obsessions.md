@@ -24,6 +24,7 @@ roles:
   - Tulpa
   - Underachiever
   - Wraith
+  - Necromancer
   - Vessel
 chars: 
   - Adaptable
@@ -77,7 +78,8 @@ Possessions and Obsessions is designed to focus on the mechanic of [[obsession]]
 - [[Underachiever]]
 - [[Wraith]]
 
-## [[Antagonist|Antagonists]] (1)
+## [[Antagonist|Antagonists]] (2)
+- [[Necromancer]]
 - [[Vessel]]
 
 ## [[Characteristic|Characteristics]] (18)
