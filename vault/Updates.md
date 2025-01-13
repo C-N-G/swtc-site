@@ -1,3 +1,20 @@
+## ??/??/????
+### Additions
+#### [[Location|Locations]]
+- The game now includes a "[[Location|locations]]" system that will help to further differentiate the various [[Scenario|scenarios]] and provide interesting and challenging mechanics for all [[Player|players]].
+##### [[The Catacombs - Compound 3]]
+- A new [[location]] that allows dead [[Player|players]] to participate in the [[dismissal]] process as if they were still alive.
+##### [[The Octagon - Compound 8]]
+- A new [[location]] that functions as the default game experience, it provides no unique changes to gameplay mechanics.
+### Changes
+#### [[Scenario|Scenarios]]
+#####  [[Possessions and Obsessions]]
+- Added the [[location]] [[The Catacombs - Compound 3]].
+##### [[Standard Procedure]]
+- Added the [[location]] [[The Octagon - Compound 8]].
+##### [[The Experiment]]
+- Added the [[location]] [[The Catacombs - Compound 3]].
+
 ## 29/11/2024
 #### [[Scenario|Scenarios]]
 ##### [[The Experiment]]
