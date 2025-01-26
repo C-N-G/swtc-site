@@ -6,6 +6,11 @@
 - A new [[location]] that allows dead [[Player|players]] to participate in the [[dismissal]] process as if they were still alive.
 ##### [[The Octagon - Compound 8]]
 - A new [[location]] that functions as the default game experience, it provides no unique changes to gameplay mechanics.
+##### [[The Forum - Compound 12]]
+- A new [[location]] that makes all votes public.
+#### [[Scenario|Scenarios]]
+##### [[Restless Sleep]]
+- A new [[scenario]] titled "[[Restless Sleep]]" is now available, most significantly featuring the [[Bogeyman]] [[antagonist]] and [[The Forum - Compound 12]] [[location]].
 ### Changes
 #### [[Scenario|Scenarios]]
 #####  [[Possessions and Obsessions]]
