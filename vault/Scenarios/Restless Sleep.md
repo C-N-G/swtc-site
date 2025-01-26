@@ -40,4 +40,4 @@ Restless Sleep is a scenario with a single antagonist, the Bogeyman. With no mal
 - [[Trustworthy]]
 
 ## Locations
-- Placeholder Location
+- [[The Forum - Compound 12]]
