@@ -19,14 +19,14 @@ reminders:
 > [!infobox]
 > |  |  |
 > | ---- | ---- |
-> | Team | Loyalist |
-> | Type | Detrimental |
+> | Team | [[Loyalist]] |
+> | [[Type]] | [[Detrimental]] |
 > | [[Attributes]] | Psychic, Spirit |
 > 
 >  “Manufactured to fit a purpose. Sleeping, I return, formless again.”
 
 ## Ability
-You are [[Confusion|confused]] about being an Agent. If you are obsessed that you are the Tulpa, you will be [[Dismissal|dismissed]] immediately.
+You are [[Confusion|confused]] about being an [[Agent]]. If you are [[Obsession|obsessed]] that you are the Tulpa, you will be [[Dismissal|dismissed]] immediately.
 
 ## Setup Effects
 Placeholder setup effects. This text here should be filled with the exact text of the setup effects.
