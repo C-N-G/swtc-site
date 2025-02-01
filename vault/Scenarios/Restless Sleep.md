@@ -8,6 +8,9 @@ publish: false
 ## Summary
 Restless Sleep is a scenario with a single antagonist, the Bogeyman. With no malfunctioning, and the only source of misinformation being the Detrimentals, can the Bogeyman strike fear into the hearts of the Loyalists or will the Agency prevail?
 
+## Locations
+- [[The Forum - Compound 12]]
+
 ## Agents (12)
 - [[Bureaucrat]]
 - [[Clairvoyant]]
@@ -38,6 +41,3 @@ Restless Sleep is a scenario with a single antagonist, the Bogeyman. With no mal
 - [[Punctual]]
 - [[Reflective]]
 - [[Trustworthy]]
-
-## Locations
-- [[The Forum - Compound 12]]
