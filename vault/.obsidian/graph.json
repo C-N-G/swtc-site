@@ -5,8 +5,65 @@
   "showAttachments": false,
   "hideUnresolved": false,
   "showOrphans": true,
-  "collapse-color-groups": true,
-  "colorGroups": [],
+  "collapse-color-groups": false,
+  "colorGroups": [
+    {
+      "query": "path:Glossary  ",
+      "color": {
+        "a": 1,
+        "rgb": 16777215
+      }
+    },
+    {
+      "query": "path:Scenarios  ",
+      "color": {
+        "a": 1,
+        "rgb": 61183
+      }
+    },
+    {
+      "query": "path:Characteristics  ",
+      "color": {
+        "a": 1,
+        "rgb": 16763663
+      }
+    },
+    {
+      "query": "path:Roles/Agents  ",
+      "color": {
+        "a": 1,
+        "rgb": 13311
+      }
+    },
+    {
+      "query": "path:Roles/Antagonists  ",
+      "color": {
+        "a": 1,
+        "rgb": 16711680
+      }
+    },
+    {
+      "query": "path:Roles/Detrimentals  ",
+      "color": {
+        "a": 1,
+        "rgb": 10029518
+      }
+    },
+    {
+      "query": "path:Locations  ",
+      "color": {
+        "a": 1,
+        "rgb": 60238
+      }
+    },
+    {
+      "query": "path:Tutorial  ",
+      "color": {
+        "a": 1,
+        "rgb": 16734464
+      }
+    }
+  ],
   "collapse-display": true,
   "showArrow": false,
   "textFadeMultiplier": 0,
@@ -17,6 +74,6 @@
   "repelStrength": 10,
   "linkStrength": 1,
   "linkDistance": 250,
-  "scale": 1.0000000000000013,
-  "close": true
+  "scale": 0.5087618855792605,
+  "close": false
 }
