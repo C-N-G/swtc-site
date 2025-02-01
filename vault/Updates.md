@@ -1,5 +1,10 @@
 ## ??/??/????
 ### Additions
+#### [[Role|Roles]]
+##### [[Bureaucrat]]
+- A new Agent role that can learn a player's team through nominations.
+##### [[Supervisor]]
+- A new Agent role that is hard confirmed from the start of the game.
 #### [[Location|Locations]]
 - The game now includes a "[[Location|locations]]" system that will help to further differentiate the various [[Scenario|scenarios]] and provide interesting and challenging mechanics for all [[Player|players]].
 ##### [[The Catacombs - Compound 3]]
@@ -10,7 +15,7 @@
 - A new [[location]] that makes all votes public.
 #### [[Scenario|Scenarios]]
 ##### [[Restless Sleep]]
-- A new [[scenario]] titled "[[Restless Sleep]]" is now available, most significantly featuring the [[Bogeyman]] [[antagonist]] and [[The Forum - Compound 12]] [[location]].
+- A new [[scenario]] titled "[[Restless Sleep]]" is now available, most significantly featuring the [[Bogeyman]] [[antagonist]] and [[The Forum - Compound 12]] [[location]], amongst other new content.
 ### Changes
 #### [[Scenario|Scenarios]]
 #####  [[Possessions and Obsessions]]
