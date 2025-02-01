@@ -1,13 +1,29 @@
 ---
+name: Bureaucrat
 team: Loyalist
 type: Agent
-module: Vox Populi, Vox Diaboli
-attributes: Human
-flavour text: “Yes sir, all your papers are in order. Wait, the system says your signature doesn't match.”
-publish: false
+flavour: “Yes sir, all your papers are in order. Wait, the system says your signature doesn't match.”
+ability: |
+  Each night, after the first, you learn the team of a player that you nominated during the previous day.
+orderType: role_with_recurring_info
+attributes:
+  - Human
+reminders:
+  - - 🗳️
+    - "#0000FF"
+    - "Bureaucrat: Nominated this player."
 ---
+> [!infobox]
+> |  |  |
+> | ---- | ---- |
+> | Team | Loyalist |
+> | Type | Agent |
+> | [[Attributes]] | Human |
+> 
+>  “Yes sir, all your papers are in order. Wait, the system says your signature doesn't match.”
+
 ## Ability
-Each night, after the first, you learn the team of a [[player]] who was nominated during the previous day.
+Each night, after the first, you learn the team of a [[player]] that you nominated during the previous day.
 
 ## Setup Effects
 Placeholder setup effects. This text here should be filled with the exact text of the setup effects.
@@ -27,3 +43,6 @@ Placeholder setup effects. This text here should be filled with the exact text o
 
 ## Additional Information
 - Placeholder Additional Information.
+
+## Lore
+- Placeholder Lore.
