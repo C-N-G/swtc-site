@@ -1,13 +1,27 @@
 ---
+name: Supervisor
 team: Loyalist
 type: Agent
-module: Vox Populi, Vox Diaboli
-attributes: Human
-flavour text: “Placeholder”
-publish: false
+flavour: Placeholder Flavour
+ability: |
+  All players know your Role.
+attributes:
+  - Human
 ---
+> [!infobox]
+> |  |  |
+> | ---- | ---- |
+> | Team | Loyalist |
+> | Type | Agent |
+> | [[Attributes]] | Human |
+> 
+>  “Placeholder Flavour”
+
 ## Ability
 All [[Player|players]] know your [[Role]].
+
+## Setup Effects
+Placeholder setup effects. This text here should be filled with the exact text of the setup effects.
 
 ## Examples
 - Placeholder Example.
@@ -24,3 +38,6 @@ All [[Player|players]] know your [[Role]].
 
 ## Additional Information
 - Placeholder Additional Information.
+
+## Lore
+- Placeholder Lore.
