@@ -78,7 +78,7 @@ The Experiment is a scenario designed for testing heavily WIP features and conte
 - [[Wraith]]
 
 ## [[Antagonist|Antagonists]] (1)
-- [[Bogeyman]]
+- [[Phantasmagoria]]
 
 ## [[Characteristic|Characteristics]] (18)
 - [[Adaptable]]
