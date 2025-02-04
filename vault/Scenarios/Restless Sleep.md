@@ -17,6 +17,7 @@ Restless Sleep is a scenario with a single antagonist, the Bogeyman. With no mal
 - [[Coordinator]]
 - [[Dreamer]]
 - [[Investigator]]
+- [[Oathkeeper]]
 - [[Postcog]]
 - [[Precog]]
 - [[Prophet]]
