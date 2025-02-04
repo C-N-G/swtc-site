@@ -3,8 +3,10 @@
 #### [[Role|Roles]]
 ##### [[Bureaucrat]]
 - A new Agent role that can learn a player's team through nominations.
+##### [[Oathkeeper]]
+- A new Agent role that can learn a player's team if they say a phrase publicly.
 ##### [[Prophet]]
-- A new Agent role that can make a prophecy and find out if it was true.
+- A new Agent role that can make a prophecy and will die if it is true.
 ##### [[Supervisor]]
 - A new Agent role that is hard confirmed from the start of the game.
 #### [[Location|Locations]]
