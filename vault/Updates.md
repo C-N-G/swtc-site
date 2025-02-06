@@ -9,6 +9,8 @@
 - A new Agent role that can make a prophecy and will die if it is true.
 ##### [[Supervisor]]
 - A new Agent role that is hard confirmed from the start of the game.
+##### [[Intern]]
+- A new Loyalist Detrimental role that must vote the same way as a player of their choice.
 #### [[Location|Locations]]
 - The game now includes a "[[Location|locations]]" system that will help to further differentiate the various [[Scenario|scenarios]] and provide interesting and challenging mechanics for all [[Player|players]].
 ##### [[The Catacombs - Compound 3]]
