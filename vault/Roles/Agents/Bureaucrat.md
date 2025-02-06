@@ -2,7 +2,7 @@
 name: Bureaucrat
 team: Loyalist
 type: Agent
-flavour: “Yes sir, all your papers are in order. Wait, the system says your signature doesn't match.”
+flavour: “Yes sir, all your papers are in order. Wait... your signature doesn't match.”
 ability: |
   Each night, after the first, you learn the team of a player that was nominated during the previous day.
 orderType: role_with_recurring_info
