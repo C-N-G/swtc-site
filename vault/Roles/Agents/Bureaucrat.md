@@ -20,7 +20,7 @@ reminders:
 > | Type | Agent |
 > | [[Attributes]] | Human |
 > 
->  “Yes sir, all your papers are in order. Wait, the system says your signature doesn't match.”
+>  “Yes sir, all your papers are in order. Wait... your signature doesn't match.”
 
 ## Ability
 Each night, after the first, you learn the team of a [[player]] that was nominated during the previous day.
