@@ -9,6 +9,8 @@
 - A new Agent role that can make a prophecy and will die if it is true.
 ##### [[Supervisor]]
 - A new Agent role that is hard confirmed from the start of the game.
+##### [[Executioner]]
+- A new Loyalist Detrimental role that must vote yes on every nomination for dismissal.
 ##### [[Intern]]
 - A new Loyalist Detrimental role that must vote the same way as a player of their choice.
 #### [[Location|Locations]]
