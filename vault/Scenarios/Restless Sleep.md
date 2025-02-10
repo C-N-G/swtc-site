@@ -26,6 +26,7 @@ Restless Sleep is a scenario with a single antagonist, the Bogeyman. With no mal
 - [[Telepath]]
 
 ## Detrimentals (8)
+- [[Executioner]]
 - [[Intern]]
 - [[VIP]]
 - [[Prisoner]]
