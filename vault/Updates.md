@@ -9,6 +9,8 @@
 - A new Agent role that can make a prophecy and will die if it is true.
 ##### [[Supervisor]]
 - A new Agent role that is hard confirmed from the start of the game.
+##### [[Archivist]]
+- A new Loyalist Detrimental role that gives information to the Antagonist when they die.
 ##### [[Executioner]]
 - A new Loyalist Detrimental role that must vote yes on every nomination for dismissal.
 ##### [[Intern]]
