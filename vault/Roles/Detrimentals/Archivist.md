@@ -16,13 +16,13 @@ reminders:
 > |  |  |
 > | ---- | ---- |
 > | Team | Archivist |
-> | Type | Detrimental |
+> | [[Type]] | [[Detrimental]] |
 > | [[Attributes]] | Human |
 > 
 >  “Placeholder Flavour”
 
 ## Ability
-If you die, the Antagonist learns every player's identity during the night.
+If you die, the [[Antagonist]] learns every [[player]]'s [[identity]] during the night.
 
 ## Setup Effects
 Placeholder setup effects. This text here should be filled with the exact text of the setup effects.
