@@ -2,13 +2,13 @@
 name: Forthright
 flavour: Placeholder Flavour
 ability: |
-  All players know your characteristic.
+  On your first day, your characteristic is announced to all players.
 ---
 > [!infobox]
 >  “Placeholder Flavour”
 
 ## Ability
-All [[Player|players]] know your [[characteristic]].
+On your first day, your characteristic is announced to all players.
 
 ## Setup Effects
 Placeholder setup effects. This text here should be filled with the exact text of the setup effects.
