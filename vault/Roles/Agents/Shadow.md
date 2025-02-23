@@ -4,7 +4,7 @@ team: Loyalist
 type: Agent
 flavour: Why you, and not me? Why shouldn't it be me? WHY?
 ability: |
-  You start knowing an in-play Agent role. If you were obsessed that you were this role, you gain their ability when they die.
+  On your first night, you learn an in-play Agent role. If you were obsessed that you were this role, you gain their ability when they die.
 orderType: role_with_starting_info
 attributes:
   - Psychic
@@ -27,7 +27,7 @@ reminders:
 >  “Why you, and not me? Why shouldn't it be me? WHY?”
 
 ## Ability
-You start knowing an in-play Agent role. If you were obsessed that you were this role, you gain their ability when they die.
+On your first night, you learn an in-play Agent role. If you were obsessed that you were this role, you gain their ability when they die.
 
 ## Setup Effects
 Placeholder setup effects. This text here should be filled with the exact text of the setup effects.

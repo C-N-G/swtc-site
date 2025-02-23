@@ -4,7 +4,7 @@ team: Loyalist
 type: Agent
 flavour: Placeholder Flavour
 ability: |
-  All players know your Role.
+  On your first day, your role is announced to all players.
 attributes:
   - Human
 ---
@@ -18,7 +18,7 @@ attributes:
 >  “Placeholder Flavour”
 
 ## Ability
-All [[Player|players]] know your [[Role]].
+On your first day, your role is announced to all players.
 
 ## Setup Effects
 Placeholder setup effects. This text here should be filled with the exact text of the setup effects.

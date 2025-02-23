@@ -4,7 +4,7 @@ team: Loyalist
 type: Agent
 flavour: The thread may be pulled, but it shall never unwind.
 ability: |
-  You start knowing a Loyalist player (not yourself). If they are alive, you are alive. If they are dead, you are dead. This ability works even if you are dead.
+  On your first night, you learn a Loyalist player (not yourself). If they are alive, you are alive. If they are dead, you are dead. This ability works even if you are dead.
 orderType: role_with_starting_info
 attributes:
   - Psychic
@@ -24,7 +24,7 @@ reminders:
 >  “The thread may be pulled, but it shall never unwind.”
 
 ## Ability
-You start knowing a Loyalist [[player]] (not yourself). If they are alive, you are alive. If they are dead, you are dead. This ability works even if you are dead.
+On your first night, you learn a Loyalist [[player]] (not yourself). If they are alive, you are alive. If they are dead, you are dead. This ability works even if you are dead.
 
 ## Setup Effects
 Placeholder setup effects. This text here should be filled with the exact text of the setup effects.

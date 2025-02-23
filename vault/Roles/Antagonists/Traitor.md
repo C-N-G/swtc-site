@@ -23,7 +23,7 @@ reminders:
 >  “What?! It’s not me!”
 
 ## Ability
-You start knowing 3 not in-play [[Role|roles]]. Each night, after the first, you must choose a [[player]]: that [[player]] dies.
+On your first night, you learn 3 not in-play [[Role|roles]]. Each night, after the first, you must choose a [[player]]: that [[player]] dies.
 
 ## Examples
 - The [[Narrator]] wakes the Traitor up on the first night, and tells them 3 not in-play [[Role|roles]]. Each night, after the first night, the [[Narrator]] wakes the Traitor up to choose a [[player]] to kill.
