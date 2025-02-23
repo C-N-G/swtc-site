@@ -2,7 +2,7 @@
 name: Knowledgeable
 flavour: Placeholder Flavour
 ability: |
-  You start knowing whether a role of your choice is in play or not.
+  On your first night, you learn whether a role of your choice is in play or not.
 orderType: char_with_starting_info
 reminders:
   - - 📖
@@ -13,7 +13,7 @@ reminders:
 >  “Placeholder Flavour”
 
 ## Ability
-You start knowing whether a [[role]] of your choice is in play or not.
+On your first night, you learn whether a [[role]] of your choice is in play or not.
 
 ## Setup Effects
 Placeholder setup effects. This text here should be filled with the exact text of the setup effects.

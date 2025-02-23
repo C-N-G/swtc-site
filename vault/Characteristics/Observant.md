@@ -2,7 +2,7 @@
 name: Observant
 flavour: Placeholder Flavour
 ability: |
-  You start knowing how many of your neighbours woke up or will wake up that night due to their ability.
+  On your first night, you learn how many of your neighbours woke up or will wake up that night due to their ability.
 orderType: char_with_starting_info
 reminders:
   - - 👓
@@ -13,7 +13,7 @@ reminders:
 >  “Placeholder Flavour”
 
 ## Ability
-You start knowing how many of your neighbours woke up or will wake up that night due to their ability.
+On your first night, you learn how many of your neighbours woke up or will wake up that night due to their ability.
 
 ## Setup Effects
 Placeholder setup effects. This text here should be filled with the exact text of the setup effects.
