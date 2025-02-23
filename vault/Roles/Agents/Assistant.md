@@ -3,7 +3,7 @@ name: Assistant
 team: Loyalist
 type: Agent
 flavour: Can I get you a coffee, sir?
-ability: You start knowing an Agent player (not yourself) and their role. If you die, they become malfunctioning.
+ability: On your first night, you learn an Agent player (not yourself) and their role. If you die, they become malfunctioning.
 orderType: role_with_starting_info
 attributes:
   - Human
@@ -25,7 +25,7 @@ reminders:
 >  “Can I get you a coffee, sir?”
 
 ## Ability
-You start knowing an [[Agent]] [[player]] (not yourself) and their [[role]]. If you die, they become [[malfunctioning]].
+On your first night, you learn an [[Agent]] [[player]] (not yourself) and their [[role]]. If you die, they become [[malfunctioning]].
 
 ## Examples
 - The Assistant wakes up on the first night, and learns that John is the [[Analyst]].
