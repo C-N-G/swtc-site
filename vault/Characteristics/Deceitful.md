@@ -4,7 +4,7 @@ flavour text: “Placeholder”
 publish: false
 ---
 ## Ability
-You start knowing 2 not in-play [[Characteristic|characteristics]].
+On your first night, you learn 2 not in-play [[Characteristic|characteristics]].
 
 ## Setup Effects
 Placeholder setup effects. This text here should be filled with the exact text of the setup effects.
