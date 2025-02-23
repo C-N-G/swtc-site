@@ -4,7 +4,7 @@ team: Loyalist
 type: Agent
 flavour: Listen, I know your family just got eaten, but can you please explain why you’re underperforming in all key metrics?
 ability: |
-  You start knowing that 1 of 3 players is a specific Detrimental role or that 0 are in-play.
+  On your first night, you learn that 1 of 3 players is a specific Detrimental role or that 0 are in-play.
 orderType: role_with_starting_info
 attributes:
   - Human
@@ -23,7 +23,7 @@ reminders:
 >  “Listen, I know your family just got eaten, but can you please explain why you’re underperforming in all key metrics?”
 
 ## Ability
-You start knowing that 1 of 3 [[Player|players]] is a specific [[Detrimental]] [[role]] or that 0 are in-play.
+On your first night, you learn that 1 of 3 [[Player|players]] is a specific [[Detrimental]] [[role]] or that 0 are in-play.
 
 ## Examples
 - The Coordinator wakes up on the first night, and learns that John, Jane, or Adam is the [[Underachiever]]. Adam is the [[Underachiever]].
