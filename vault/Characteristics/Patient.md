@@ -1,9 +1,12 @@
 ---
-module: Vox Populi, Vox Diaboli
-attributes: Placeholder
-flavour text: “Placeholder”
-publish: false
+name: Patient
+flavour: Placeholder Flavour
+ability: |
+  For every day that you don't vote, your vote power increases by +1.
 ---
+> [!infobox]
+>  “Placeholder Flavour”
+
 ## Ability
 For every day that you don't vote, your [[vote power]] increases by +1.
 
@@ -25,3 +28,6 @@ Placeholder setup effects. This text here should be filled with the exact text o
 
 ## Additional Information
 - Placeholder Additional Information.
+
+## Lore
+- Placeholder Lore.
