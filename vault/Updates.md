@@ -27,6 +27,8 @@
 ##### [[Restless Sleep]]
 - A new [[scenario]] titled "[[Restless Sleep]]" is now available, most significantly featuring the [[Bogeyman]] [[antagonist]] and [[The Forum - Compound 12]] [[location]], amongst other new content.
 ### Changes
+#### Mechanics & Rules
+- Changed all abilities that used the phrase "You start knowing", or similar, to "On your first night, you learn X" to clarify the intended design.
 #### [[Scenario|Scenarios]]
 #####  [[Possessions and Obsessions]]
 - Added the [[location]] [[The Catacombs - Compound 3]].
