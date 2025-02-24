@@ -4,7 +4,7 @@ team: Subversive
 type: Detrimental
 flavour: My fingerprints? No, you must be mistaken.
 ability: |
-  You are confused about being an Agent.
+  You are confused about being an Agent. On your first night, all Antagonists learn who you are.
 attributes:
   - Human
 setup:
@@ -27,7 +27,7 @@ reminders:
 >  “My fingerprints? No, you must be mistaken.”
 
 ## Ability
-You are [[Confusion|confused]] about being an Agent. All [[Antagonist|Antagonists]] know who you are.
+You are [[Confusion|confused]] about being an Agent. On your first night, all [[Antagonist|Antagonists]] learn who you are.
 
 ## Setup Effects
 You neighbour an [[Antagonist]].
