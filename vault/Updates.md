@@ -1,5 +1,16 @@
 ## ??/??/????
 ### Additions
+#### [[Scenario|Scenarios]]
+##### [[Restless Sleep]]
+- A new [[scenario]] titled "[[Restless Sleep]]" is now available, most significantly featuring the [[Bogeyman]] [[antagonist]] and [[The Forum - Compound 12]] [[location]], amongst other new content.
+#### [[Location|Locations]]
+- The game now includes a "[[Location|locations]]" system that will help to further differentiate the various [[Scenario|scenarios]] and provide interesting and challenging mechanics for all [[Player|players]].
+##### [[The Catacombs - Compound 3]]
+- A new [[location]] that allows dead [[Player|players]] to participate in the [[dismissal]] process as if they were still alive.
+##### [[The Octagon - Compound 8]]
+- A new [[location]] that functions as the default game experience, it provides no unique changes to gameplay mechanics.
+##### [[The Forum - Compound 12]]
+- A new [[location]] that makes all votes public.
 #### [[Role|Roles]]
 ##### [[Bureaucrat]]
 - A new Agent role that can learn a player's team through nominations.
@@ -15,17 +26,6 @@
 - A new Loyalist Detrimental role that must vote yes on every nomination for dismissal.
 ##### [[Intern]]
 - A new Loyalist Detrimental role that must vote the same way as a player of their choice.
-#### [[Location|Locations]]
-- The game now includes a "[[Location|locations]]" system that will help to further differentiate the various [[Scenario|scenarios]] and provide interesting and challenging mechanics for all [[Player|players]].
-##### [[The Catacombs - Compound 3]]
-- A new [[location]] that allows dead [[Player|players]] to participate in the [[dismissal]] process as if they were still alive.
-##### [[The Octagon - Compound 8]]
-- A new [[location]] that functions as the default game experience, it provides no unique changes to gameplay mechanics.
-##### [[The Forum - Compound 12]]
-- A new [[location]] that makes all votes public.
-#### [[Scenario|Scenarios]]
-##### [[Restless Sleep]]
-- A new [[scenario]] titled "[[Restless Sleep]]" is now available, most significantly featuring the [[Bogeyman]] [[antagonist]] and [[The Forum - Compound 12]] [[location]], amongst other new content.
 ### Changes
 #### Mechanics & Rules
 - Changed all abilities that used the phrase "You start knowing", or similar, to "On your first night, you learn X" to clarify the intended design. Examples include [[Assistant]], and [[Supervisor]].
