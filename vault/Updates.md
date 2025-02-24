@@ -26,6 +26,9 @@
 - A new Loyalist Detrimental role that must vote yes on every nomination for dismissal.
 ##### [[Intern]]
 - A new Loyalist Detrimental role that must vote the same way as a player of their choice.
+#### [[Characteristic|Characteristics]]
+##### [[Reflective]]
+- A new Characteristic that can learn the team of players who vote on them for dismissal.
 ### Changes
 #### Mechanics & Rules
 - Changed all abilities that used the phrase "You start knowing", or similar, to "On your first night, you learn X" to clarify the intended design. Examples include [[Assistant]], and [[Supervisor]].
