@@ -27,8 +27,10 @@
 ##### [[Intern]]
 - A new Loyalist Detrimental role that must vote the same way as a player of their choice.
 #### [[Characteristic|Characteristics]]
+##### [[Greedy]]
+- A new characteristic that has increased vote power but also gives increased vote power on votes against them.
 ##### [[Reflective]]
-- A new Characteristic that can learn the team of players who vote on them for dismissal.
+- A new characteristic that can learn the team of players who vote on them for dismissal.
 ### Changes
 #### Mechanics & Rules
 - Changed all abilities that used the phrase "You start knowing", or similar, to "On your first night, you learn X" to clarify the intended design. Examples include [[Assistant]], and [[Supervisor]].
