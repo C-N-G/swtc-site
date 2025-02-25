@@ -7,7 +7,7 @@ orderType: char_with_recurring_info
 reminders:
   - - ❓
     - "#FFFF00"
-    - "Inquisitive: Learnt this player."
+    - "Inquisitive: Learnt this player's role."
 ---
 > [!infobox]
 >  “Placeholder Flavour”
