@@ -7,7 +7,7 @@ orderType: char_with_starting_info
 reminders:
   - - 📖
     - "#FFFF00"
-    - "Knowledgeable: Learnt that this role is in play."
+    - "Knowledgeable: Learnt this player's role is in play."
 ---
 > [!infobox]
 >  “Placeholder Flavour”
