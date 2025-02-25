@@ -7,7 +7,7 @@ orderType: char_with_recurring_info
 reminders:
   - - 📋
     - "#FFFF00"
-    - "Methodical: Learnt this player's characteristic."
+    - "Methodical: Learnt this player's characteristic is in play."
 ---
 > [!infobox]
 >  “Placeholder Flavour”
