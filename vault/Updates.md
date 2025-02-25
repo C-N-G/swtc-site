@@ -27,6 +27,8 @@
 ##### [[Intern]]
 - A new Loyalist Detrimental role that must vote the same way as a player of their choice.
 #### [[Characteristic|Characteristics]]
+##### [[Charitable]]
+- A new characteristic that increases the vote power of their living neighbours if they don't vote.
 ##### [[Greedy]]
 - A new characteristic that has increased vote power but also gives increased vote power on votes against them.
 ##### [[Patient]]
