@@ -11,7 +11,7 @@ attributes:
 reminders:
   - - 📦
     - "#0000FF"
-    - "Quartermaster: Learnt this player's role was in-play."
+    - "Quartermaster: Learnt this player's role was in play."
 ---
 > [!infobox]
 > |  |  |
