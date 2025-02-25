@@ -6,6 +6,10 @@ ability: |
 orderType: char_with_recurring_info
 attributes:
   - Psychic
+reminders:
+  - - 🔮
+    - "#FFFF00"
+    - "Intuitive: Learnt this player."
 ---
 > [!infobox]
 > |  |  |
