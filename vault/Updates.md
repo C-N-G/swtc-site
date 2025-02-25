@@ -33,6 +33,8 @@
 - A new characteristic that learns in play roles and characteristics.
 ##### [[Greedy]]
 - A new characteristic that has increased vote power but also gives increased vote power on votes against them.
+##### [[Optimistic]]
+- A new characteristic that allows their team to have one more day if they have lost.
 ##### [[Patient]]
 - A new characteristic that gains increased vote power for every day that they don't vote.
 ##### [[Punctual]]
