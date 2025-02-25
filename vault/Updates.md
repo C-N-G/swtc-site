@@ -47,6 +47,9 @@
 - Added the [[location]] [[The Octagon - Compound 8]].
 ##### [[The Experiment]]
 - Added the [[location]] [[The Catacombs - Compound 3]].
+#### [[Role|Roles]]
+##### Intuitive
+- Added a reminder for this characteristic.
 
 ## 29/11/2024
 #### [[Scenario|Scenarios]]
