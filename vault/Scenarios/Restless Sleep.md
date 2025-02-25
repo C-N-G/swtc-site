@@ -43,6 +43,7 @@ Restless Sleep is a scenario with a single antagonist, the Bogeyman. With no mal
 - [[Cunning]]
 - [[Empathetic]]
 - [[Forthright]]
+- [[Genius]]
 - [[Greedy]]
 - [[Patient]]
 - [[Punctual]]
