@@ -29,6 +29,8 @@
 #### [[Characteristic|Characteristics]]
 ##### [[Charitable]]
 - A new characteristic that increases the vote power of their living neighbours if they don't vote.
+##### [[Genius]]
+- A new characteristic that learns in play roles and characteristics.
 ##### [[Greedy]]
 - A new characteristic that has increased vote power but also gives increased vote power on votes against them.
 ##### [[Patient]]
