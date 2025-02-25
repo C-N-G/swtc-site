@@ -1,9 +1,12 @@
 ---
-module: Vox Populi, Vox Diaboli
-attributes: Placeholder
-flavour text: “Placeholder”
-publish: false
+name: Charitable
+flavour: Placeholder Flavour
+ability: |
+  If you do not vote, the voting power of both of your living neighbours is increased by +1.
 ---
+> [!infobox]
+>  “Placeholder Flavour”
+
 ## Ability
 If you do not vote, the voting power of both of your living neighbours is increased by +1.
 
@@ -25,3 +28,6 @@ Placeholder setup effects. This text here should be filled with the exact text o
 
 ## Additional Information
 - Placeholder Additional Information.
+
+## Lore
+- Placeholder Lore.
