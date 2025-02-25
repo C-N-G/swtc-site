@@ -1,14 +1,15 @@
 ---
 name: Secretive
 flavour: Placeholder Flavour
+orderType: char_converts_self
 ability: |
-  You appear as a different characteristic.
+  On your first night, you must a choose different characteristic to appear to other players as.
 ---
 > [!infobox]
 >  “Placeholder Flavour”
 
 ## Ability
-You [[Appearance|appear]] as a different [[characteristic]].
+On your first night, you must choose a different [[characteristic]] to [[Appearance|appear]] to other [[Player|players]] as.
 
 ## Setup Effects
 Placeholder setup effects. This text here should be filled with the exact text of the setup effects.
