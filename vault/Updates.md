@@ -43,7 +43,7 @@
 - A new characteristic that can learn the team of players who vote on them for dismissal.
 ### Changes
 #### Mechanics & Rules
-- Changed all abilities that used the phrase "You start knowing", or similar, to "On your first night, you learn X" to clarify the intended design. Examples include [[Assistant]], and [[Supervisor]].
+- Reworded all abilities that used the phrase "You start knowing", or similar, to "On your first night, you learn X" to clarify the intended design. Examples include [[Assistant]], and [[Supervisor]].
 #### [[Scenario|Scenarios]]
 #####  [[Possessions and Obsessions]]
 - Added the [[location]] [[The Catacombs - Compound 3]].
@@ -51,9 +51,13 @@
 - Added the [[location]] [[The Octagon - Compound 8]].
 ##### [[The Experiment]]
 - Added the [[location]] [[The Catacombs - Compound 3]].
-#### [[Role|Roles]]
-##### Intuitive
+#### [[Characteristic|Characteristics]]
+##### [[Intuitive]]
 - Added a reminder for this characteristic.
+#####  [[Secretive]]
+- Secretive changed to give the secretive player more control over their ability.
+- Previous Ability — You appear as a different characteristic.
+- New Ability — On your first night, you must a choose different characteristic to appear to other players as.
 
 ## 29/11/2024
 #### [[Scenario|Scenarios]]
