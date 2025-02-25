@@ -1,11 +1,14 @@
 ---
-module: Vox Populi, Vox Diaboli
-attributes: Placeholder
-flavour text: “Placeholder”
-publish: false
+name: Punctual
+flavour: Placeholder Flavour
+ability: |
+  Each day, if you nominate first, your vote power increases by +1 for that nomination.
 ---
+> [!infobox]
+>  “Placeholder Flavour”
+
 ## Ability
-If you nominate first, your [[vote power]] increases by +1.
+Each day, if you nominate first, your [[vote power]] increases by +1 for that nomination.
 
 ## Setup Effects
 Placeholder setup effects. This text here should be filled with the exact text of the setup effects.
@@ -25,3 +28,6 @@ Placeholder setup effects. This text here should be filled with the exact text o
 
 ## Additional Information
 - Placeholder Additional Information.
+
+## Lore
+- Placeholder Lore.
