@@ -33,6 +33,8 @@
 - A new characteristic that has increased vote power but also gives increased vote power on votes against them.
 ##### [[Patient]]
 - A new characteristic that gains increased vote power for every day that they don't vote.
+##### [[Punctual]]
+- A new Characteristic that gains increased vote power if they nominate first each day.
 ##### [[Reflective]]
 - A new characteristic that can learn the team of players who vote on them for dismissal.
 ### Changes
