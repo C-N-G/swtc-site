@@ -42,7 +42,9 @@
 ##### [[Patient]]
 - A new characteristic that gains increased vote power for every day that they don't vote.
 ##### [[Punctual]]
-- A new Characteristic that gains increased vote power if they nominate first each day.
+- A new characteristic that gains increased vote power if they nominate first each day.
+##### [[Reckless]]
+- A new characteristic that can immediately dismiss players of their own team.
 ##### [[Reflective]]
 - A new characteristic that can learn the team of players who vote on them for dismissal.
 ### Changes
