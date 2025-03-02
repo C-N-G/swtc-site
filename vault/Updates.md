@@ -56,7 +56,7 @@
 #### [[Characteristic|Characteristics]]
 ##### [[Intuitive]]
 - Added a reminder for this characteristic.
-#####  [[Secretive]]
+#####  [[Deceitful]]
 - Secretive changed to give the secretive player more control over their ability.
 - Previous Ability — You appear as a different characteristic.
 - New Ability — On your first night, you must a choose different characteristic to appear to other players as.
@@ -126,7 +126,7 @@
 - A new [[characteristic]] that can tell others their [[characteristic]].
 ##### [[Prideful]]
 - A new [[characteristic]] that can't die during the night, as long as they're not [[Obsession|obsessed]] that they're [[prideful]].
-##### [[Secretive]]
+##### [[Deceitful]]
 - A new [[characteristic]] (which some of you may have seen before the changes to the [[Scenario]] system) that appears as a different [[characteristic]] to other [[Player|players]].
 ### Changes
 #### [[Role|Roles]]

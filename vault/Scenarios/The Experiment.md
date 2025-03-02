@@ -97,5 +97,5 @@ The Experiment is a scenario designed for testing heavily WIP features and conte
 - [[Perceptive]]
 - [[Persevering]]
 - [[Prideful]]
-- [[Secretive]]
+- [[Deceitful]]
 - [[Shrewd]]

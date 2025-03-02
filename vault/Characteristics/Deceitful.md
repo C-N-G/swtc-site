@@ -1,10 +1,15 @@
 ---
-module: What We Do, We Do for All
-flavour text: “Placeholder”
-publish: false
+name: Deceitful
+flavour: Placeholder Flavour
+orderType: char_converts_self
+ability: |
+  On your first night, you must a choose different characteristic to appear to other players as.
 ---
+> [!infobox]
+>  “Placeholder Flavour”
+
 ## Ability
-On your first night, you learn 2 not in-play [[Characteristic|characteristics]].
+On your first night, you must choose a different [[characteristic]] to [[Appearance|appear]] to other [[Player|players]] as.
 
 ## Setup Effects
 Placeholder setup effects. This text here should be filled with the exact text of the setup effects.
@@ -24,3 +29,6 @@ Placeholder setup effects. This text here should be filled with the exact text o
 
 ## Additional Information
 - Placeholder Additional Information.
+
+## Lore
+- Placeholder Lore.
