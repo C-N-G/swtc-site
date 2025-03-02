@@ -9,10 +9,6 @@ reminders:
     - "Manipulative: Has used their ability."
 ---
 > [!infobox]
-> |  |  |
-> | ---- | ---- |
-> | [[Attributes]] | Placeholder Attribute |
-> 
 >  “Placeholder Flavour”
 
 ## Ability
