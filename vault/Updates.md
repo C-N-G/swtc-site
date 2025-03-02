@@ -47,6 +47,8 @@
 - A new characteristic that can immediately dismiss players of their own team.
 ##### [[Reflective]]
 - A new characteristic that can learn the team of players who vote on them for dismissal.
+##### [[Vigilant]]
+- A new characteristic that learns how many of their neighbours were chosen by other players each night.
 ### Changes
 #### Mechanics & Rules
 - Reworded all abilities that used the phrase "You start knowing", or similar, to "On your first night, you learn X" to clarify the intended design. Examples include [[Assistant]], and [[Supervisor]].
