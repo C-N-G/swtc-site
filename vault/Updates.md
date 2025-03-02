@@ -29,6 +29,8 @@
 #### [[Characteristic|Characteristics]]
 ##### [[Charitable]]
 - A new characteristic that increases the vote power of their living neighbours if they don't vote.
+##### [[Defiant]]
+- A new characteristic that can cause abilities targeting them to have no effect.
 ##### [[Genius]]
 - A new characteristic that learns in play roles and characteristics.
 ##### [[Greedy]]
