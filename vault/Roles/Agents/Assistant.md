@@ -28,9 +28,9 @@ reminders:
 On your first night, you learn an [[Agent]] [[player]] (not yourself) and their [[role]]. If you die, they become [[malfunctioning]].
 
 ## Examples
-- The Assistant wakes up on the first night, and learns that John is the [[Analyst]].
-- The Assistant wakes up on the first night, and learns that John is the [[Analyst]]. Later in the game, the [[Assistant]] dies, causing John to now be [[malfunctioning]]. John wakes in the night to receive information from his [[Analyst]] ability The [[Narrator]] gives John arbitrary information because he is [[malfunctioning]].
-- The Assistant is [[malfunctioning]]. The Assistant wakes up on the first night. John is the [[Analyst]], but the Assistant incorrectly learns that John is the [[Bodyguard]]. Later in the game, the Assistant dies. John does not become [[malfunctioning]] because the Assistant is still [[malfunctioning]].
+- The Assistant wakes up on their first night, and learns that John is the [[Analyst]].
+- The Assistant wakes up on their first night, and learns that John is the [[Analyst]]. Later in the game, the [[Assistant]] dies, causing John to now be [[malfunctioning]]. John wakes in the night to receive information from his [[Analyst]] ability The [[Narrator]] gives John arbitrary information because he is [[malfunctioning]].
+- The Assistant is [[malfunctioning]]. The Assistant wakes up on their first night. John is the [[Analyst]], but the Assistant incorrectly learns that John is the [[Bodyguard]]. Later in the game, the Assistant dies. John does not become [[malfunctioning]] because the Assistant was [[malfunctioning]] when they died.
 
 ## How to Play
 - As the Assistant you know one [[player]] who, besides [[malfunctioning]] or appearing shenanigans, is confirmed to be an [[Agent]]. Telling as many [[Player|players]] this as possible is a great way to let other [[Loyalist|Loyalists]] know they can trust this [[player]].
