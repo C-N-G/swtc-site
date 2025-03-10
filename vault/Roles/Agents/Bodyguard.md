@@ -27,7 +27,7 @@ Each night, after the first, you must choose a [[player]] (not yourself): if tha
 
 ## Examples
 - The Bodyguard chooses to protect the [[Analyst]]. The [[Analyst]] is chosen during the night by the [[Traitor]]. The Bodyguard dies instead of the [[Analyst]].
-- The Bodyguard is [[Malfunctioning]]. The Bodyguard chooses to protect the [[Analyst]]. The [[Analyst]] is chosen during the night by the [[Traitor]]. The [[Analyst]] dies.
+- The Bodyguard is [[malfunctioning]]. The Bodyguard chooses to protect the [[Analyst]]. The [[Analyst]] is chosen during the night by the [[Traitor]]. The [[Analyst]] dies.
 
 ## How to Play
 - Try to find a [[player]] who has a useful ability to your team, and protect them every night. It's better that you die instead of them.
@@ -35,9 +35,3 @@ Each night, after the first, you must choose a [[player]] (not yourself): if tha
 
 ## How to Narrate
 - Each night, wake up the Bodyguard. Tell them to choose a [[player]]. Send them back to sleep. If the [[player]] chosen by the Bodyguard is killed that night they are killed instead.
-
-## Additional Information
-Placeholder.
-
-## Lore
-Placeholder.
