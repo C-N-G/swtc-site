@@ -61,6 +61,9 @@
 - Added the [[location]] [[The Octagon - Compound 8]].
 ##### [[The Experiment]]
 - Added the [[location]] [[The Catacombs - Compound 3]].
+##### [[Role|Roles]]
+##### [[Clairvoyant]]
+- Clairvoyant flavour text changed to: "I close my eyes. I see where I am not."
 #### [[Characteristic|Characteristics]]
 ##### [[Intuitive]]
 - Added a reminder for this characteristic.
