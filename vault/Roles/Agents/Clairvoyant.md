@@ -2,7 +2,7 @@
 name: Clairvoyant
 team: Loyalist
 type: Agent
-flavour: Open your eyes, and see where you are not.
+flavour: I close my eyes. I see where I am not.
 ability: |
   Each night, you must choose 3 players: you learn if at least one of them is on the Subversive team.
 orderType: role_with_recurring_info
@@ -21,7 +21,7 @@ reminders:
 > | Type | Agent |
 > | [[Attributes]] | Human, Psychic |
 > 
->  “Open your eyes, and see where you are not.”
+>  “I close my eyes. I see where I am not.”
 
 ## Ability
 Each night, you must choose 3 players: you learn if at least one of them is on the Subversive team.
