@@ -32,7 +32,3 @@ Each night, you learn which team the [[Narrator]] thinks is winning.
 
 ## How to Narrate
 - Each night, wake up the Analyst. Tell them which team you think is winning. Send them back to sleep. Use your best judgement to ascertain the current state of the game.
-
-## Additional Information
-
-## Lore
