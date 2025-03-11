@@ -35,4 +35,4 @@ Each night, you must choose a [[player]] and an Agent [[role]]: you learn if the
 - As your ability is very useful for destroying the bluffs of Subversive players, you will likely be a high priority target. You should keep your role a secret if possible, to increase the number of nights you have to learn information.
 
 ## How to Narrate
-- Each night, wake up the Investigator. Ask them to choose a player and an Agent role. Tell them if the player they chose is the role that they chose or not.
+- Each night, wake up the Investigator. Tell them to choose a player and an Agent role. Tell them if the player they chose is the role that they chose or not.
