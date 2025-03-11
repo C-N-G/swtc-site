@@ -27,7 +27,7 @@ Each night, you learn a different [[Agent]] [[role]] (not yourself) that is in p
 
 ## Examples
 - John is the Analyst. The Quartermaster wakes up and learns that the Analyst is in play.
-- The Quartermaster wakes up and learns the last Agent role in play, and stops waking up on future nights. Later in the game, John, who was not an Agent, becomes an Analyst. The Quartermaster wakes up and learns that the Analyst is in play, and then once again, stops waking up on future nights.
+- The Quartermaster wakes up and learns the last Agent role in play, and stops waking up on future nights. Later in the game, Jane, who was not an Agent, becomes an Analyst. The Quartermaster wakes up and learns that the Analyst is in play, and then once again, stops waking up on future nights.
 - The Quartermaster is malfunctioning. Nobody is the Analyst. The Quartermaster wakes up and incorrectly learns that the Analyst is in play.
 
 ## How to Play
