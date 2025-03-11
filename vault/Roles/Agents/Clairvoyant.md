@@ -27,9 +27,9 @@ reminders:
 Each night, you must choose 3 players: you learn if at least 1 of them is on the Subversive team.
 
 ## Examples
-- The Clairvoyant chooses John, Jane, and Adam. John is the [[Traitor]], the other two are on the Loyalist team. The Clairvoyant learns that at least 1 of the players they chose is on the Subversive team.
-- The Clairvoyant chooses John, Jane, and Adam. Jane is the [[Prisoner]], and appears like they're on the [[Subversive]] team, the other two are on the Loyalist team. The Clairvoyant incorrectly learns that at least 1 of the players they chose is on the Subversive team.
-- The Clairvoyant is [[malfunctioning]]. The Clairvoyant chooses John, Jane, and Adam. None of the players the Clairvoyant chose are on the Subversive team. The Clairvoyant incorrectly learns that at least 1 of the players they chose is on the Subversive team.
+- The Clairvoyant wakes up and chooses John, Jane, and Adam. John is the [[Traitor]], the other two are on the Loyalist team. The Clairvoyant learns that at least 1 of the players they chose is on the Subversive team.
+- The Clairvoyant wakes up and chooses John, Jane, and Adam. Jane is the [[Prisoner]], and appears like they're on the [[Subversive]] team, the other two are on the Loyalist team. The Clairvoyant incorrectly learns that at least 1 of the players they chose is on the Subversive team.
+- The Clairvoyant is [[malfunctioning]]. The Clairvoyant wakes up and chooses John, Jane, and Adam. None of the players the Clairvoyant chose are on the Subversive team. The Clairvoyant incorrectly learns that at least 1 of the players they chose is on the Subversive team.
 
 ## How to Play 
 - You have a powerful ability, and should be wary of being too open about your [[role]]. If a [[Subversive]] [[player]] finds out that you are the Clairvoyant, they will probably want to kill you immediately. Try to remain hidden whilst sharing your information as much as possible. Every night that you can stay alive is another night where you can learn players that can be trusted!
