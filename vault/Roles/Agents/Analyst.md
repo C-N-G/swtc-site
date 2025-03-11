@@ -22,9 +22,9 @@ attributes:
 Each night, you learn which team the [[Narrator]] thinks is winning.
 
 ## Examples
-- The [[Subversive]] team is winning. Only one more night and they will almost certainly win the game. The [[Narrator]] wakes the Analyst and tells them that the [[Subversive]] team is winning.
-- It is night one. The [[Subversive]] team have not had any significant impact on the game. The [[Narrator]] wakes the Analyst and tells them that the [[Loyalist]] team is winning.
-- The Analyst is [[Malfunctioning]]. It is the final night of the game. The [[Subversive]] team is winning and most [[Player|players]] alive are clueless as to who the [[Antagonist]] is. The [[Narrator]] wakes the Analyst and tells them that the [[Loyalist]] team is winning.
+- The [[Subversive]] team is winning. Only one more night and they will almost certainly win the game. The Analyst wakes up and learns that the [[Subversive]] team is winning.
+- It is night one. The [[Subversive]] team have not had any significant impact on the game yet. The Analyst wakes up and learns that the [[Loyalist]] team is winning.
+- The Analyst is [[Malfunctioning]]. It is the final night of the game. The [[Subversive]] team is winning and most [[Player|players]] alive are clueless as to who the [[Antagonist]] is. The Analyst wakes up and learns that the [[Loyalist]] team is winning.
 
 ## How to Play
 - Your [[role]] is fundamentally tied to the [[Narrator]]'s opinion of the state of the game. The more you know about the [[Narrator]] and what they might think in certain situations, the more likely you are to be able to effectively use your ability.
