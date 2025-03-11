@@ -25,24 +25,16 @@ reminders:
 ## Ability
 Each night, you learn a different [[Agent]] [[role]] (not yourself) that is in play, until there are no more left to learn.
 
-## Setup Effects
-Placeholder setup effects. This text here should be filled with the exact text of the setup effects.
-
 ## Examples
-- Placeholder Example.
-
-- Placeholder Example.
-
-- Placeholder Example.
+- John is the Analyst. The Quartermaster wakes up and learns that the Analyst is in play.
+- The Quartermaster wakes up and learns the last Agent role in play, and stops waking up on future nights. Later in the game, John, who was not an Agent, becomes an Analyst. The Quartermaster wakes up and learns that the Analyst is in play, and then once again, stops waking up on future nights.
+- The Quartermaster is malfunctioning. Nobody is the Analyst. The Quartermaster wakes up and incorrectly learns that the Analyst is in play.
 
 ## How to Play
-- Placeholder Strategy.
+- The Quartermaster's ability is very useful for verifying the claims of other players, but it can take a long time! Try doing whatever it takes for you to stay alive.
+- You can try to confirm your role as the Quartermaster by outing the roles you have learnt. If a player has a role you claimed to have learnt, they might be more trusting of you.
+- You can try to get [[Player|players]] you trust to intentionally claim your [[role]], so that they might be targeted instead of you.
 
 ## How to Narrate
-- Placeholder Narration.
-
-## Additional Information
-- Placeholder Additional Information.
-
-## Lore
-- Placeholder Lore.
+- Each night, wake up the Quartermaster. Tell them an Agent role that is in play different from the last, until there are no more left to learn. Send them back to sleep.
+- After they have seen all previous Agents, if a new Agent is made later in the game then wake them up to tell them the new Agent role that is in play.
