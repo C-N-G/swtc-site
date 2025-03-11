@@ -26,8 +26,8 @@ reminders:
 Each night, you must choose a [[player]]: you learn their [[characteristic]].
 
 ## Examples
-- The Psychologist chooses John. John is Adaptable. The Psychologist learns that John is Adaptable.
-- The Psychologist is malfunctioning. The Psychologist chooses John. John is Adaptable. The Psychologist learns that John is Persevering.
+- The Psychologist wakes up and chooses John. John is Adaptable. The Psychologist learns that John is Adaptable.
+- The Psychologist is malfunctioning. The Psychologist wakes up and chooses John. John is Adaptable. The Psychologist learns that John is Persevering.
 
 ## How to Play
 - As the Psychologist your ability will allow you to ascertain the characteristics of other players, this can be particularly helpful information if you can find players that have potentially high impact characteristics on the game, such as Trustworthy.
