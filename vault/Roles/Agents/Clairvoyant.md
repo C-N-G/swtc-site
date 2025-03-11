@@ -28,7 +28,7 @@ Each night, you must choose 3 players: you learn if at least 1 of them is on the
 
 ## Examples
 - The Clairvoyant wakes up and chooses John, Jane, and Adam. John is the [[Traitor]], the other two are on the Loyalist team. The Clairvoyant learns that at least 1 of the players they chose is on the Subversive team.
-- The Clairvoyant wakes up and chooses John, Jane, and Adam. Jane is the [[Prisoner]], and appears like they're on the [[Subversive]] team, the other two are on the Loyalist team. The Clairvoyant incorrectly learns that at least 1 of the players they chose is on the Subversive team.
+- The Clairvoyant wakes up and chooses Jane, Adam, and Eve. Eve is the [[Prisoner]], and appears like they're on the [[Subversive]] team, the other two are on the Loyalist team. The Clairvoyant incorrectly learns that at least 1 of the players they chose is on the Subversive team.
 - The Clairvoyant is [[malfunctioning]]. The Clairvoyant wakes up and chooses John, Jane, and Adam. None of the players the Clairvoyant chose are on the Subversive team. The Clairvoyant incorrectly learns that at least 1 of the players they chose is on the Subversive team.
 
 ## How to Play 
