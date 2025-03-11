@@ -63,7 +63,11 @@
 - Added the [[location]] [[The Catacombs - Compound 3]].
 ##### [[Role|Roles]]
 ##### [[Clairvoyant]]
-- Clairvoyant flavour text changed to: "I close my eyes. I see where I am not."
+- Clairvoyant flavour text changed from: "Open your eyes, and see where you are not." to "I close my eyes. I see where I am not."
+##### [[Investigator]]
+- Investigator now has flavour text.
+##### [[Psychologist]]
+- Psychologist now has flavour text.
 #### [[Characteristic|Characteristics]]
 ##### [[Intuitive]]
 - Added a reminder for this characteristic.
