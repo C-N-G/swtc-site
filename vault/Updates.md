@@ -68,6 +68,8 @@
 - Investigator now has flavour text.
 ##### [[Psychologist]]
 - Psychologist now has flavour text.
+##### [[Therapist]]
+- Therapist now has flavour text.
 #### [[Characteristic|Characteristics]]
 ##### [[Intuitive]]
 - Added a reminder for this characteristic.
