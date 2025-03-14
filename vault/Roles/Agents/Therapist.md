@@ -2,7 +2,7 @@
 name: Therapist
 team: Loyalist
 type: Agent
-flavour: Placeholder Flavour
+flavour: Agent Johnson? That boy needs therapy!
 ability: |
   Each night, you learn how many living players are malfunctioning or confused.
 orderType: role_with_recurring_info
@@ -20,29 +20,19 @@ reminders:
 > | Type | Agent |
 > | [[Attributes]] | Human |
 > 
->  “Placeholder Flavour”
+>  “Agent Johnson? That boy needs therapy!”
 
 ## Ability
 Each night, you learn how many living players are [[malfunctioning]] or [[Confusion|confused]].
 
-## Setup Effects
-Placeholder setup effects. This text here should be filled with the exact text of the setup effects.
-
 ## Examples
-- Placeholder Example.
-
-- Placeholder Example.
-
-- Placeholder Example.
+- John is the Underachiever. The Therapist wakes up and learns that 1 living player is malfunctioning or confused.
+- John is the Underachiever. Jane is the Analyst, and is malfunctioning. The Therapist wakes up and learns that 2 living players are malfunctioning or confused.
+- The Therapist is malfunctioning. No players are malfunctioning or confused, besides the Therapist. The Therapist wakes up and incorrectly learns that 3 living players are malfunctioning or confused.
 
 ## How to Play
-- Placeholder Strategy.
+- As the Therapist you have the potential to validate the information of other players. If you learn that 0 players are malfunctioning or confused, and a player tells you something suspicious, it probably means they're lying rather than being malfunctioning or confused somehow.
+- Be careful not to misinterpret your information or lose too much trust in other players, knowing players are malfunctioning or confused is very useful but don't let it make you doubt all other players. It's very unlikely everyone is wrong or lying.
 
 ## How to Narrate
-- Placeholder Narration.
-
-## Additional Information
-- Placeholder Additional Information.
-
-## Lore
-- Placeholder Lore.
+- Each night, wake up the Therapist. Tell them how many living players are malfunctioning or confused. Send them back to sleep.
