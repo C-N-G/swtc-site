@@ -25,24 +25,14 @@ reminders:
 ## Ability
 Once per game, during the day, you may publicly choose a [[player]]: if they are a Spirit, they die.
 
-## Setup Effects
-Placeholder setup effects. This text here should be filled with the exact text of the setup effects.
-
 ## Examples
-- Placeholder Example.
-
-- Placeholder Example.
-
-- Placeholder Example.
+- John is the Vessel. The Exorcist publicly chooses John. John immediately dies.
+- Jane is the Analyst. The Exorcist publicly chooses Jane. Nothing happens, as Jane is not a Spirit.
+- The Exorcist is malfunctioning. John is the Vessel. The Exorcist publicly chooses John. Nothing happens, because the Exorcist is malfunctioning.
 
 ## How to Play
-- Placeholder Strategy.
+- You have a potentially very powerful ability, that could win your team the game at any time if the Antagonist is a Spirit! The longer you wait to use your ability the more likely you are to choose a relevant player, but the longer you wait the more likely you are to die before you get to use your ability! You need to weigh up carefully when you think is the best day to use your ability.
+- As you have a potentially very powerful ability, you should keep your role a secret. Consider bluffing as a role that is likely to be left alive, or try swapping your role with another player you trust!
 
 ## How to Narrate
-- Placeholder Narration.
-
-## Additional Information
-- Placeholder Additional Information.
-
-## Lore
-- Placeholder Lore.
+- Once per game, during the day, if the Exorcist publicly chooses a Spirit, mark that player as dead. Continue the day.
