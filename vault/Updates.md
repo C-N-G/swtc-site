@@ -80,8 +80,9 @@
 #### [[Characteristic|Characteristics]]
 ##### [[Intuitive]]
 - Added a reminder for this characteristic.
-#####  [[Deceitful]]
-- Secretive changed to give the secretive player more control over their ability.
+#####  Secretive / [[Deceitful]]
+- Secretive renamed to Deceitful.
+- Deceitful changed to give the Deceitful player more control over their ability.
 - Previous Ability — You appear as a different characteristic.
 - New Ability — On your first night, you must a choose different characteristic to appear to other players as.
 
