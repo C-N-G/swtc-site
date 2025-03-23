@@ -73,6 +73,8 @@
 - Medium changed to prevent ambiguity surrounding what happens if a player is dead, but they don't know it yet, and to prevent an unclear situation where they could choose a living player by accident.
 - Previous Ability — Each night, after the first, you may choose a dead player: you learn their role.
 - New Ability — Each night, after the first, if a player is dead, you must choose a player: if they are dead, you learn their role. If they are alive, you learn they are alive.
+##### [[Mortician]]
+- Mortician now has flavour text.
 ##### [[Psychologist]]
 - Psychologist now has flavour text.
 ##### [[Therapist]]
