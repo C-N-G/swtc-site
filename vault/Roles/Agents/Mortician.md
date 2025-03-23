@@ -2,7 +2,7 @@
 name: Mortician
 team: Loyalist
 type: Agent
-flavour: Placeholder Flavour
+flavour: I'd say this was death by natural causes. Can't live without a spinal cord. Nothing unnatural about that.
 ability: |
   Each night, after the first, you learn if the player who most recently died from dismissal was Human.
 orderType: role_with_late_info
@@ -20,7 +20,7 @@ reminders:
 > | Type | Agent |
 > | [[Attributes]] | Human |
 > 
->  “Placeholder Flavour”
+>  “I'd say this was death by natural causes. Can't live without a spinal cord. Nothing unnatural about that.”
 
 ## Ability
 Each night, after the first, you learn if the player who most recently died from dismissal was Human.
