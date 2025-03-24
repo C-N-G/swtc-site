@@ -2,7 +2,7 @@
 name: Precog
 team: Loyalist
 type: Agent
-flavour: Placeholder Flavour
+flavour: I have seen most of the pieces of the puzzle, though I am not yet sure how they fit together.
 ability: |
   On your first night, you learn the answer to a single yes or no question of your choice.
 orderType: role_with_starting_info
@@ -17,7 +17,7 @@ attributes:
 > | Type | Agent |
 > | [[Attributes]] | Human, Psychic |
 > 
->  “Placeholder Flavour”
+>  “I have seen most of the pieces of the puzzle, though I am not yet sure how they fit together.”
 
 ## Ability
 On your first night, you learn the answer to a single yes or no question of your choice.
