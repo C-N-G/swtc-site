@@ -80,6 +80,8 @@
 ##### [[Therapist]]
 - Therapist now has flavour text.
 #### [[Characteristic|Characteristics]]
+##### [[Enamoured]]
+- Enamoured now has flavour text.
 ##### [[Intuitive]]
 - Added a reminder for this characteristic.
 #####  Secretive / [[Deceitful]]
