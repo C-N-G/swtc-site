@@ -1,6 +1,6 @@
 ---
 name: Enamoured
-flavour: Placeholder Flavour
+flavour: You and I, were meant to be together. You and I, were meant to live forever. You and I, were always meant to die.
 ability: |
   On your first night, you learn a player (not yourself) and their role. If they die, you become malfunctioning.
 orderType: char_with_starting_info
@@ -13,7 +13,7 @@ reminders:
     - "Enamoured: This player is malfunctioning"
 ---
 > [!infobox] 
->  “Placeholder Flavour”
+>  “You and I, were meant to be together. You and I, were meant to live forever. You and I, were always meant to die.”
 
 ## Ability
 On your first night, you learn a [[player]] (not yourself) and their [[role]]. If they die, you become [[malfunctioning]].
