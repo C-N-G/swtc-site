@@ -33,7 +33,7 @@ Once per game, during the night, if any [[Player|players]] have died tonight, yo
 
 ## How to Play
 - Try to save your ability to resurrect a player who you trust has a useful ability for your team.
-- Keep your role secret. If the Subversive team learn you're the Medic they're likely to target you to stop you saving a player.
+- Keep your role secret! If the Subversive team learn you're the Medic they're likely to target you to stop you from saving a player.
 
 ## How to Narrate
 - Once per game, during the night, if a player died tonight, wake up the Medic. Tell them who died tonight, and ask them if they want to resurrect one of those players. Resurrect the player the Medic chose. Send them back to sleep.
