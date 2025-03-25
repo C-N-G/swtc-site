@@ -2,7 +2,7 @@
 name: Postcog
 team: Loyalist
 type: Agent
-flavour: Placeholder Flavour
+flavour: The event is over. The time has passed. The puzzle pieces fit. What next?
 ability: |
   Each night, the Narrator asks you a question, you learn if you answered correctly.
 orderType: role_with_recurring_info
@@ -17,7 +17,7 @@ attributes:
 > | Type | Agent |
 > | [[Attributes]] | Human, Psychic |
 > 
->  “Placeholder Flavour”
+>  “The event is over. The time has passed. The puzzle pieces fit. What next?”
 
 ## Ability
 Each night, the [[Narrator]] asks you a question, you learn if you answered correctly.
