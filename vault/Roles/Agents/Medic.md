@@ -25,24 +25,15 @@ reminders:
 ## Ability
 Once per game, during the night, if any [[Player|players]] have died tonight, you learn who, and may choose one to resurrect.
 
-## Setup Effects
-Placeholder setup effects. This text here should be filled with the exact text of the setup effects.
-
 ## Examples
-- Placeholder Example.
-
-- Placeholder Example.
-
-- Placeholder Example.
+- John and Jane died in the night. The Medic wakes up and learns that John and Jane died tonight, and chooses to resurrect John.
+- John and Jane died in the night. The Medic wakes up and learns that John and Jane died tonight, and chooses to resurrect nobody.
+- The Medic is malfunctioning. Nobody died in the night. The Medic wakes up and incorrectly learns that John and Jane died tonight, and chooses to resurrect John. John is not resurrected because he wasn't dead.
+- The Medic is malfunctioning. John and Jane died in the night. The Medic wakes up and learns that John and Jane died tonight, and chooses to resurrect John. John is not resurrected because the Medic is malfunctioning.
 
 ## How to Play
-- Placeholder Strategy.
+- Try to save your ability to resurrect a player who you trust has a useful ability for your team.
+- Keep your role secret. If the Subversive team learn you're the Medic they're likely to target you to stop you saving a player.
 
 ## How to Narrate
-- Placeholder Narration.
-
-## Additional Information
-- Placeholder Additional Information.
-
-## Lore
-- Placeholder Lore.
+- Once per game, during the night, if a player died tonight, wake up the Medic. Tell them who died tonight, and ask them if they want to resurrect one of those players. Resurrect the player the Medic chose. Send them back to sleep.
