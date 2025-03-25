@@ -75,6 +75,8 @@
 - New Ability — Each night, after the first, if a player is dead, you must choose a player: if they are dead, you learn their role. If they are alive, you learn they are alive.
 ##### [[Mortician]]
 - Mortician now has flavour text.
+##### [[Postcog]]
+- Postcog now has flavour text.
 ##### [[Precog]]
 - Precog now has flavour text.
 ##### [[Psychologist]]
