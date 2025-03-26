@@ -32,7 +32,7 @@ On your first night, you learn an in play Agent role. If you were obsessed that 
 ## Examples
 - John is the Analyst. The Shadow wakes up on their first night and learns that the Analyst is in play. During the game the Shadow is obsessed that they are the Analyst. John dies, and the Shadow gains the Analyst ability.
 - Jane is the Assistant. The Shadow wakes up on their first night and learns that the Assistant is in play. During the game the Shadow is not obsessed that they are the Assistant. Jane dies, and the Shadow does not gain the Assistant ability.
-- The Shadow is only malfunctioning on their first night. Nobody is the Bodyguard. The Shadow wakes up on their first night and incorrectly learns that the Bodyguard is in play. During the game the Shadow is obsessed that they are the Bodyguard. The Shadow never becomes the Bodyguard because nobody was the Bodyguard. If the Shadow stops malfunctioning after the first night they do not gain new information.
+- The Shadow is only malfunctioning on their first night. Nobody is the Bodyguard. The Shadow wakes up on their first night and incorrectly learns that the Bodyguard is in play. During the game the Shadow is obsessed that they are the Bodyguard. The Shadow never becomes the Bodyguard because nobody was the Bodyguard. If the Shadow stops malfunctioning after their first night they do not gain new information.
 - The Shadow is malfunctioning. Adam is the Bureaucrat. The Shadow wakes up on their first night and learns that the Bureaucrat is in play. Adam dies, but the Shadow does not gain the Bureaucrat ability because they were malfunctioning when Adam died.
 
 ## How to Play
