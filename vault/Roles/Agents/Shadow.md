@@ -36,7 +36,7 @@ On your first night, you learn an in play Agent role. If you were obsessed that 
 - The Shadow is malfunctioning. Adam is the Bureaucrat. The Shadow wakes up on their first night and learns that the Bureaucrat is in play. Adam dies, but the Shadow does not gain the Bureaucrat ability because they were malfunctioning when Adam died.
 
 ## How to Play
-- As the Shadow you must decide whether you want to be obsessed about being the role that you learnt or not. If you decide to be obsessed then you will almost certainly attract suspicion when you start claiming the role of another player, but if they die your team will still get to use their ability through you. If you decide not to be obsessed then you can be open about the role that you learnt, this will help to confirm the player that claims to be that role, but your team will not be able the benefits of their ability through you.
+- As the Shadow you must decide whether you want to be obsessed about being the role that you learnt or not. If you decide to be obsessed then you will almost certainly attract suspicion when you start claiming the role of another player, but if they die your team will still get to use their ability through you. If you decide not to be obsessed then you can be open about the role that you learnt, this will help to confirm the player that claims to be that role, but your team will not be able to get the benefits of their ability through you.
 - If you want to gain the ability of the role that you learnt, make sure the Narrator hears you making an effort to convince others that you are that role. Obsession is primarily about trying to make a genuine attempt to convince others of something.
 
 ## How to Narrate
