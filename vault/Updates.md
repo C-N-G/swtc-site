@@ -83,6 +83,8 @@
 - Psychologist now has flavour text.
 ##### [[Therapist]]
 - Therapist now has flavour text.
+##### [[Doppelganger]]
+- Doppelganger now has flavour text.
 #### [[Characteristic|Characteristics]]
 ##### [[Enamoured]]
 - Enamoured now has flavour text.
