@@ -2,7 +2,7 @@
 name: Test Subject
 team: Loyalist
 type: Detrimental
-flavour: Circle! Square! Wait, no. let me see the cards again. I'll get it this time, just give me more of that serum!
+flavour: Circle! Square! Wait, no. Let me see the cards again. I'll get it this time, just give me more of that serum!
 ability: |
   Each night, after the first, you might die.
 orderType: role_kills_self
@@ -20,7 +20,7 @@ reminders:
 > | Type | Detrimental |
 > | [[Attributes]] | Human |
 > 
->  “Circle! Square! Wait, no. let me see the cards again. I'll get it this time, just give me more of that serum!”
+>  “Circle! Square! Wait, no. Let me see the cards again. I'll get it this time, just give me more of that serum!”
 
 ## Ability
 Each night, after the first, you might die.
