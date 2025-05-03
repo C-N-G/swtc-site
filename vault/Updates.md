@@ -90,6 +90,8 @@
 - New Ability — You are confused about being an in-play Agent. On your first night, you are told which player has that role, and they are told you are their role.
 #####  [[Test Subject]]
 - Test Subject now has flavour text.
+##### [[Turncoat]]
+- Turncoat now has flavour text.
 #### [[Characteristic|Characteristics]]
 ##### [[Enamoured]]
 - Enamoured now has flavour text.
