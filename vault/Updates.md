@@ -98,6 +98,8 @@
 - Whistleblower ability changed to only give information to 1 Antagonist at a time.
 - Previous Ability — Each night, the Antagonists learn an Agent player and their role, until there are no more left to learn.
 - New Ability — Each night, an Antagonist learns an Agent player and their role, until there are no more left to learn.
+##### [[Wraith]]
+- Wraith now has flavour text.
 #### [[Characteristic|Characteristics]]
 ##### [[Enamoured]]
 - Enamoured now has flavour text.
