@@ -2,7 +2,7 @@
 name: Wraith
 team: Subversive
 type: Detrimental
-flavour: Placeholder Flavour
+flavour: Do you not see it? The branches sway, in the depths of night. A spirit lingers, upon this earth. Do you not see it? The candle flickers, a final wisp of smoke. The spirit draws near, abandon all hope.
 ability: |
   Once per game, during the night, you may choose to kill the player who last nominated you, even if you are dead.
 orderType: role_kills_others
@@ -21,7 +21,7 @@ reminders:
 > | Type | Detrimental |
 > | [[Attributes]] | Psychic, Spirit |
 > 
->  “Placeholder Flavour”
+>  “Do you not see it? The branches sway, in the depths of night. A spirit lingers, upon this earth. Do you not see it? The candle flickers, a final wisp of smoke. The spirit draws near, abandon all hope.”
 
 ## Ability
 Once per game, during the night, you may choose to kill the player who last nominated you, even if you are dead.
