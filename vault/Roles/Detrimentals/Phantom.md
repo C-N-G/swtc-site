@@ -2,7 +2,7 @@
 name: Phantom
 team: Loyalist
 type: Detrimental
-flavour: Placeholder Flavour
+flavour: What do you mean dead? I'm right here.
 ability: |
   Any Loyalist ability that targets you has no effect and yields arbitrary information.
 attributes:
@@ -16,7 +16,7 @@ attributes:
 > | Type | Detrimental |
 > | [[Attributes]] | Psychic, Spirit |
 > 
->  “Placeholder Flavour”
+>  “What do you mean dead? I'm right here.”
 
 ## Ability
 Any Loyalist ability that targets you has no effect and yields arbitrary information.
