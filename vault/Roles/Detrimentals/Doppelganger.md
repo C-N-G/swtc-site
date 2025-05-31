@@ -39,4 +39,4 @@ You are confused about being an in-play Agent. On your first night, you are told
 - If you are confused about having an information gathering ability, try to work out discrepancies in the information you receive to work out if you're the Doppelganger or not.
 
 ## How to Narrate
-- On the first night that the Doppelganger is in play, wake up the Doppelganger. Tell them an in-play Agent role, and tell them which player has that role. Send them back to sleep. Wake up the player that the Doppelganger learnt and tell them that the Doppelganger player is their role.
+- On the first night that the Doppelganger is in play, wake up the Doppelganger. Tell them an in-play Agent role, and tell them which player has that role. Send them back to sleep. Wake up the player that the Doppelganger learnt and tell them that the Doppelganger player is their role. Send them back to sleep.
