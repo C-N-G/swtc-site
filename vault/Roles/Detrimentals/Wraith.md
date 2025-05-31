@@ -26,24 +26,14 @@ reminders:
 ## Ability
 Once per game, during the night, you may choose to kill the player who last nominated you, even if you are dead.
 
-## Setup Effects
-Placeholder setup effects. This text here should be filled with the exact text of the setup effects.
-
 ## Examples
-- Placeholder Example.
-
-- Placeholder Example.
-
-- Placeholder Example.
+- John nominated the Wraith. The Wraith was not dismissed. During the night, the Wraith decides to kill John.
+- Jane nominated the Wraith. The Wraith was dismissed, and died. During the night, the Wraith decides to kill Jane.
+- Adam nominated the Wraith. The Wraith was dismissed, and died. During the night, the Wraith decides not to kill Adam. The Wraith is not nominated again during the next day. The following night, the Wraith decides to kill Adam.
 
 ## How to Play
-- Placeholder Strategy.
+- Try to disguise yourself. If you choose to kill a player, the night immediately after you were nominated, then players are likely to suspect that you are the Wraith. If you wait a day, or two, you might be able to frame another player as the Wraith.
+- Be wary of using your ability without knowing the team of the player who nominated you. You could kill players on your team by mistake!
 
 ## How to Narrate
-- Placeholder Narration.
-
-## Additional Information
-- Placeholder Additional Information.
-
-## Lore
-- Placeholder Lore.
+- Each night, if the Wraith has been nominated previously, ask them if they want to kill the player who last nominated them. Send them back to sleep.
