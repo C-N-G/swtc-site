@@ -20,24 +20,15 @@ attributes:
 ## Ability
 On your first day, your role is announced to all players.
 
-## Setup Effects
-Placeholder setup effects. This text here should be filled with the exact text of the setup effects.
-
 ## Examples
-- Placeholder Example.
-
-- Placeholder Example.
-
-- Placeholder Example.
+- The Supervisor is in play from the start of the game. At the start of the first day, the Narrator announces who the Supervisor is.
+- The Supervisor becomes in play later in the game. At the start of the next day, the Narrator announces who the Supervisor is.
+- The Supervisor is malfunctioning. The Supervisor is in play from the start of the game. No announcement is made because the Supervisor is malfunctioning.
 
 ## How to Play
-- Placeholder Strategy.
+- As the Supervisor, you are uniquely powerful in that all players know your role. This means you're likely to die soon, as the Subversive team will want to kill a player who is confirmed to be on the Loyalist team.
+- Your ability is very useful for confirming other players information, as you can be used as a control for them to test abilities against. Try to help other player's utilize their information and abilities to their full potential.
+- Try not to get dismissed. If you're alive, then the Subversive team will be likely to waste a day targeting you.
 
 ## How to Narrate
-- Placeholder Narration.
-
-## Additional Information
-- Placeholder Additional Information.
-
-## Lore
-- Placeholder Lore.
+- On the first day that the Supervisor is in play, announce at the start of that day that the Supervisor is in play.
