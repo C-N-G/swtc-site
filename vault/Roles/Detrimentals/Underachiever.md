@@ -34,7 +34,7 @@ You are [[Confusion|confused]] about being an [[Agent]].
 
 ## How to Play
 - Always remember, just because you're confused doesn't mean you will always receive false information. Confused abilities receive arbitrary information at the discretion of the Narrator. However, in most cases you are likely to be given information that will benefit the Subversive team the most.
-- Try to work out how much of your information is true or false, to help you determine if you are the Underachiever.
+- Try to work out how much of your information is true or false to help determine whether you are the Underachiever.
 - If you have a non-informational ability that clearly has no effect when you use it, such as an [[Exorcist]] choosing a known Spirit, then you are almost certainly the Underachiever or malfunctioning.
 
 ## How to Narrate
