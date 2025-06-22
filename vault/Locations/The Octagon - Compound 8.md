@@ -14,4 +14,4 @@ This location has no effect.
 - Everything in this location occurs exactly as normal. Do not investigate further.
 
 ## How to Narrate
-- Narrate the game as normal with no special location effects or changes.
+- Narrate the game as normal with no special location effects or changes. This location is intended for the default game experience.
