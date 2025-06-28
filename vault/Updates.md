@@ -100,6 +100,10 @@
 - New Ability — Each night, an Antagonist learns an Agent player and their role, until there are no more left to learn.
 ##### [[Wraith]]
 - Wraith now has flavour text.
+##### [[Necromancer]]
+- Necromancer ability changed to prevent situations where they would wake to choose a dead player but do not know who is dead.
+- Previous Ability — Each night, after the first, you may choose a dead player: they learn they were chosen by the Necromancer and they join your team.
+- New Ability — Each night, after the first, if any players are dead, you learn who and may choose one: they learn they were chosen by the Necromancer and they join your team.
 #### [[Characteristic|Characteristics]]
 ##### [[Enamoured]]
 - Enamoured now has flavour text.
