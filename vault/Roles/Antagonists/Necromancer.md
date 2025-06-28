@@ -17,7 +17,7 @@ reminders:
 > |  |  |
 > | ---- | ---- |
 > | Team | Subversive |
-> | Type | Placeholder Type |
+> | Type | Antagonist |
 > | [[Attributes]] | Human, Psychic |
 > 
 >  “Spirits gather round me, hearken to my call; I chain you to these bones, one, many, or all!”
