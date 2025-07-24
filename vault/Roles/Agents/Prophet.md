@@ -2,7 +2,7 @@
 name: Prophet
 team: Loyalist
 type: Agent
-flavour: Placeholder Flavour
+flavour: And in those days of spring, when the flowers bloom, you shall wither and be lost.
 ability: |
   Once per game, during the day, you may publicly make a statement. If this statement is true, you die that night.
 orderType: role_kills_self
@@ -21,13 +21,10 @@ reminders:
 > | Type | Agent |
 > | [[Attributes]] | Human, Psychic |
 > 
->  “Placeholder Flavour”
+>  “And in those days of spring, when the flowers bloom, you shall wither and be lost.”
 
 ## Ability
 Once per game, during the day, you may publicly make a statement. If this statement is true, you die that night.
-
-## Setup Effects
-Placeholder setup effects. This text here should be filled with the exact text of the setup effects.
 
 ## Examples
 - Placeholder Example.
@@ -41,9 +38,3 @@ Placeholder setup effects. This text here should be filled with the exact text o
 
 ## How to Narrate
 - Placeholder Narration.
-
-## Additional Information
-- Placeholder Additional Information.
-
-## Lore
-- Placeholder Lore.
