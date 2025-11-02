@@ -4,7 +4,7 @@ team: Subversive
 type: Detrimental
 flavour: I find myself haunted. I turn the corner, and there you are. Always over my shoulder. Always behind my own eyes. I'm there, but so are you. What is left for me to rest my world upon? All has slipped away, besides the dirt beneath my feet, and all that remains in its place is confusion.
 ability: |
-  You are confused about being an in-play Agent. On your first night, you are told which player has that role, and they are told you are their role.
+  On your first night, you are told which player has the role you are confused as, and they are told you are their role.
 orderType: role_with_starting_info
 attributes:
   - Psychic
@@ -27,7 +27,10 @@ reminders:
 >  “I find myself haunted. I turn the corner, and there you are. Always over my shoulder. Always behind my own eyes. I'm there, but so are you. What is left for me to rest my world upon? All has slipped away, besides the dirt beneath my feet, and all that remains in its place is confusion.”
 
 ## Ability
-You are confused about being an in-play Agent. On your first night, you are told which player has that role, and they are told you are their role.
+On your first night, you are told which player has the role you are confused as, and they are told you are their role.
+
+## Setup
+You are confused about being an in-play Agent.
 
 ## Examples
 - John is the Analyst. The Doppelganger is confused that they are the Analyst, and is told that John is the Analyst. John is told that the Doppelganger player is the Analyst.
@@ -39,4 +42,4 @@ You are confused about being an in-play Agent. On your first night, you are told
 - If you are confused about having an information gathering ability, try to work out discrepancies in the information you receive to work out if you're the Doppelganger or not.
 
 ## How to Narrate
-- On the first night that the Doppelganger is in play, wake up the Doppelganger. Tell them an in-play Agent role, and tell them which player has that role. Send them back to sleep. Wake up the player that the Doppelganger learnt and tell them that the Doppelganger player is their role. Send them back to sleep.
+- On the first night that the Doppelganger is in play, wake up the Doppelganger. Tell them the player that has the in-play role they are confused as is the role they think they are. Send them back to sleep. Wake up the player that the Doppelganger learnt and tell them that the Doppelganger player is their role. Send them back to sleep.
