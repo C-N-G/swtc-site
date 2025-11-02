@@ -27,6 +27,7 @@ Each night, you learn two statements, only one of which is true.
 - Adam is the Exorcist, and has not used their ability. The Dreamer wakes up and learns either: All players have used their once per game abilities, or there is still one player who has not used their once per game ability. The second statement is true.
 - The Dreamer is malfunctioning. John is the Traitor. Jane is the Analyst. The Dreamer wakes up and learns either: John is the Traitor, or Jane is the Analyst. Both statements are true.
 - The Dreamer is malfunctioning. John is the Traitor. Jane is the Analyst. The Dreamer wakes up and learns either: John is the Analyst, or Jane is the Traitor. Both statements are false.
+
 ## How to Play
 - As the Dreamer you could be receiving potentially game solving information, you just need to be able to ascertain which part is true and which part is false. Try to corroborate your information with information from other players!
 - Keep track of all the statements you receive, the longer the game goes on the more likely you are to be able to work out which statements are true and which are false.
