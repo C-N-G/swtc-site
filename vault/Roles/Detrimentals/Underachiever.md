@@ -4,7 +4,7 @@ team: Loyalist
 type: Detrimental
 flavour: Almost there...
 ability: |
-  You are confused about being an Agent.
+  Uh... good luck, I guess.
 attributes:
   - Human
 setup:
@@ -25,7 +25,10 @@ reminders:
 >  “Almost there...”
 
 ## Ability
-You are [[Confusion|confused]] about being an [[Agent]].
+Uh... good luck, I guess.
+
+## Setup
+You are confused about being an Agent.
 
 ## Examples
 - The Underachiever is [[Confusion|confused]] about being the [[Analyst]]. The Subversive team are winning. The [[Narrator]] wakes the Underachiever up and interacts with them as if they were the Analyst, and incorrectly tells them that the Loyalist team are winning.

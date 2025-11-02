@@ -26,7 +26,10 @@ reminders:
 >  “Manufactured to fit a purpose. Sleeping, I return, formless again.”
 
 ## Ability
-You are [[Confusion|confused]] about being an [[Agent]]. If you are [[Obsession|obsessed]] that you are the Tulpa, you will be [[Dismissal|dismissed]] immediately.
+If you are [[Obsession|obsessed]] that you are the Tulpa, you will be [[Dismissal|dismissed]] immediately.
+
+## Setup
+You are confused about being an Agent.
 
 ## Examples
 - The Tulpa is [[Confusion|confused]] about being the [[Analyst]]. The [[Subversive]] team are winning. The [[Narrator]] wakes the Tulpa up and interacts with them as if they were the [[Analyst]], and incorrectly tells them that the [[Loyalist]] team are winning.
