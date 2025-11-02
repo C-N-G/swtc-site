@@ -2,7 +2,7 @@
 name: Supervisor
 team: Loyalist
 type: Agent
-flavour: Placeholder Flavour
+flavour: I'm your boss, you idiots!
 ability: |
   On your first day, your role is announced to all players.
 attributes:
@@ -15,7 +15,7 @@ attributes:
 > | Type | Agent |
 > | [[Attributes]] | Human |
 > 
->  “Placeholder Flavour”
+>  “I'm your boss, you idiots!”
 
 ## Ability
 On your first day, your role is announced to all players.
