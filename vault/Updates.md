@@ -24,6 +24,8 @@
 - A new Loyalist Detrimental role that gives information to the Antagonist when they die.
 ##### [[Executioner]]
 - A new Loyalist Detrimental role that must vote yes on every nomination for dismissal.
+##### [[Pawn]]
+- A new Subversive Detrimental role that is confused about being an Agent. See the Accomplice changes for more information.
 ##### [[Intern]]
 - A new Loyalist Detrimental role that has 0 voting power, but gives a player of their choice an additional 1 voting power.
 #### [[Characteristic|Characteristics]]
@@ -90,6 +92,11 @@
 - Supervisor now has flavour text.
 ##### [[Therapist]]
 - Therapist now has flavour text.
+##### [[Accomplice]]
+- Accomplice reworked and split into an additional role, the Pawn.
+- Removed confusion from the Accomplice.
+- Previous Ability — You are [[Confusion|confused]] about being an Agent. On your first night, all [[Antagonist|Antagonists]] learn who you are.
+- New Ability — On your first night, you learn which of your neighbours are Antagonists, and they learn your role.
 ##### [[Doppelganger]]
 - Doppelganger now has flavour text.
 - Doppelganger changed to clarify when the Doppelganger wakes up.
