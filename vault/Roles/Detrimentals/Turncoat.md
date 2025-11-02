@@ -2,7 +2,7 @@
 name: Turncoat
 team: Either
 type: Detrimental
-flavour: Which way? This way, or that way? I say whichever way the wind blows.
+flavour: Which way? This way, or that way? I say, whichever way the wind blows.
 ability: |
   Each night, after the first, you change team.
 orderType: role_converts_self
@@ -16,7 +16,7 @@ attributes:
 > | Type | Detrimental |
 > | [[Attributes]] | Human |
 > 
->  “Which way? This way, or that way? I say whichever way the wind blows.”
+>  “Which way? This way, or that way? I say, whichever way the wind blows.”
 
 ## Ability
 Each night, after the first, you change team.
