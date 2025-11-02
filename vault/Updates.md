@@ -86,6 +86,8 @@
 - Precog now has flavour text.
 ##### [[Psychologist]]
 - Psychologist now has flavour text.
+##### [[Supervisor]]
+- Supervisor now has flavour text.
 ##### [[Therapist]]
 - Therapist now has flavour text.
 ##### [[Doppelganger]]
