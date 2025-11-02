@@ -25,7 +25,7 @@
 ##### [[Executioner]]
 - A new Loyalist Detrimental role that must vote yes on every nomination for dismissal.
 ##### [[Intern]]
-- A new Loyalist Detrimental role that must vote the same way as a player of their choice.
+- A new Loyalist Detrimental role that has 0 voting power, but gives a player of their choice an additional 1 voting power.
 #### [[Characteristic|Characteristics]]
 ##### [[Charitable]]
 - A new characteristic that increases the vote power of their living neighbours if they don't vote.
