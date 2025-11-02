@@ -1,129 +1,139 @@
 ## ??/??/????
 ### Additions
 #### [[Scenario|Scenarios]]
-##### [[Restless Sleep]]
+###### [[Restless Sleep]]
 - A new [[scenario]] titled "[[Restless Sleep]]" is now available, most significantly featuring the [[Bogeyman]] [[antagonist]] and [[The Forum - Compound 12]] [[location]], amongst other new content.
 #### [[Location|Locations]]
 - The game now includes a "[[Location|locations]]" system that will help to further differentiate the various [[Scenario|scenarios]] and provide interesting and challenging mechanics for all [[Player|players]].
-##### [[The Catacombs - Compound 3]]
+###### [[The Catacombs - Compound 3]]
 - A new [[location]] that allows dead [[Player|players]] to participate in the [[dismissal]] process as if they were still alive.
-##### [[The Octagon - Compound 8]]
+###### [[The Octagon - Compound 8]]
 - A new [[location]] that functions as the default game experience, it provides no unique changes to gameplay mechanics.
-##### [[The Forum - Compound 12]]
+###### [[The Forum - Compound 12]]
 - A new [[location]] that makes all votes public.
 #### [[Role|Roles]]
-##### [[Bureaucrat]]
+##### Agents
+###### [[Bureaucrat]]
 - A new Agent role that can learn a player's team through nominations.
-##### [[Oathkeeper]]
+###### [[Oathkeeper]]
 - A new Agent role that can learn a player's team if they say a phrase publicly.
-##### [[Prophet]]
+###### [[Prophet]]
 - A new Agent role that can make a prophecy and will die if it is true.
-##### [[Supervisor]]
+###### [[Supervisor]]
 - A new Agent role that is hard confirmed from the start of the game.
-##### [[Archivist]]
+##### Detrimentals
+###### [[Archivist]]
 - A new Loyalist Detrimental role that gives information to the Antagonist when they die.
-##### [[Executioner]]
+###### [[Executioner]]
 - A new Loyalist Detrimental role that must vote yes on every nomination for dismissal.
-##### [[Pawn]]
+###### [[Pawn]]
 - A new Subversive Detrimental role that is confused about being an Agent. See the Accomplice changes for more information.
-##### [[Intern]]
+###### [[Intern]]
 - A new Loyalist Detrimental role that has 0 voting power, but gives a player of their choice an additional 1 voting power.
 #### [[Characteristic|Characteristics]]
-##### [[Charitable]]
+###### [[Charitable]]
 - A new characteristic that increases the vote power of their living neighbours if they don't vote.
-##### [[Defiant]]
+###### [[Defiant]]
 - A new characteristic that can cause abilities targeting them to have no effect.
-##### [[Genius]]
+###### [[Genius]]
 - A new characteristic that learns in play roles and characteristics.
-##### [[Greedy]]
+###### [[Greedy]]
 - A new characteristic that has increased vote power but also gives increased vote power on votes against them.
-##### [[Manipulative]]
+###### [[Manipulative]]
 - A new characteristic that can cause their nominator to be dismissed.
-##### [[Mysterious]]
+###### [[Mysterious]]
 - A new characteristic that might obfuscate information about themselves, or cause abilities not to work.
-##### [[Optimistic]]
+###### [[Optimistic]]
 - A new characteristic that allows their team to have one more day if they have lost.
-##### [[Patient]]
+###### [[Patient]]
 - A new characteristic that gains increased vote power for every day that they don't vote.
-##### [[Punctual]]
+###### [[Punctual]]
 - A new characteristic that gains increased vote power if they nominate first each day.
-##### [[Reckless]]
+###### [[Reckless]]
 - A new characteristic that can immediately dismiss players of their own team.
-##### [[Reflective]]
+###### [[Reflective]]
 - A new characteristic that can learn the team of players who vote on them for dismissal.
-##### [[Vigilant]]
+###### [[Vigilant]]
 - A new characteristic that learns how many of their neighbours were chosen by other players each night.
 ### Changes
 #### Mechanics & Rules
 - Reworded all abilities that used the phrase "You start knowing", or similar, to "On your first night, you learn X" to clarify the intended design. Examples include [[Assistant]], and [[Supervisor]].
 #### [[Scenario|Scenarios]]
-#####  [[Possessions and Obsessions]]
+######  [[Possessions and Obsessions]]
 - Added the [[location]] [[The Catacombs - Compound 3]].
-##### [[Standard Procedure]]
+###### [[Standard Procedure]]
 - Added the [[location]] [[The Octagon - Compound 8]].
-##### [[The Experiment]]
+###### [[The Experiment]]
 - Added the [[location]] [[The Catacombs - Compound 3]].
-##### [[Role|Roles]]
-##### [[Clairvoyant]]
+#### [[Role|Roles]]
+##### Agents
+###### [[Clairvoyant]]
 - Clairvoyant flavour text changed from: "Open your eyes, and see where you are not." to "I close my eyes. I see where I am not."
-##### [[Dreamer]]
+###### [[Dreamer]]
 - Dreamer now has flavour text.
-##### [[Investigator]]
+###### [[Investigator]]
 - Investigator now has flavour text.
-##### [[Medium]]
+###### [[Medium]]
 - Medium now has flavour text.
 - Medium changed to prevent ambiguity surrounding what happens if a player is dead, but they don't know it yet, and to prevent an unclear situation where they could choose a living player by accident.
 - Previous Ability — Each night, after the first, you may choose a dead player: you learn their role.
 - New Ability — Each night, after the first, if a player is dead, you must choose a player: if they are dead, you learn their role. If they are alive, you learn they are alive.
-##### [[Medic]]
+###### [[Medic]]
 - Medic now has flavour text.
 - Medic ability changed to separate the learning and resurrecting functions of their ability into each night and once per game, respectively.
 - Previous Ability — Once per game, during the night, if any [[Player|players]] have died tonight, you learn who, and may choose one to resurrect.
 - New Ability — Each night, after the first, if any players have died tonight, you learn who. Once per game, during the night, you may choose to resurrect a player that you learnt died that night. If you choose a player with this ability, you no longer have this ability.
-##### [[Mortician]]
+###### [[Mortician]]
 - Mortician now has flavour text.
-##### [[Postcog]]
+###### [[Postcog]]
 - Postcog now has flavour text.
-##### [[Precog]]
+###### [[Precog]]
 - Precog now has flavour text.
-##### [[Psychologist]]
+###### [[Psychologist]]
 - Psychologist now has flavour text.
-##### [[Supervisor]]
+###### [[Supervisor]]
 - Supervisor now has flavour text.
-##### [[Therapist]]
+###### [[Therapist]]
 - Therapist now has flavour text.
-##### [[Accomplice]]
+###### [[Warden]]
+- Warden now has flavour text.
+- Warden ability changed to clarify that the Prisoner learns that the Warden chose them.
+- Previous Ability — Each night, you must choose a player: if you choose the Prisoner, they become an Agent role of their choice.
+- New Ability — Each night, you must choose a player: if you choose the Prisoner, they learn this and become an Agent role of their choice.
+##### Detrimentals
+###### [[Accomplice]]
 - Accomplice reworked and split into an additional role, the Pawn.
 - Removed confusion from the Accomplice.
 - Previous Ability — You are [[Confusion|confused]] about being an Agent. On your first night, all [[Antagonist|Antagonists]] learn who you are.
 - New Ability — On your first night, you learn which of your neighbours are Antagonists, and they learn your role.
-##### [[Doppelganger]]
+###### [[Doppelganger]]
 - Doppelganger now has flavour text.
 - Doppelganger changed to clarify when the Doppelganger wakes up.
 - Previous Ability — You are confused about being an in-play Agent, you are told which player has that role, and they are told you are their role.
 - New Ability — You are confused about being an in-play Agent. On your first night, you are told which player has that role, and they are told you are their role.
-##### [[Phantom]]
+###### [[Phantom]]
 - Phantom now has flavour text.
-#####  [[Test Subject]]
+######  [[Test Subject]]
 - Test Subject now has flavour text.
-##### [[Turncoat]]
+###### [[Turncoat]]
 - Turncoat now has flavour text.
-##### [[Whistleblower]]
+###### [[Whistleblower]]
 - Whistleblower ability changed to only give information to 1 Antagonist at a time.
 - Previous Ability — Each night, the Antagonists learn an Agent player and their role, until there are no more left to learn.
 - New Ability — Each night, an Antagonist learns an Agent player and their role, until there are no more left to learn.
-##### [[Wraith]]
+###### [[Wraith]]
 - Wraith now has flavour text.
-##### [[Necromancer]]
+##### Antagonists
+###### [[Necromancer]]
 - Necromancer ability changed to prevent situations where they would wake to choose a dead player but do not know who is dead.
 - Previous Ability — Each night, after the first, you may choose a dead player: they learn they were chosen by the Necromancer and they join your team.
 - New Ability — Each night, after the first, if any players are dead, you learn who and may choose one: they learn they were chosen by the Necromancer and they join your team.
 #### [[Characteristic|Characteristics]]
-##### [[Enamoured]]
+###### [[Enamoured]]
 - Enamoured now has flavour text.
-##### [[Intuitive]]
+###### [[Intuitive]]
 - Added a reminder for this characteristic.
-#####  Secretive / [[Deceitful]]
+######  Secretive / [[Deceitful]]
 - Secretive renamed to Deceitful.
 - Deceitful changed to give the Deceitful player more control over their ability.
 - Previous Ability — You appear as a different characteristic.
@@ -131,80 +141,86 @@
 
 ## 29/11/2024
 #### [[Scenario|Scenarios]]
-##### [[The Experiment]]
+###### [[The Experiment]]
 - A new [[scenario]] titled "[[The Experiment]]" is now available. It is not really a proper [[scenario]] and is instead a [[scenario]] to test highly WIP features and content. Currently it will be for testing a new [[Antagonist]] added in this update, the [[Bogeyman]]
 #### [[Role|Roles]]
-##### [[Bogeyman]]
+##### Antagonists
+###### [[Bogeyman]]
 - A new [[Antagonist]] [[role]] that can win if a [[player]] they choose is [[Dismissal|dismissed]].
 
 ## 28/11/2024
 ### Changes
 #### [[Scenario|Scenarios]]
-##### [[Possessions and Obsessions]]
+###### [[Possessions and Obsessions]]
 - Removed the [[Necromancer]] from [[Possessions and Obsessions]] until the [[role]] receives some tweaks.
 #### [[Role|Roles]]
-##### [[Necromancer]]
+##### Antagonists
+###### [[Necromancer]]
 - Changed the [[Necromancer]]'s ability so that [[Player|players]] converted by the [[Necromancer]] learn they were chosen.
 #### Rules and Mechanics
-##### [[Confusion]]
+###### [[Confusion]]
 - Altered [[confusion]] slightly to allow for situations where hypothetically [[Player|Players]] can now be [[Confusion|confused]] about things other than just their own [[role]] or [[characteristic]].
 
 ## 31/10/2024
 ### Additions
 #### [[Scenario|Scenarios]]
-##### [[Possessions and Obsessions]]
+###### [[Possessions and Obsessions]]
 - A new [[scenario]] titled "[[Possessions and Obsessions]]" is now available, featuring new [[Role|roles]] and [[Characteristic|characteristics]], and some old [[Role|roles]] that used to be part of the [[Standard Procedure]] module before the [[Scenario]] changes. It mainly centres around the new mechanic of [[obsession]].
 #### [[Role|Roles]]
-##### [[Dreamer]]
+##### Agents
+###### [[Dreamer]]
 - A new [[Agent]] [[role]] that learns two statements each night. Can you work out which is true?
-##### [[Exorcist]]
+###### [[Exorcist]]
 - A new [[Agent]] [[role]] that can attempt to kill Spirits during the day.
-##### [[Medic]]
+###### [[Medic]]
 - A new [[Agent]] [[role]] (which some of you may have seen before the changes to the [[Scenario]] system) that can save one person from dying in the night.
-##### [[Mortician]]
+###### [[Mortician]]
 - A new [[Agent]] [[role]] that learns if [[Dismissal|dismissed]] [[Player|players]] are Human.
-##### [[Postcog]]
+###### [[Postcog]]
 - A new [[Agent]] [[role]] that must answer a question every night.
-##### [[Precog]]
+###### [[Precog]]
 - A new [[Agent]] [[role]] (which some of you may have seen before the changes to the [[Scenario]] system) that can ask any question of their choice.
-##### [[Shadow]]
+###### [[Shadow]]
 - A new [[Agent]] [[role]] which must pretend to be someone else if they want to gain that ability.
-##### [[Tethered]]
+###### [[Tethered]]
 - A new [[Agent]] [[role]] which learns a [[Loyalist]] [[player]], but must be careful to get them both killed.
-##### [[Anomaly]]
+##### Detrimentals
+###### [[Anomaly]]
 - A new [[Detrimental]] [[role]] that can start on either team, and change team every night. They must work out which team they are on if they have any hope of success.
-##### [[Doppelganger]]
+###### [[Doppelganger]]
 - A new [[Subversive]] [[Detrimental]] [[role]] that confuses themselves and another [[player]] into not knowing which is the real [[role]] and which is the [[Doppelganger]]
-##### [[Phantom]]
+###### [[Phantom]]
 - A new [[Loyalist]] [[Detrimental]] [[role]] that obfuscates their true nature to their own team.
-##### [[Tulpa]]
+###### [[Tulpa]]
 - A new [[Loyalist]] [[Detrimental]] [[role]] that must be careful about killing themselves and wasting a day.
-##### [[Wraith]]
+###### [[Wraith]]
 - A new [[Subversive]] [[Detrimental]] [[role]] that can choose to kill a [[player]] that nominates them.
-##### [[Necromancer]]
+##### Antagonists
+###### [[Necromancer]]
 - A new [[Antagonist]] [[role]] that converts dead [[Player|players]] to their team.
-##### [[Vessel]]
+###### [[Vessel]]
 - A new [[Antagonist]] [[role]] (which some of you may have seen before the changes to the [[Scenario]] system) that can kill themselves to give their [[role]] and team to another [[player]].
-#### [[Characteristic|Characteristics]]
-##### [[Critical]]
+##### [[Characteristic|Characteristics]]
+###### [[Critical]]
 - A new [[characteristic]] that can determine if another [[player]] might be subject to [[obsession]].
-##### [[Cunning]]
+###### [[Cunning]]
 - A new [[characteristic]] that can swap themselves as the target of an ability with another [[player]].
-##### [[Honest]]
+###### [[Honest]]
 - A new [[characteristic]] that can tell others their [[characteristic]].
-##### [[Prideful]]
+###### [[Prideful]]
 - A new [[characteristic]] that can't die during the night, as long as they're not [[Obsession|obsessed]] that they're [[prideful]].
-##### [[Deceitful]]
+###### [[Deceitful]]
 - A new [[characteristic]] (which some of you may have seen before the changes to the [[Scenario]] system) that appears as a different [[characteristic]] to other [[Player|players]].
 ### Changes
 #### [[Role|Roles]]
-##### [[Test Subject]]
+##### Agents
+###### [[Test Subject]]
 - Changed the [[Test Subject]] reminder icon from ⚰️ to 🧪.
 
 ## 16/09/2024
 ### Changes
 #### [[Characteristic|Characteristics]]
-##### [[Obnoxious]]
+###### [[Obnoxious]]
 - [[Obnoxious]] changed to prevent it being used to make the [[Antagonist]] permanently [[malfunctioning]].
 - Previous Ability — The first person (not yourself) to choose you with their ability becomes [[malfunctioning]].
 - New Ability — The first [[player]] (not yourself) to choose you with their ability during the night is [[malfunctioning]] until the day.
