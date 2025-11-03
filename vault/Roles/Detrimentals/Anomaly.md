@@ -1,6 +1,6 @@
 ---
 name: Anomaly
-team: Unknown
+team: Either
 type: Detrimental
 flavour: weWEwe wereWEREwere alwaysALWAYSalways hereHEREhere.
 ability: |
