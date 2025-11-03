@@ -24,6 +24,7 @@ roles:
   - Prisoner
   - Tulpa
   - Underachiever
+  - Bogeyman
 chars: 
   - Charitable
   - Cunning
