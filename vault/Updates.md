@@ -131,6 +131,11 @@
 #### [[Characteristic|Characteristics]]
 ###### [[Adaptable]]
 - Adaptable now has flavour text.
+###### [[Alert]]
+- Alert now has flavour text.
+- Alert changed to stop dead Alert players learning who chose them.
+- Previous Ability — During the night, once per game, when you’re chosen by a player (not yourself), you learn who they are, even if their ability would kill you.
+- New Ability — During the night, once per game, when you’re chosen by a player (not yourself), you learn who chose you.
 ###### [[Enamoured]]
 - Enamoured now has flavour text.
 ###### [[Intuitive]]
