@@ -129,6 +129,8 @@
 - Previous Ability — Each night, after the first, you may choose a dead player: they learn they were chosen by the Necromancer and they join your team.
 - New Ability — Each night, after the first, if any players are dead, you learn who and may choose one: they learn they were chosen by the Necromancer and they join your team.
 #### [[Characteristic|Characteristics]]
+###### [[Adaptable]]
+- Adaptable now has flavour text.
 ###### [[Enamoured]]
 - Enamoured now has flavour text.
 ###### [[Intuitive]]
