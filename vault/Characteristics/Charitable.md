@@ -1,33 +1,21 @@
 ---
 name: Charitable
-flavour: Placeholder Flavour
+flavour: Take a little bit less, give a little bit more.
 ability: |
-  If you do not vote, the voting power of both of your living neighbours is increased by +1.
+  Your voting power is decreased by -1. The voting power of your living neighbours is increased by +1.
 ---
 > [!infobox]
->  “Placeholder Flavour”
+>  “Take a little bit less, give a little bit more.”
 
 ## Ability
-If you do not vote, the voting power of both of your living neighbours is increased by +1.
-
-## Setup Effects
-Placeholder setup effects. This text here should be filled with the exact text of the setup effects.
+Your voting power is decreased by -1. The voting power of your living neighbours is increased by +1.
 
 ## Examples
-- Placeholder Example.
-
-- Placeholder Example.
-
-- Placeholder Example.
+- John is nominated for dismissal. The Charitable player votes, but they have 0 voting power. Both of their living neighbours have 2 voting power.
+- The Charitable player is malfunctioning. John is nominated for dismissal. The Charitable player votes, they have 1 voting power. The voting power of their living neighbours remains unchanged.
 
 ## How to Play
-- Placeholder Strategy.
+- Try to convince or manipulate your living neighbours into voting how you want.
 
 ## How to Narrate
-- Placeholder Narration.
-
-## Additional Information
-- Placeholder Additional Information.
-
-## Lore
-- Placeholder Lore.
+- Adjust the voting power of the Charitable player, and their living neighbours. If the Charitable player is malfunctioning, adjust the voting power accordingly.
