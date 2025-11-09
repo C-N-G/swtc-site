@@ -138,6 +138,11 @@
 - New Ability — During the night, once per game, when you’re chosen by a player (not yourself), you learn who chose you.
 ###### [[Approachable]]
 - Approachable now has flavour text.
+###### [[Charitable]]
+- Charitable now has flavour text.
+- Charitable changed to simplify the Narrator's work.
+- Previous Ability — If you do not vote, the voting power of both of your living neighbours is increased by +1.
+- New Ability — Your voting power is decreased by -1. The voting power of your living neighbours is increased by +1.
 ###### [[Enamoured]]
 - Enamoured now has flavour text.
 ###### [[Intuitive]]
