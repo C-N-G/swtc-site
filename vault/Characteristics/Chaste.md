@@ -1,27 +1,18 @@
 ---
-module: In the Midst of Night
-attributes: Placeholder
-flavour text: “Placeholder”
-publish: false
+name: Chaste
+flavour: Filth and old age, I'm sure you will agree, are powerful wardens upon chastity.
+ability: |
+  You can not change team.
 ---
 ## Ability
 You can not change team.
 
-## Setup Effects
-Placeholder setup effects. This text here should be filled with the exact text of the setup effects.
-
 ## Examples
-- Placeholder Example.
-
-- Placeholder Example.
-
-- Placeholder Example.
+- John is the Necromancer. John chooses to convert the Chaste player to their team. The Chaste player does not change team.
+- The Chaste player is malfunctioning. John is the Necromancer. John chooses to convert the Chaste player to their team. The Chaste player changes team.
 
 ## How to Play
-- Placeholder Strategy.
+- Try to convince players who can convert you to choose you, they won't know you haven't changed team, and circumstantially this could give you an edge over them.
 
 ## How to Narrate
-- Placeholder Narration.
-
-## Additional Information
-- Placeholder Additional Information.
+- If the Chaste player would for any reason change team, they do not change team.
