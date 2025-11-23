@@ -145,6 +145,8 @@
 - New Ability — Your voting power is decreased by -1. The voting power of your living neighbours is increased by +1.
 ###### [[Chaste]]
 - Chaste now has flavour text.
+###### [[Critical]]
+- Critical now has flavour text.
 ###### [[Enamoured]]
 - Enamoured now has flavour text.
 ###### [[Intuitive]]
