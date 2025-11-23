@@ -1,6 +1,6 @@
 ---
 name: Critical
-flavour: Placeholder Flavour
+flavour: I must admit, it does seem rather derivative. Can't you do something else?
 ability: |
   Once per game, during the night, you may choose a player: you learn if they have an ability that interacts with obsession.
 orderType: role_with_recurring_info
@@ -10,29 +10,15 @@ reminders:
     - "Critical: Chose this player."
 ---
 > [!infobox]
->  “Placeholder Flavour”
+>  “I must admit, it does seem rather derivative. Can't you do something else?”
 
 ## Ability
 Once per game, during the night, you may choose a player: you learn if they have an ability that interacts with obsession.
 
-## Setup Effects
-Placeholder setup effects. This text here should be filled with the exact text of the setup effects.
-
 ## Examples
-- Placeholder Example.
-
-- Placeholder Example.
-
-- Placeholder Example.
-
-## How to Play
-- Placeholder Strategy.
+- John is the Shadow. The Critical player chooses John during the night, and learns that they do have an ability that interacts with obsession.
+- Jane is the Analyst. The Critical player chooses Jane during the night, and learns that they do not have an ability that interacts with obsession.
+- The Critical player is malfunctioning. John is the Shadow. The Critical player chooses John during the night, and incorrectly learns that they do not have an ability that interacts with obsession.
 
 ## How to Narrate
-- Placeholder Narration.
-
-## Additional Information
-- Placeholder Additional Information.
-
-## Lore
-- Placeholder Lore.
+- Each night, wake up the Critical player. Ask them if they want to choose a player. Tell them if the player of their choice has an ability that interacts with obsession or not. Send them back to sleep.
