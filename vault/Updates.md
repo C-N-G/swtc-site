@@ -143,6 +143,8 @@
 - Charitable changed to simplify the Narrator's work.
 - Previous Ability — If you do not vote, the voting power of both of your living neighbours is increased by +1.
 - New Ability — Your voting power is decreased by -1. The voting power of your living neighbours is increased by +1.
+###### [[Chaste]]
+- Chaste now has flavour text.
 ###### [[Enamoured]]
 - Enamoured now has flavour text.
 ###### [[Intuitive]]
