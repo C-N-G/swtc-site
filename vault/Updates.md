@@ -33,6 +33,8 @@
 #### [[Characteristic|Characteristics]]
 ###### [[Charitable]]
 - A new characteristic that increases the vote power of their living neighbours if they don't vote.
+###### [[Chaste]]
+- A new characteristic that prevents a player from changing team.
 ###### [[Defiant]]
 - A new characteristic that can cause abilities targeting them to have no effect.
 ###### [[Genius]]
@@ -143,8 +145,6 @@
 - Charitable changed to simplify the Narrator's work.
 - Previous Ability — If you do not vote, the voting power of both of your living neighbours is increased by +1.
 - New Ability — Your voting power is decreased by -1. The voting power of your living neighbours is increased by +1.
-###### [[Chaste]]
-- Chaste now has flavour text.
 ###### [[Critical]]
 - Critical now has flavour text.
 ###### [[Enamoured]]
