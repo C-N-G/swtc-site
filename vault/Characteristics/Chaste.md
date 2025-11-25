@@ -1,9 +1,12 @@
 ---
 name: Chaste
-flavour: Filth and old age, I'm sure you will agree, are powerful wardens upon chastity.
+flavour: There are some amongst us who would claim my chastity is not by choice.
 ability: |
   You can not change team.
 ---
+> [!infobox]
+>  “There are some amongst us who would claim my chastity is not by choice.”
+
 ## Ability
 You can not change team.
 
