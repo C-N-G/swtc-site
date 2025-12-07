@@ -1,37 +1,26 @@
 ---
 name: Cunning
-flavour: Placeholder Flavour
+flavour: No, I'm not a linguist
 ability: |
-  Once per game, during the night, if you were chosen by another player's ability you may choose another player to redirect it to.
+  Once per game, if you are the target of an ability, another player is targeted instead.
 reminders:
   - - 🦊
     - "#FFFF00"
-    - "Cunning: Chose this player."
+    - "Cunning: Redirected to this Player."
 ---
 > [!infobox]
->  “Placeholder Flavour”
+>  “No, I'm not a linguist.”
 
 ## Ability
-Once per game, during the night, if you were chosen by another player's ability you may choose another player to redirect it to.
-
-## Setup Effects
-Placeholder setup effects. This text here should be filled with the exact text of the setup effects.
+Once per game, if you are the target of an ability, another player is targeted instead.
 
 ## Examples
-- Placeholder Example.
-
-- Placeholder Example.
-
-- Placeholder Example.
+- John is the Bodyguard. John chooses the Cunning player during the night, but Jane is targeted instead.
+- Jane is the Traitor. The Cunning Player has been targeted by an ability earlier in the game. Jane chooses the Cunning player during the night, the Cunning player dies.
+- The Cunning player is malfunctioning. Jane is the Traitor. Jane chooses the Cunning player during the night, John is targeted instead and dies.
 
 ## How to Play
-- Placeholder Strategy.
+- As your ability is passive, it could save you from death or negative abilities without your direct involvement! However, it's also true that a player might waste a beneficial ability on you and end up targeting the wrong player. Try to tell players you trust that you're Cunning!
 
 ## How to Narrate
-- Placeholder Narration.
-
-## Additional Information
-- Placeholder Additional Information.
-
-## Lore
-- Placeholder Lore.
+- The first time the Cunning player is the target of an ability, redirect the ability to another player instead.
