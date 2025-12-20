@@ -1,41 +1,25 @@
 ---
 name: Defiant
-flavour: Placeholder Flavour
+flavour: No.
 ability: |
-  Once per game, during the night, if you are chosen by another player it has no effect.
+  Once per game, during the night, if you are targeted by another player's ability nothing happens, they learn this.
 reminders:
   - - 🚫
     - "#FFFF00"
     - "Defiant: Has used their ability."
 ---
 > [!infobox]
-> |  |  |
-> | ---- | ---- |
-> | [[Attributes]] | Placeholder Attribute |
-> 
->  “Placeholder Flavour”
+>  “No.”
 
 ## Ability
-Once per game, during the night, if you are chosen by another player it has no effect.
-
-## Setup Effects
-Placeholder setup effects. This text here should be filled with the exact text of the setup effects.
+Once per game, during the night, if you are targeted by another player's ability nothing happens, they learn this.
 
 ## Examples
-- Placeholder Example.
-
-- Placeholder Example.
-
-- Placeholder Example.
+- John is the Traitor. John chooses the Defiant player during the night. Nothing happens.
+- The Defiant player is malfunctioning. John is the Traitor. John chooses the Defiant player during the night. The Defiant player dies.
 
 ## How to Play
-- Placeholder Strategy.
+- Try to get players with abilities that might harm you to choose you during the night. If you're on the Loyalist team try to get the Antagonist to choose you during the night!
 
 ## How to Narrate
-- Placeholder Narration.
-
-## Additional Information
-- Placeholder Additional Information.
-
-## Lore
-- Placeholder Lore.
+- The first time that another player targets the Defiant player with their ability during the night, inform them that nothing happens.
