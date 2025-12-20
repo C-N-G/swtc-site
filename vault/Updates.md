@@ -153,7 +153,7 @@
 - Added a reminder for this characteristic.
 ######  Secretive / [[Deceitful]]
 - Secretive renamed to Deceitful.
-- Deceitful (formerly Secretive) now has flavour text.
+- Deceitful now has flavour text.
 - Deceitful changed to give the Deceitful player more control over their ability.
 - Previous Ability — You appear as a different characteristic.
 - New Ability — On your first night, you must a choose different characteristic to appear to other players as.
