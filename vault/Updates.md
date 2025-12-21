@@ -75,6 +75,10 @@
 - Clairvoyant flavour text changed from: "Open your eyes, and see where you are not." to "I close my eyes. I see where I am not."
 ###### [[Dreamer]]
 - Dreamer now has flavour text.
+###### [[Exorcist]]
+- Exorcist flavour text changed to remove the busting of ghosts.
+- Previous Flavour Text — You see, a Spirit is just a coalescence of psychic energy, and with the right equipment, it's possible to... smooth out that discrepancy, so to speak. Does busting these Ghosts apart make me feel good? Not really, it's just my job.
+- New Flavour Text — You see, a Spirit is just a coalescence of psychic energy, and with the right equipment, it's possible to... smooth out that discrepancy, so to speak.
 ###### [[Investigator]]
 - Investigator now has flavour text.
 ###### [[Medium]]
