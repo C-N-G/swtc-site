@@ -37,6 +37,8 @@
 - A new characteristic that prevents a player from changing team.
 ###### [[Defiant]]
 - A new characteristic that can cause abilities targeting them to have no effect.
+###### [[Eccentric]]
+- A new characteristic that has the ability of a different characteristic each night.
 ###### [[Genius]]
 - A new characteristic that learns in play roles and characteristics.
 ###### [[Greedy]]
