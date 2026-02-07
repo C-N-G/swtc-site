@@ -18,24 +18,13 @@ reminders:
 ## Ability
 On your first night, you learn a [[player]] (not yourself) and their [[role]]. If they die, you become [[malfunctioning]].
 
-## Setup Effects
-Placeholder setup effects. This text here should be filled with the exact text of the setup effects.
-
 ## Examples
-- Placeholder Example.
-
-- Placeholder Example.
-
-- Placeholder Example.
+- On the first night, the Enamoured player learns that John is the Analyst. Later in the game, John dies. The Enamoured player is now malfunctioning.
+- The Enamoured player is malfunctioning. On the first night, the Enamoured player incorrectly learns that John is the Bodyguard. Later in the game, John dies. Nothing happens to the Enamoured player as they were already malfunctioning.
 
 ## How to Play
-- Placeholder Strategy.
+- Your experience this game is tied to the life of the player that you learnt. If you think you have an important role, try not to let them die!
+- If you are a Loyalist, and the Subversive team find out that you are enamoured with someone, it is likely they will try to kill them to also cause you to malfunction. Only tell people you trust, who you are enamoured with!
 
 ## How to Narrate
-- Placeholder Narration.
-
-## Additional Information
-- Placeholder Additional Information.
-
-## Lore
-- Placeholder Lore.
+- The first night that the Enamoured characteristic is in play, wake that player up. Tell the Enamoured player another player, and their role. Send them back to sleep.
