@@ -30,4 +30,4 @@ On your first night, you learn how many [[Player|players]] (not yourself) are Ps
 - You might be able to deduce which Antagonist is in play based on the results of your ability.
 
 ## How to Narrate
-- The first night that the Empathetic characteristic is in play, wake that player up. Tell the Empathetic player how many other players are Psychic. Send the Empathetic player back to sleep.
+- The first night that the Empathetic characteristic is in play, wake that player up. Tell the Empathetic player how many other players are Psychic. Send them back to sleep.
