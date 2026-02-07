@@ -19,4 +19,4 @@ On your first night, you must choose a different [[characteristic]] to [[Appeara
 - Try to choose a characteristic that will help you bluff in a way which supports your role!
 
 ## How to Narrate
-- The first night that the Deceitful characteristic is in play, wake that player up. Ask them to choose a different characteristic. Mark them as appearing as their chosen characteristic, and ensure all abilities that interact with them function accordingly.
+- The first night that the Deceitful characteristic is in play, wake that player up. Ask them to choose a different characteristic. Send them back to sleep. Mark them as appearing as their chosen characteristic, and ensure all abilities that interact with them function accordingly. 
