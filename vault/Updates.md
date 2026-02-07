@@ -155,6 +155,8 @@
 - Critical now has flavour text.
 ###### [[Diligent]]
 - Diligent now has flavour text.
+###### [[Empathetic]]
+- Empathetic now has flavour text.
 ###### [[Enamoured]]
 - Enamoured now has flavour text.
 ###### [[Intuitive]]
