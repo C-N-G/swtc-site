@@ -1,6 +1,6 @@
 ---
 name: Genius
-flavour: Placeholder Flavour
+flavour: It's all rather simple.
 ability: |
   Each night, you learn a role or characteristic (not yourself) that is in play, until there are no more left to learn.
 orderType: char_with_recurring_info
@@ -13,29 +13,17 @@ reminders:
     - "Genius: Learnt this player's characteristic is in play."
 ---
 > [!infobox]
->  “Placeholder Flavour”
+>  “It's all rather simple.”
 
 ## Ability
 Each night, you learn a role or characteristic (not yourself) that is in play, until there are no more left to learn.
 
-## Setup Effects
-Placeholder setup effects. This text here should be filled with the exact text of the setup effects.
-
 ## Examples
-- Placeholder Example.
-
-- Placeholder Example.
-
-- Placeholder Example.
+- John is the Alert Analyst. On the first night, the Genius player learns that the Analyst is in play. On the second night, the Genius player learns that the Alert characteristic is in play.
+- The Genius player is malfunctioning. On the first night, the Genius player incorrectly learns that the Charitable characteristic is in play. On the second night, the Genius player incorrectly learns that the Bodyguard is in play. 
 
 ## How to Play
-- Placeholder Strategy.
+- Your ability is very powerful, but be careful, it makes you a good target for the other team. Be careful about who you share your information with.
 
 ## How to Narrate
-- Placeholder Narration.
-
-## Additional Information
-- Placeholder Additional Information.
-
-## Lore
-- Placeholder Lore.
+- Each night, wake up the Genius player. Tell them a role or characteristic that is in play. Send them back to sleep.
