@@ -164,6 +164,7 @@
 ###### [[Inquisitive]]
 - Inquisitive now has flavour text.
 ###### [[Intuitive]]
+- Intuitive now has flavour text.
 - Added a reminder for this characteristic.
 ######  Secretive / [[Deceitful]]
 - Secretive renamed to Deceitful.
