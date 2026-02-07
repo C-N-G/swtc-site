@@ -159,6 +159,8 @@
 - Empathetic now has flavour text.
 ###### [[Enamoured]]
 - Enamoured now has flavour text.
+###### [[Forthright]]
+- Forthright now has flavour text.
 ###### [[Intuitive]]
 - Added a reminder for this characteristic.
 ######  Secretive / [[Deceitful]]
