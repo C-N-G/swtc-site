@@ -31,4 +31,4 @@ On your first day, your role is announced to all players.
 - Try not to get dismissed. If you're alive, then the Subversive team will be likely to waste a day targeting you.
 
 ## How to Narrate
-- On the first day that the Supervisor is in play, announce at the start of that day that the Supervisor is in play.
+- On the first day that the Supervisor is in play, announce at the start of that day who is the Supervisor.
