@@ -1,33 +1,23 @@
 ---
 name: Greedy
-flavour: Placeholder Flavour
+flavour: I... just... need... a... little... more...
 ability: |
-  The vote power of your votes and all votes against you is increased by +1.
+  The vote power of your votes, and all votes against you is increased by +1.
 ---
 > [!infobox]
->  “Placeholder Flavour”
+>  “I... just... need... a... little... more...”
 
 ## Ability
-The [[vote power]] of your votes and all votes against you is increased by +1.
-
-## Setup Effects
-Placeholder setup effects. This text here should be filled with the exact text of the setup effects.
+The [[vote power]] of your votes, and all votes against you is increased by +1.
 
 ## Examples
-- Placeholder Example.
-
-- Placeholder Example.
-
-- Placeholder Example.
+- The Greedy player votes during a nomination for dismissal. They have a vote power of 2, so their vote counts for 2.
+- The Greedy player is the target of a nomination for dismissal. The vote power of all votes against them is increased by +1.
+- The Greedy player is malfunctioning. The Greedy player votes during a nomination for dismissal. Their vote power remains unchanged, because they are malfunctioning.
 
 ## How to Play
-- Placeholder Strategy.
+- Nominate and vote as much as possible to use your ability to its maximum potential.
+- Try everything in your power not to be the target of a nomination, you will almost certainly be dismissed!
 
 ## How to Narrate
-- Placeholder Narration.
-
-## Additional Information
-- Placeholder Additional Information.
-
-## Lore
-- Placeholder Lore.
+- Ensure that the Greedy player's vote power is increased by +1, as long as they are not malfunctioning. Ensure that the vote power of all players voting against them is increased by +1.
