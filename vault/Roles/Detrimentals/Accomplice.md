@@ -4,7 +4,7 @@ team: Subversive
 type: Detrimental
 flavour: My fingerprints? No, you must be mistaken.
 ability: |
-  You are confused about being an Agent. On your first night, all Antagonists learn who you are.
+  On your first night, you learn which of your neighbours are Antagonists, and they learn your role.
 attributes:
   - Human
 setup:
