@@ -168,6 +168,8 @@
 - Added a reminder for this characteristic.
 ###### [[Knowledgeable]]
 - Knowledgeable now has flavour text.
+###### [[Methodical]]
+- Methodical now has flavour text.
 ######  Secretive / [[Deceitful]]
 - Secretive renamed to Deceitful.
 - Deceitful now has flavour text.
