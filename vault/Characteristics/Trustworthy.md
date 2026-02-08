@@ -1,6 +1,6 @@
 ---
 name: Trustworthy
-flavour: Placeholder Flavour
+flavour: A promise is a promise, and that's a promise.
 ability: |
   The first time you’re dismissed, you survive.
 reminders:
@@ -9,29 +9,18 @@ reminders:
     - "Trustworthy: Has used their ability."
 ---
 > [!infobox]
->  “Placeholder Flavour”
+>  “A promise is a promise, and that's a promise.”
 
 ## Ability
 The first time you’re [[Dismissal|dismissed]], you survive.
 
-## Setup Effects
-Placeholder setup effects. This text here should be filled with the exact text of the setup effects.
-
 ## Examples
-- Placeholder Example.
-
-- Placeholder Example.
-
-- Placeholder Example.
+- The Trustworthy player is dismissed for the first time, and survives.
+- The Trustworthy player is malfunctioning. The Trustworthy player is dismissed for the first time, and dies.
 
 ## How to Play
-- Placeholder Strategy.
+- If you're an Antagonist you're safer to play more suspiciously as you're very likely to survive your first dismissal. Alternatively, if you can save your ability until the end of the game, your victory is almost assured.
+- If you're a Loyalist be careful, as you're likely to be framed as suspicious for surviving dismissal.
 
 ## How to Narrate
-- Placeholder Narration.
-
-## Additional Information
-- Placeholder Additional Information.
-
-## Lore
-- Placeholder Lore.
+- The first time that the Trustworthy player is dismissed, ensure they survive.
