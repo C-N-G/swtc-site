@@ -187,6 +187,8 @@
 - Observant now has flavour text.
 ###### [[Perceptive]]
 - Perceptive now has flavour text.
+###### [[Persevering]]
+- Persevering now has flavour text.
 
 ## 29/11/2024
 #### [[Scenario|Scenarios]]
