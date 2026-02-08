@@ -193,6 +193,8 @@
 - Prideful now has flavour text.
 ###### [[Shrewd]]
 - Shrewd now has flavour text.
+###### [[Trustworthy]]
+- Trustworthy now has flavour text.
 
 ## 29/11/2024
 #### [[Scenario|Scenarios]]
