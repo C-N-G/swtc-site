@@ -1,33 +1,21 @@
 ---
 name: Punctual
-flavour: Placeholder Flavour
+flavour: Ah, I see you're late as usual.
 ability: |
   Each day, if you nominate first, your vote power increases by +1 for that nomination.
 ---
 > [!infobox]
->  “Placeholder Flavour”
+>  “Ah, I see you're late as usual.”
 
 ## Ability
 Each day, if you nominate first, your [[vote power]] increases by +1 for that nomination.
 
-## Setup Effects
-Placeholder setup effects. This text here should be filled with the exact text of the setup effects.
-
 ## Examples
-- Placeholder Example.
-
-- Placeholder Example.
-
-- Placeholder Example.
+- The Punctual player nominates first during the second day, they get +1 vote power for that nomination.
+- The Punctual player is malfunctioning. The Punctual player nominates first during the second day, their vote power remains unchanged.
 
 ## How to Play
-- Placeholder Strategy.
+- Try to nominate before other players, but be careful, your haste to dismiss others might be seen as a threat.
 
 ## How to Narrate
-- Placeholder Narration.
-
-## Additional Information
-- Placeholder Additional Information.
-
-## Lore
-- Placeholder Lore.
+- If the Punctual player nominates first in a day, ensure their vote power increases by +1 for the duration of their nomination.
