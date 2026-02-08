@@ -1,8 +1,8 @@
 ---
 name: Reflective
-flavour: Placeholder Flavour
+flavour: Look deep inside yourself, or perhaps, just look in a mirror sometime.
 ability: |
-  Each night, after the first, you learn the team of a player who voted on you during the previous day.
+  Each night, after the first, you learn the team of a player who voted to dismiss you during the previous day.
 orderType: char_with_recurring_info
 reminders:
   - - 🪞
@@ -10,29 +10,17 @@ reminders:
     - "Reflective: Learnt this player's team."
 ---
 > [!infobox]
->  “Placeholder Flavour”
+>  “Look deep inside yourself, or perhaps, just look in a mirror sometime.”
 
 ## Ability
-Each night, after the first, you learn the team of a [[player]] who voted on you during the previous day.
-
-## Setup Effects
-Placeholder setup effects. This text here should be filled with the exact text of the setup effects.
+Each night, after the first, you learn the team of a [[player]] who voted to dismiss you during the previous day.
 
 ## Examples
-- Placeholder Example.
-
-- Placeholder Example.
-
-- Placeholder Example.
+- John is on the Loyalist team. John is the only player who voted to dismiss the Reflective player during the previous day. The Reflective player learns that a Loyalist player voted to dismiss them.
+- The Reflective player is malfunctioning. John is on the Loyalist team. John is the only player who voted to dismiss the Reflective player during the previous day. The Reflective player learns that a Subversive player voted to dismiss them.
 
 ## How to Play
-- Placeholder Strategy.
+- If only a small number of players vote to dismiss you, you stand a better chance of effectively using your information.
 
 ## How to Narrate
-- Placeholder Narration.
-
-## Additional Information
-- Placeholder Additional Information.
-
-## Lore
-- Placeholder Lore.
+- Each night, after the first, if any player voted to dismiss the Reflective player during the previous, wake up the Reflective player. Tell them the team of a player who voted to dismiss them. Send them back to sleep.
