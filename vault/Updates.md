@@ -191,6 +191,8 @@
 - Persevering now has flavour text.
 ###### [[Prideful]]
 - Prideful now has flavour text.
+###### [[Shrewd]]
+- Shrewd now has flavour text.
 
 ## 29/11/2024
 #### [[Scenario|Scenarios]]
