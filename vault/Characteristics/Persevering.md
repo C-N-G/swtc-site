@@ -20,7 +20,7 @@ The first time you are killed by a [[player]] (not yourself), you survive.
 
 ## How to Play
 - Try to bait your opponents into wasting their killing abilities on you.
-- You can rest mostly safe, in the knowledge that you are less likely to die than other players.
+- You can rest mostly safe, in the knowledge that you are less likely to die during the night than other players. However, your likeliness to survive will make you more likely to be assumed to be the Antagonist by the Loyalist team.
 
 ## How to Narrate
 - The first time that the Persevering player is killed by another player, ensure they survive instead.
