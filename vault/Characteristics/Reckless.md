@@ -1,33 +1,21 @@
 ---
 name: Reckless
-flavour: Placeholder Flavour
+flavour: Our unfortunate casualties are just that, unfortunate. Onwards!
 ability: |
   Once per game, if you nominate a player on your team, they will be dismissed immediately.
 ---
 > [!infobox]
->  “Placeholder Flavour”
+>  “Our unfortunate casualties are just that, unfortunate. Onwards!”
 
 ## Ability
 Once per game, if you nominate a player on your team, they will be dismissed immediately.
 
-## Setup Effects
-Placeholder setup effects. This text here should be filled with the exact text of the setup effects.
-
 ## Examples
-- Placeholder Example.
-
-- Placeholder Example.
-
-- Placeholder Example.
+- The Reckless player is a Loyalist. John is on the Loyalist team. The Reckless player nominates John, they are dismissed immediately.
+- The Reckless player is malfunctioning. The Reckless player is a Loyalist. John is on the Loyalist team. The Reckless player nominates John, and the nomination proceeds as normal.
 
 ## How to Play
-- Placeholder Strategy.
+- Your ability has the potential for powerful confirmation of your team and the team of the player you nominate, however, be mindful that upon the dismissal, the day will end immediately.
 
 ## How to Narrate
-- Placeholder Narration.
-
-## Additional Information
-- Placeholder Additional Information.
-
-## Lore
-- Placeholder Lore.
+- The first time the Reckless player nominates a player on their team, dismiss that player immediately and end the day.
