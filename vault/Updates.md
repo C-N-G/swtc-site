@@ -185,6 +185,8 @@
 - New Ability — Once per game, the first player (not yourself) to choose you with their ability during the night is malfunctioning until the day.
 ###### [[Observant]]
 - Observant now has flavour text.
+###### [[Perceptive]]
+- Perceptive now has flavour text.
 
 ## 29/11/2024
 #### [[Scenario|Scenarios]]
