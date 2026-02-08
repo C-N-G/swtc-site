@@ -1,6 +1,6 @@
 ---
 name: Persevering
-flavour: There is no foe I cannot best, nor mountain I cannot climb, for my heart still yet beats.
+flavour: There is no foe I cannot best, for my heart still yet beats.
 ability: |
   The first time you are killed by a player (not yourself), you survive.
 reminders:
@@ -9,7 +9,7 @@ reminders:
     - "Persevering: Has used their ability."
 ---
 > [!infobox]
->  “There is no foe I cannot best, nor mountain I cannot climb, for my heart still yet beats.”
+>  “There is no foe I cannot best, for my heart still yet beats.”
 
 ## Ability
 The first time you are killed by a [[player]] (not yourself), you survive.
