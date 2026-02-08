@@ -166,6 +166,8 @@
 ###### [[Intuitive]]
 - Intuitive now has flavour text.
 - Added a reminder for this characteristic.
+###### [[Knowledgeable]]
+- Knowledgeable now has flavour text.
 ######  Secretive / [[Deceitful]]
 - Secretive renamed to Deceitful.
 - Deceitful now has flavour text.
