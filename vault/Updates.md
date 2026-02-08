@@ -153,6 +153,12 @@
 - New Ability — Your voting power is decreased by -1. The voting power of your living neighbours is increased by +1.
 ###### [[Critical]]
 - Critical now has flavour text.
+######  Secretive / [[Deceitful]]
+- Secretive renamed to Deceitful.
+- Deceitful now has flavour text.
+- Deceitful changed to give the Deceitful player more control over their ability.
+- Previous Ability — You appear as a different characteristic.
+- New Ability — On your first night, you must a choose different characteristic to appear to other players as.
 ###### [[Diligent]]
 - Diligent now has flavour text.
 ###### [[Empathetic]]
@@ -170,12 +176,8 @@
 - Knowledgeable now has flavour text.
 ###### [[Methodical]]
 - Methodical now has flavour text.
-######  Secretive / [[Deceitful]]
-- Secretive renamed to Deceitful.
-- Deceitful now has flavour text.
-- Deceitful changed to give the Deceitful player more control over their ability.
-- Previous Ability — You appear as a different characteristic.
-- New Ability — On your first night, you must a choose different characteristic to appear to other players as.
+###### [[Meticulous]]
+- Meticulous now has flavour text.
 
 ## 29/11/2024
 #### [[Scenario|Scenarios]]
