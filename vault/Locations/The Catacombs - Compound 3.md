@@ -3,7 +3,6 @@ name: The Catacombs - Compound 3
 flavour: “And now we know no bounds, not in this life nor the next.”
 ability: |
   Dead players can nominate and vote.
-publish: false
 ---
 > [!infobox]
 >  “And now we know no bounds, not in this life nor the next.”
