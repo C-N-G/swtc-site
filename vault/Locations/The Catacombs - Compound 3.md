@@ -11,18 +11,9 @@ publish: false
 ## Effect
 Dead players can nominate and vote.
 
-## Setup Effects
-Placeholder setup effects. This text here should be filled with the exact text of the setup effects.
-
 ## Examples
-- Placeholder Example.
-
-- Placeholder Example.
-
-- Placeholder Example.
+- John, died on the first day. On the second day, John votes on the nominations that occur.
+- John died on the first day. On the third day, John nominates Jane.
 
 ## How to Narrate
-- Placeholder Narration.
-
-## Additional Information
-- Placeholder Additional Information.
+- For the purposes of dismissal nominations and voting, dead players are allowed to vote. Ensure their nominations and votes are counted as if they were alive.
