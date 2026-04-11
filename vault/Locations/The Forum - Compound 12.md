@@ -1,11 +1,11 @@
 ---
 name: The Forum - Compound 12
-flavour: Those who have nothing to hide, have nothing to fear.
+flavour: Those who have nothing to hide have nothing to fear.
 ability: |
   All votes are public.
 ---
 > [!infobox]
->  “Those who have nothing to hide, have nothing to fear.”
+>  “Those who have nothing to hide have nothing to fear.”
 
 ## Effect
 All votes are public.
