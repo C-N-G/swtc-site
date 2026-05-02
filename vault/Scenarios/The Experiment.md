@@ -1,6 +1,8 @@
 ---
 name: The Experiment
 flavour: “What the-”
+location:
+  - The Catacombs - Compound 3
 roles:
   - Clairvoyant
   - Coordinator
@@ -48,6 +50,9 @@ chars:
 ## Summary
 The Experiment is a scenario designed for testing heavily WIP features and content.
 
+## Location
+- [[The Catacombs - Compound 3]]
+
 ## [[Agent|Agents]] (12)
 - [[Clairvoyant]]
 - [[Coordinator]]
@@ -73,7 +78,7 @@ The Experiment is a scenario designed for testing heavily WIP features and conte
 - [[Wraith]]
 
 ## [[Antagonist|Antagonists]] (1)
-- [[Bogeyman]]
+- [[Phantasmagoria]]
 
 ## [[Characteristic|Characteristics]] (18)
 - [[Adaptable]]
@@ -92,5 +97,5 @@ The Experiment is a scenario designed for testing heavily WIP features and conte
 - [[Perceptive]]
 - [[Persevering]]
 - [[Prideful]]
-- [[Secretive]]
+- [[Deceitful]]
 - [[Shrewd]]

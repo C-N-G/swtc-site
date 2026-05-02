@@ -1,6 +1,8 @@
 ---
 name: Standard Procedure
 flavour: “Attention, following the death of Agent Johnson the compound is now on high alert. The standard procedures for such a situation are now in effect until the culprit is found and eliminated.”
+location:
+  - Compound 8 - The Octagon
 roles:
   - Analyst
   - Assistant
@@ -48,6 +50,9 @@ chars:
 
 ## Summary
 Standard Procedure is designed for new and returning players, containing a little bit of all the basic mechanics that are present in Secrets Within the Compound.
+
+## Location
+- [[The Octagon - Compound 8]]
 
 ## [[Agent|Agents]] (12)
 - [[Analyst]]

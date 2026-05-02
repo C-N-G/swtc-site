@@ -1,27 +1,21 @@
 ---
-module: Vox Populi, Vox Diaboli
-attributes: Placeholder
-flavour text: “Placeholder”
-publish: false
+name: Punctual
+flavour: Ah, I see you're late as usual.
+ability: |
+  Each day, if you nominate first, your vote power increases by +1 for that nomination.
 ---
-## Ability
-If you nominate first, your [[vote power]] increases by +1.
+> [!infobox]
+>  “Ah, I see you're late as usual.”
 
-## Setup Effects
-Placeholder setup effects. This text here should be filled with the exact text of the setup effects.
+## Ability
+Each day, if you nominate first, your [[vote power]] increases by +1 for that nomination.
 
 ## Examples
-- Placeholder Example.
-
-- Placeholder Example.
-
-- Placeholder Example.
+- The Punctual player nominates first during the second day, they get +1 vote power for that nomination.
+- The Punctual player is malfunctioning. The Punctual player nominates first during the second day, their vote power remains unchanged.
 
 ## How to Play
-- Placeholder Strategy.
+- Try to nominate before other players, but be careful, your haste to dismiss others might be seen as a threat.
 
 ## How to Narrate
-- Placeholder Narration.
-
-## Additional Information
-- Placeholder Additional Information.
+- If the Punctual player nominates first in a day, ensure their vote power increases by +1 for the duration of their nomination.

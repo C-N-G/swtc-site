@@ -1,33 +1,20 @@
 ---
 name: Diligent
-flavour: Placeholder Flavour
+flavour: One hundred steps required. One hundred steps taken.
 ability: |
   You can't malfunction.
 ---
 > [!infobox]
->  “Placeholder Flavour”
+>  “One hundred steps required. One hundred steps taken.”
 
 ## Ability
 You can't malfunction.
 
-## Setup Effects
-Placeholder setup effects. This text here should be filled with the exact text of the setup effects.
-
 ## Examples
-- Placeholder Example.
-
-- Placeholder Example.
-
-- Placeholder Example.
+- John is the Assistant. The Assistant learnt the Diligent player. John dies. The Diligent player does not become malfunctioning.
 
 ## How to Play
-- Placeholder Strategy.
+- You can always trust your abilities to not be dysfunctional as a result of malfunctioning, however remember there can be other forms of manipulation at play! Players could always be lying to you, or you could simply misunderstand something.
 
 ## How to Narrate
-- Placeholder Narration.
-
-## Additional Information
-- Placeholder Additional Information.
-
-## Lore
-- Placeholder Lore.
+- If the Diligent player would for any reason become malfunctioning, they do not.

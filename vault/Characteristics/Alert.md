@@ -1,37 +1,27 @@
 ---
 name: Alert
-flavour: Placeholder Flavour
+flavour: Hm? What was that sound? There it is again! No, no, it wasn't just the wind!
 ability: |
-  During the night, once per game, when you’re chosen by a player (not yourself), you learn who they are, even if their ability would kill you.
+  During the night, once per game, when you’re chosen by a player (not yourself), you learn who chose you.
 reminders:
   - - 🚨
     - "#FFFF00"
     - "Alert: Has used their ability."
 ---
 > [!infobox]
->  “Placeholder Flavour”
+>  “Hm? What was that sound? There it is again! No, no, it wasn't just the wind!”
 
 ## Ability
-During the night, once per game, when you’re chosen by a [[player]] (not yourself), you learn who they are, even if their ability would kill you.
-
-## Setup Effects
-Placeholder setup effects. This text here should be filled with the exact text of the setup effects.
+During the night, once per game, when you’re chosen by a [[player]] (not yourself), you learn who chose you.
 
 ## Examples
-- Placeholder Example.
-
-- Placeholder Example.
-
-- Placeholder Example.
+- John is the Bodyguard. John chooses the Alert player during the night. The Alert player learns that John chose them.
+- Jane is the Traitor. Jane chooses to kill the Alert player during the night. The Alert player dies, and does not learn anything.
+- The Alert player is malfunctioning. John is the Bodyguard. John chooses the Alert player during the night. The Alert player incorrectly learns nothing.
+- The Alert player is malfunctioning. John is the Bodyguard. John chooses the Alert player during the night. The Alert player incorrectly learns that Jane chose them.
 
 ## How to Play
-- Placeholder Strategy.
+- Try to get players to choose you during the night so that you can gain information!
 
 ## How to Narrate
-- Placeholder Narration.
-
-## Additional Information
-- Placeholder Additional Information.
-
-## Lore
-- Placeholder Lore.
+- If a player chose the Alert player during the night, wake up the Alert player. Tell the Alert player who chose them. Send the Alert player back to sleep.

@@ -1,6 +1,6 @@
 ---
 name: Approachable
-flavour: Placeholder Flavour
+flavour: It's all in the body language, my friend.
 ability: |
   Once per game, during the night, you may choose any player: they learn your characteristic.
 orderType: char_with_recurring_info
@@ -10,29 +10,18 @@ reminders:
     - "Approachable: Chose this player."
 ---
 > [!infobox]
->  “Placeholder Flavour”
+>  “It's all in the body language, my friend.”
 
 ## Ability
 Once per game, during the night, you may choose any [[player]]: they learn your [[characteristic]].
 
-## Setup Effects
-Placeholder setup effects. This text here should be filled with the exact text of the setup effects.
-
 ## Examples
-- Placeholder Example.
-
-- Placeholder Example.
-
-- Placeholder Example.
+- The Approachable player chooses a player during the night, that player wakes up and learns who the Approachable player is.
+- The Approachable player is malfunctioning. The Approachable player chooses a player during the night, and nothing happens.
 
 ## How to Play
-- Placeholder Strategy.
+- Your ability might seem simple, but it can be used to help corroborate information.
+- Using your ability can be a good way to test if you're malfunctioning, assuming you trust the person you chose!
 
 ## How to Narrate
-- Placeholder Narration.
-
-## Additional Information
-- Placeholder Additional Information.
-
-## Lore
-- Placeholder Lore.
+- Each night, wake up the Approachable player. Ask them if they want to choose a player. Send them back to sleep. If they chose a player, wake up their choice and tell them who is Approachable.

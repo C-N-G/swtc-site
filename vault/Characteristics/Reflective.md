@@ -1,27 +1,26 @@
 ---
-module: Vox Populi, Vox Diaboli
-attributes: Placeholder
-flavour text: “Placeholder”
-publish: false
+name: Reflective
+flavour: Look deep inside yourself, or perhaps, just look in a mirror sometime.
+ability: |
+  Each night, after the first, you learn the team of a player who voted to dismiss you during the previous day.
+orderType: char_with_recurring_info
+reminders:
+  - - 🪞
+    - "#FFFF00"
+    - "Reflective: Learnt this player's team."
 ---
-## Ability
-Each night, after the first, you learn a [[player]] who voted on you during the previous day.
+> [!infobox]
+>  “Look deep inside yourself, or perhaps, just look in a mirror sometime.”
 
-## Setup Effects
-Placeholder setup effects. This text here should be filled with the exact text of the setup effects.
+## Ability
+Each night, after the first, you learn the team of a [[player]] who voted to dismiss you during the previous day.
 
 ## Examples
-- Placeholder Example.
-
-- Placeholder Example.
-
-- Placeholder Example.
+- John is on the Loyalist team. John is the only player who voted to dismiss the Reflective player during the previous day. The Reflective player learns that a Loyalist player voted to dismiss them.
+- The Reflective player is malfunctioning. John is on the Loyalist team. John is the only player who voted to dismiss the Reflective player during the previous day. The Reflective player learns that a Subversive player voted to dismiss them.
 
 ## How to Play
-- Placeholder Strategy.
+- If only a small number of players vote to dismiss you, you stand a better chance of effectively using your information.
 
 ## How to Narrate
-- Placeholder Narration.
-
-## Additional Information
-- Placeholder Additional Information.
+- Each night, after the first, if any player voted to dismiss the Reflective player during the previous, wake up the Reflective player. Tell them the team of a player who voted to dismiss them. Send them back to sleep.

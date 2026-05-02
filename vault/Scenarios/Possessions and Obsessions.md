@@ -1,6 +1,8 @@
 ---
 name: Possessions and Obsessions
 flavour: “Placeholder flavour.”
+location:
+  - The Catacombs - Compound 3
 roles:
   - Clairvoyant
   - Coordinator
@@ -22,6 +24,7 @@ roles:
   - Tulpa
   - Underachiever
   - Wraith
+  - Necromancer
   - Vessel
 chars: 
   - Adaptable
@@ -48,6 +51,9 @@ chars:
 ## Summary
 Possessions and Obsessions is designed to focus on the mechanic of [[obsession]]. It is not recommended for beginner [[Player|players]].
 
+## Location
+- [[The Catacombs - Compound 3]]
+
 ## [[Agent|Agents]] (12)
 - [[Clairvoyant]]
 - [[Coordinator]]
@@ -72,7 +78,8 @@ Possessions and Obsessions is designed to focus on the mechanic of [[obsession]]
 - [[Underachiever]]
 - [[Wraith]]
 
-## [[Antagonist|Antagonists]] (1)
+## [[Antagonist|Antagonists]] (2)
+- [[Necromancer]]
 - [[Vessel]]
 
 ## [[Characteristic|Characteristics]] (18)
@@ -92,5 +99,5 @@ Possessions and Obsessions is designed to focus on the mechanic of [[obsession]]
 - [[Perceptive]]
 - [[Persevering]]
 - [[Prideful]]
-- [[Secretive]]
+- [[Deceitful]]
 - [[Shrewd]]
