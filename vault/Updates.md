@@ -72,7 +72,9 @@
 #### [[Role|Roles]]
 ##### Agents
 ###### [[Clairvoyant]]
-- Clairvoyant flavour text changed from: "Open your eyes, and see where you are not." to "I close my eyes. I see where I am not."
+- Clairvoyant flavour text changed.
+- Previous Flavour Text — "Open your eyes, and see where you are not."
+- New Flavour Text — "I close my eyes. I see where I am not."
 ###### [[Dreamer]]
 - Dreamer now has flavour text.
 ###### [[Exorcist]]
