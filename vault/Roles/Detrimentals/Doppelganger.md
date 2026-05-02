@@ -10,8 +10,8 @@ attributes:
   - Psychic
   - Spirit
 setup:
-  - - You are confused about being an Agent.
-    - ShowAs Role Agent
+  - - You are confused about being an in-play Agent.
+    - ShowAs Role InPlay
 reminders:
   - - 🪞
     - "#702963"
