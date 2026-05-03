@@ -16,7 +16,7 @@ tableOfContents:
 ###### [[The Forum - Compound 12]]
 - A new [[location]] that makes all votes public.
 #### [[Role|Roles]]
-##### Agents
+##### [[Agent|Agents]]
 ###### [[Bureaucrat]]
 - A new Agent role that can learn a player's team through nominations.
 ###### [[Oathkeeper]]
@@ -25,7 +25,7 @@ tableOfContents:
 - A new Agent role that can make a prophecy and will die if it is true.
 ###### [[Supervisor]]
 - A new Agent role that is hard confirmed from the start of the game.
-##### Detrimentals
+##### [[Detrimental|Detrimentals]]
 ###### [[Archivist]]
 - A new Loyalist Detrimental role that gives information to the Antagonist when they die.
 ###### [[Executioner]]
@@ -74,7 +74,7 @@ tableOfContents:
 ###### [[The Experiment]]
 - Added the [[location]] [[The Catacombs - Compound 3]].
 #### [[Role|Roles]]
-##### Agents
+##### [[Agent|Agents]]
 ###### [[Clairvoyant]]
 - Clairvoyant flavour text changed.
 - Previous Flavour Text — "Open your eyes, and see where you are not."
@@ -114,7 +114,7 @@ tableOfContents:
 - Warden ability changed to clarify that the Prisoner learns that the Warden chose them.
 - Previous Ability — Each night, you must choose a player: if you choose the Prisoner, they become an Agent role of their choice.
 - New Ability — Each night, you must choose a player: if you choose the Prisoner, they learn this and become an Agent role of their choice.
-##### Detrimentals
+##### [[Detrimental|Detrimentals]]
 ###### [[Accomplice]]
 - Accomplice reworked and split into an additional role, the Pawn.
 - Removed confusion from the Accomplice.
@@ -137,7 +137,7 @@ tableOfContents:
 - New Ability — Each night, an Antagonist learns an Agent player and their role, until there are no more left to learn.
 ###### [[Wraith]]
 - Wraith now has flavour text.
-##### Antagonists
+##### [[Antagonist|Antagonists]]
 ###### [[Necromancer]]
 - Necromancer ability changed to prevent situations where they would wake to choose a dead player but do not know who is dead.
 - Previous Ability — Each night, after the first, you may choose a dead player: they learn they were chosen by the Necromancer and they join your team.
@@ -207,7 +207,7 @@ tableOfContents:
 ###### [[The Experiment]]
 - A new [[scenario]] titled "[[The Experiment]]" is now available. It is not really a proper [[scenario]] and is instead a [[scenario]] to test highly WIP features and content. Currently it will be for testing a new [[Antagonist]] added in this update, the [[Bogeyman]]
 #### [[Role|Roles]]
-##### Antagonists
+##### [[Antagonist|Antagonists]]
 ###### [[Bogeyman]]
 - A new [[Antagonist]] [[role]] that can win if a [[player]] they choose is [[Dismissal|dismissed]].
 
@@ -217,7 +217,7 @@ tableOfContents:
 ###### [[Possessions and Obsessions]]
 - Removed the [[Necromancer]] from [[Possessions and Obsessions]] until the [[role]] receives some tweaks.
 #### [[Role|Roles]]
-##### Antagonists
+##### [[Antagonist|Antagonists]]
 ###### [[Necromancer]]
 - Changed the [[Necromancer]]'s ability so that [[Player|players]] converted by the [[Necromancer]] learn they were chosen.
 #### Rules and Mechanics
@@ -230,7 +230,7 @@ tableOfContents:
 ###### [[Possessions and Obsessions]]
 - A new [[scenario]] titled "[[Possessions and Obsessions]]" is now available, featuring new [[Role|roles]] and [[Characteristic|characteristics]], and some old [[Role|roles]] that used to be part of the [[Standard Procedure]] module before the [[Scenario]] changes. It mainly centres around the new mechanic of [[obsession]].
 #### [[Role|Roles]]
-##### Agents
+##### [[Agent|Agents]]
 ###### [[Dreamer]]
 - A new [[Agent]] [[role]] that learns two statements each night. Can you work out which is true?
 ###### [[Exorcist]]
@@ -247,7 +247,7 @@ tableOfContents:
 - A new [[Agent]] [[role]] which must pretend to be someone else if they want to gain that ability.
 ###### [[Tethered]]
 - A new [[Agent]] [[role]] which learns a [[Loyalist]] [[player]], but must be careful to get them both killed.
-##### Detrimentals
+##### [[Detrimental|Detrimentals]]
 ###### [[Anomaly]]
 - A new [[Detrimental]] [[role]] that can start on either team, and change team every night. They must work out which team they are on if they have any hope of success.
 ###### [[Doppelganger]]
@@ -258,7 +258,7 @@ tableOfContents:
 - A new [[Loyalist]] [[Detrimental]] [[role]] that must be careful about killing themselves and wasting a day.
 ###### [[Wraith]]
 - A new [[Subversive]] [[Detrimental]] [[role]] that can choose to kill a [[player]] that nominates them.
-##### Antagonists
+##### [[Antagonist|Antagonists]]
 ###### [[Necromancer]]
 - A new [[Antagonist]] [[role]] that converts dead [[Player|players]] to their team.
 ###### [[Vessel]]
@@ -276,7 +276,7 @@ tableOfContents:
 - A new [[characteristic]] (which some of you may have seen before the changes to the [[Scenario]] system) that appears as a different [[characteristic]] to other [[Player|players]].
 ### Changes
 #### [[Role|Roles]]
-##### Agents
+##### [[Agent|Agents]]
 ###### [[Test Subject]]
 - Changed the [[Test Subject]] reminder icon from ⚰️ to 🧪.
 
