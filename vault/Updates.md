@@ -1,3 +1,7 @@
+---
+tableOfContents:
+  maxHeadingLevel: 5
+---
 ## ??/??/????
 ### Additions
 #### [[Scenario|Scenarios]]
