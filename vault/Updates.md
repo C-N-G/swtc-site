@@ -99,9 +99,9 @@ tableOfContents:
 - New Ability — Each night, after the first, if a [[player]] is dead, you must choose a [[player]]: if they are dead, you learn their [[role]]. If they are alive, you learn they are alive.
 ###### [[Medic]]
 - [[Medic]] now has flavour text.
-- [[Medic]] ability changed to separate the learning and resurrecting functions of their ability into each night and once per game, respectively.
+- [[Medic]] ability changed to clarify they lose their ability once they resurrect a player, and to increase the impact of [[Attributes]] on the game.
 - Previous Ability — Once per game, during the night, if any [[Player|players]] have died tonight, you learn who, and may choose one to resurrect.
-- New Ability — Each night, after the first, if any [[Player|players]] have died tonight, you learn who. Once per game, during the night, you may choose to resurrect a [[player]] that you learnt died that night. If you choose a [[player]] with this ability, you no longer have this ability.
+- New Ability — Each night, after the first, if any Human players have died tonight, you learn who, and may choose one to resurrect. If you resurrect a player with this ability, you lose this ability.
 ###### [[Mortician]]
 - [[Mortician]] now has flavour text.
 ###### [[Postcog]]
