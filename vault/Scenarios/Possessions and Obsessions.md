@@ -1,6 +1,6 @@
 ---
 name: Possessions and Obsessions
-flavour: “Placeholder flavour.”
+flavour: “It must be mine, give it to me! It should be mine, give it to me!”
 location:
   - The Catacombs - Compound 3
 roles:
@@ -47,7 +47,7 @@ chars:
   - Shrewd
 ---
 > [!infobox]
-> “Placeholder flavour.”
+> “It must be mine, give it to me! It should be mine, give it to me!”
 ## Summary
 Possessions and Obsessions is designed to focus on the mechanic of [[obsession]]. It is not recommended for beginner [[Player|players]].
 

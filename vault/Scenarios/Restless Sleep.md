@@ -1,6 +1,6 @@
 ---
 name: Restless Sleep
-flavour: “Placeholder flavour.”
+flavour: “Tossing and turning, all the long night through; Now there are many, but soon there will be few.”
 location:
   - The Forum - Compound 12
 roles:
@@ -46,7 +46,7 @@ chars:
   - Vigilant
 ---
 > [!infobox]
-> “Placeholder.”
+> “Tossing and turning, all the long night through; Now there are many, but soon there will be few.”
 
 ## Summary
 Restless Sleep is a scenario with a single antagonist, the Bogeyman. With no malfunctioning, and the only major source of misinformation being the Detrimentals, can the Bogeyman strike fear into the hearts of the Loyalists or will the Agency prevail?
