@@ -4,7 +4,7 @@ team: Loyalist
 type: Agent
 flavour: I had to make a choice. I chose you.
 ability: |
-  Each night, after the first, if any players have died tonight, you learn who. Once per game, during the night, you may choose to resurrect a player that you learnt died that night. If you choose a player with this ability, you no longer have this ability.
+  Each night, after the first, if any Human players have died tonight, you learn who, and may choose one to resurrect. If you resurrect a player with this ability, you lose this ability.
 orderType: role_resurrects_others
 attributes:
   - Human
@@ -23,7 +23,7 @@ reminders:
 >  “I had to make a choice. I chose you.”
 
 ## Ability
-Each night, after the first, if any players have died tonight, you learn who. Once per game, during the night, you may choose to resurrect a player that you learnt died that night. If you choose a player with this ability, you no longer have this ability.
+Each night, after the first, if any Human players have died tonight, you learn who, and may choose one to resurrect. If you resurrect a player with this ability, you lose this ability.
 
 ## Examples
 - John and Jane died in the night. The Medic wakes up and learns that John and Jane died tonight, and chooses to resurrect John, and thus loses their ability.
