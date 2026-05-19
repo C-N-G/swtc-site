@@ -11,7 +11,7 @@ attributes:
   - Spirit
 setup:
   - - You are confused about being an in-play Agent.
-    - ShowAs Role InPlay
+    - ShowAs Role InPlayAgent
 reminders:
   - - 🪞
     - "#702963"
