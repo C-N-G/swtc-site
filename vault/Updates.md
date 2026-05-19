@@ -80,6 +80,10 @@ tableOfContents:
 - [[Clairvoyant]] flavour text changed.
 - Previous Flavour Text — "Open your eyes, and see where you are not."
 - New Flavour Text — "I close my eyes. I see where I am not."
+###### [[Cook]]
+- [[Cook]] ability changed to increase the impact of [[Attributes]] on the game.
+- Previous Ability — Your neighbours cannot malfunction.
+- New Ability  — Your Human neighbours cannot malfunction.
 ###### [[Dreamer]]
 - [[Dreamer]] now has flavour text.
 ###### [[Exorcist]]
