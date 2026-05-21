@@ -5,11 +5,11 @@ tableOfContents:
 # About
 This page focuses on providing a player readable format for important updates and changes to Secrets Within the Compound's various mechanics, abilities, roles, characteristics, and other content found in the SWTCpedia.
 
-This page does not contain technical updates or changes to the Secrets Within the Compound application. For the application changelog, please visit:  
+This page does not contain technical updates or changes to the Secrets Within the Compound application. For the application changelog, please visit:
 [SWTC Application Changelog](https://github.com/C-N-G/swtc/blob/main/CHANGELOG.md)
 
-For a full list of changes to the SWTCpedia in a less player-friendly format, please see the commit history:  
-[SWTCpedia Commit History](https://github.com/C-N-G/swtc-site/commits/main/)
+For a full list of changes to the SWTCpedia, please visit:
+[SWTCpedia GitHub Commit History](https://github.com/C-N-G/swtc-site/commits/main/)
 
 ## ??/??/????
 ### Additions
