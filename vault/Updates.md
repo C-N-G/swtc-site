@@ -3,7 +3,7 @@ tableOfContents:
   maxHeadingLevel: 5
 ---
 # About
-This page focuses on providing a player friendly, readable format for important updates and changes to Secrets Within the Compound's various mechanics, abilities, roles, characteristics, and other content found in the SWTCpedia.
+This page focuses on providing a readable format for important updates and changes to Secrets Within the Compound's various mechanics, abilities, roles, characteristics, and other content found in the SWTCpedia.
 
 This page does not contain technical updates or changes to the Secrets Within the Compound application. For the application changelog, please visit:  
 [SWTC Application Changelog](https://github.com/C-N-G/swtc/blob/main/CHANGELOG.md)
