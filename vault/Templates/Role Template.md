@@ -28,7 +28,7 @@ publish: false
 > | Team | Placeholder Team |
 > | Type | Placeholder Type |
 > | [[Attributes]] | Placeholder Attribute |
-> 
+> ![[Unknown.svg]]
 >  “Placeholder Flavour”
 
 ## Ability
