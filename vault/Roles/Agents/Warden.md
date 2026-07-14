@@ -22,7 +22,7 @@ reminders:
 > | Team | Loyalist |
 > | Type | Agent |
 > | [[Attributes]] | Human |
-> 
+> ![[Warden.svg]]
 >  “There you are! Desperate times call for desperate measures. Grab a gun and let's go!”
 
 ## Ability

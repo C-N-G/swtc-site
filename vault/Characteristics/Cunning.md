@@ -9,6 +9,7 @@ reminders:
     - "Cunning: Redirected to this Player."
 ---
 > [!infobox]
+> ![[Unknown.svg]]
 >  “No, I'm not a linguist.”
 
 ## Ability

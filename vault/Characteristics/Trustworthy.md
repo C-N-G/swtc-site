@@ -9,6 +9,7 @@ reminders:
     - "Trustworthy: Has used their ability."
 ---
 > [!infobox]
+> ![[Unknown.svg]]
 >  “A promise is a promise, and that's a promise.”
 
 ## Ability

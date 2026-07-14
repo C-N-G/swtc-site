@@ -19,7 +19,7 @@ reminders:
 > | Team | Loyalist |
 > | Type | Agent |
 > | [[Attributes]] | Human |
-> 
+> ![[Medic.svg]]
 >  “I had to make a choice. I chose you.”
 
 ## Ability

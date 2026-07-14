@@ -19,7 +19,7 @@ reminders:
 > | Team | Loyalist |
 > | Type | Detrimental |
 > | [[Attributes]] | Human |
-> 
+> ![[Test Subject.svg]]
 >  “Circle! Square! Wait, no. Let me see the cards again. I'll get it this time, just give me more of that serum!”
 
 ## Ability

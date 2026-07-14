@@ -19,7 +19,7 @@ reminders:
 > | Team | Loyalist |
 > | Type | Agent |
 > | [[Attributes]] | Human |
-> 
+> ![[Bureaucrat.svg]]
 >  “Yes sir, all your papers are in order. Wait... your signature doesn't match.”
 
 ## Ability

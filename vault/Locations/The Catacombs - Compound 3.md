@@ -5,6 +5,7 @@ ability: |
   Dead players can nominate and vote.
 ---
 > [!infobox]
+> ![[Unknown.svg]]
 >  “And now we know no bounds, not in this life nor the next.”
 
 ## Effect

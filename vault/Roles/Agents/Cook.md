@@ -18,7 +18,7 @@ reminders:
 > | Team | Loyalist |
 > | Type | Agent |
 > | [[Attributes]] | Human |
-> 
+> ![[Cook.svg]]
 >  “First, we eat.”
 
 ## Ability

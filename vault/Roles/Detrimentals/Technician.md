@@ -18,7 +18,7 @@ reminders:
 > | Team | Loyalist |
 > | Type | Detrimental |
 > | [[Attributes]] | Human |
-> 
+> ![[Technician.svg]]
 >  “I don’t think you’re aware of how much I do around here.”
 
 ## Ability

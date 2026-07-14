@@ -23,7 +23,7 @@ reminders:
 > | Team | Loyalist |
 > | Type | Agent |
 > | [[Attributes]] | Psychic, Spirit |
-> 
+> ![[Shadow.svg]]
 >  “Why you, and not me? Why shouldn't it be me? WHY?”
 
 ## Ability

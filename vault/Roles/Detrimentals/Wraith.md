@@ -20,7 +20,7 @@ reminders:
 > | Team | Subversive |
 > | Type | Detrimental |
 > | [[Attributes]] | Psychic, Spirit |
-> 
+> ![[Wraith.svg]]
 >  “Do you not see it? The branches sway, in the depths of night. A Wraith lingers, upon this earth. Do you not see it? The candle flickers, a final wisp of smoke. The Wraith draws near, abandon all hope.”
 
 ## Ability

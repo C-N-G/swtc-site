@@ -5,6 +5,7 @@ ability: |
   Your voting power is decreased by -1. The voting power of your living neighbours is increased by +1.
 ---
 > [!infobox]
+> ![[Unknown.svg]]
 >  “Take a little bit less, give a little bit more.”
 
 ## Ability

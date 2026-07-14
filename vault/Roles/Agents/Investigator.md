@@ -19,7 +19,7 @@ reminders:
 > | Team | Loyalist |
 > | Type | Agent |
 > | [[Attributes]] | Human |
-> 
+> ![[Investigator.svg]]
 >  “I spy with my little eye something beginning with...”
 
 ## Ability

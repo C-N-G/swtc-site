@@ -10,6 +10,7 @@ reminders:
     - "Knowledgeable: Learnt this player's role is in play."
 ---
 > [!infobox]
+> ![[Unknown.svg]]
 >  “I make it my business to know things.”
 
 ## Ability

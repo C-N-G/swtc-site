@@ -19,7 +19,7 @@ reminders:
 > | Team | Loyalist |
 > | Type | Detrimental |
 > | [[Attributes]] | Human |
-> 
+> ![[Intern.svg]]
 >  “Assistant? No, sir. I'm just an intern.”
 
 ## Ability

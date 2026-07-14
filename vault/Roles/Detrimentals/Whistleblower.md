@@ -19,7 +19,7 @@ reminders:
 > | Team | Loyalist |
 > | Type | Detrimental |
 > | [[Attributes]] | Human |
-> 
+> ![[Whistleblower.svg]]
 >  “Give them some truth.”
 
 ## Ability

@@ -10,6 +10,7 @@ reminders:
     - "Reflective: Learnt this player's team."
 ---
 > [!infobox]
+> ![[Unknown.svg]]
 >  “Look deep inside yourself, or perhaps, just look in a mirror sometime.”
 
 ## Ability

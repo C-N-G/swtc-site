@@ -10,6 +10,7 @@ reminders:
     - "Honest: This player learnt who was Honest."
 ---
 > [!infobox]
+> ![[Unknown.svg]]
 >  “Honesty is the best policy, so in the spirit of honesty, let me assure you: I am an honest individual.”
 
 ## Ability

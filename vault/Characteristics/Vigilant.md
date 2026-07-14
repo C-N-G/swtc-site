@@ -6,6 +6,7 @@ ability: |
 orderType: char_with_recurring_info
 ---
 > [!infobox]
+> ![[Unknown.svg]]
 >  “Be ever vigilant, be ever on guard, for those close to you are those most at risk.”
 
 ## Ability

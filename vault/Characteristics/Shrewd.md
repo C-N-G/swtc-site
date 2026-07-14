@@ -10,6 +10,7 @@ reminders:
     - "Shrewd: Chose this player."
 ---
 > [!infobox]
+> ![[Unknown.svg]]
 >  “Discernment is the wisdom of the judge, and judge we must.”
 
 ## Ability

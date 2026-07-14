@@ -19,7 +19,7 @@ reminders:
 > | Team | Loyalist |
 > | Type | Agent |
 > | [[Attributes]] | Human |
-> 
+> ![[Bodyguard.svg]]
 >  “Your service will be remembered.”
 
 ## Ability

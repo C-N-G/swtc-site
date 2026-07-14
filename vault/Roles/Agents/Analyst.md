@@ -15,7 +15,7 @@ attributes:
 > | Team | Loyalist |
 > | Type | Agent |
 > | [[Attributes]] | Human |
-> 
+> ![[Analyst.svg]]
 >  “Don’t blame me, I’m just presenting the data.”
 
 ## Ability

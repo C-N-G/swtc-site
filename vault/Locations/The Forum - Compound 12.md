@@ -5,6 +5,7 @@ ability: |
   All votes are public.
 ---
 > [!infobox]
+> ![[Unknown.svg]]
 >  “Those who have nothing to hide have nothing to fear.”
 
 ## Effect

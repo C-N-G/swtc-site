@@ -18,7 +18,7 @@ reminders:
 > | Team | Archivist |
 > | [[Type]] | [[Detrimental]] |
 > | [[Attributes]] | Human |
-> 
+> ![[Archivist.svg]]
 >  “All the files are in order; everything has been organized and sorted. I've got the key right here!”
 
 ## Ability

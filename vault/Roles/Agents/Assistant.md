@@ -21,7 +21,7 @@ reminders:
 > | Team | Loyalist |
 > | Type | Agent |
 > | [[Attributes]] | Human |
-> 
+> ![[Assistant.svg]]
 >  “Can I get you a coffee, sir?”
 
 ## Ability

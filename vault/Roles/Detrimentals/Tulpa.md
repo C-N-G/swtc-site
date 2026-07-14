@@ -22,7 +22,7 @@ reminders:
 > | Team | [[Loyalist]] |
 > | [[Type]] | [[Detrimental]] |
 > | [[Attributes]] | Psychic, Spirit |
-> 
+> ![[Tulpa.svg]]
 >  “Manufactured to fit a purpose. Sleeping, I return, formless again.”
 
 ## Ability

@@ -13,6 +13,7 @@ reminders:
     - "Enamoured: This player is malfunctioning"
 ---
 > [!infobox] 
+> ![[Unknown.svg]]
 >  “You and I, were meant to be together. You and I, were meant to live forever. You and I, were always meant to die.”
 
 ## Ability

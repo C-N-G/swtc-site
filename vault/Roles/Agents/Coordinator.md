@@ -19,7 +19,7 @@ reminders:
 > | Team | Loyalist |
 > | Type | Agent |
 > | [[Attributes]] | Human |
-> 
+> ![[Coordinator.svg]]
 >  “Listen, I know your family just got eaten, but can you please explain why you’re underperforming in all key metrics?”
 
 ## Ability

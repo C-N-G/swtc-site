@@ -9,6 +9,7 @@ reminders:
     - "Manipulative: Has used their ability."
 ---
 > [!infobox]
+> ![[Unknown.svg]]
 >  “With a barbed tongue you can pierce, but with a soft tongue you can caress.”
 
 ## Ability

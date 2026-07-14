@@ -9,6 +9,7 @@ reminders:
     - "Optimistic: Has used their ability."
 ---
 > [!infobox]
+> ![[Unknown.svg]]
 >  “There's no such thing as false hope; Hope can only be identified as false after the time for hope has passed.”
 
 ## Ability

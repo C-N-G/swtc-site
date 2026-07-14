@@ -20,7 +20,7 @@ reminders:
 > | Team | Loyalist |
 > | Type | Agent |
 > | [[Attributes]] | Psychic, Spirit |
-> 
+> ![[Tethered.svg]]
 >  “The thread may be pulled, but it shall never unwind.”
 
 ## Ability

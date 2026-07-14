@@ -16,7 +16,7 @@ attributes:
 > | Team | Loyalist |
 > | Type | Agent |
 > | [[Attributes]] | Human, Psychic |
-> 
+> ![[Dreamer.svg]]
 >  “But I have not seen you in so long! You were gone, but now you appear to me, and only in my deepest dreams should I see you, and yet my eyes do not deceive me! You stand before me, in the turgid light of my waking life, and I, with naked heart, gaze upon you. Though I cannot help but ponder, maybe it is not I who is dreaming, but you.”
 
 ## Ability

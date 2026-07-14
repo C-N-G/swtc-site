@@ -9,6 +9,7 @@ reminders:
     - "Defiant: Has used their ability."
 ---
 > [!infobox]
+> ![[Unknown.svg]]
 >  “No.”
 
 ## Ability

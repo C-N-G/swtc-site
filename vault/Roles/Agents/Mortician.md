@@ -19,7 +19,7 @@ reminders:
 > | Team | Loyalist |
 > | Type | Agent |
 > | [[Attributes]] | Human |
-> 
+> ![[Mortician.svg]]
 >  “I'd say this was death by natural causes. Can't live without a spinal cord. Nothing supernatural about that.”
 
 ## Ability

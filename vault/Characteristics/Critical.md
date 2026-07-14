@@ -10,6 +10,7 @@ reminders:
     - "Critical: Chose this player."
 ---
 > [!infobox]
+> ![[Unknown.svg]]
 >  “I must admit, it does seem rather derivative. Can't you do something else?”
 
 ## Ability

@@ -9,6 +9,7 @@ reminders:
     - "Persevering: Has used their ability."
 ---
 > [!infobox]
+> ![[Unknown.svg]]
 >  “There is no foe I cannot best, for my heart still yet beats.”
 
 ## Ability

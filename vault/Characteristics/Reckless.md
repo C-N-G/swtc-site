@@ -5,6 +5,7 @@ ability: |
   Once per game, if you nominate a player on your team, they will be dismissed immediately.
 ---
 > [!infobox]
+> ![[Unknown.svg]]
 >  “Our unfortunate casualties are just that, unfortunate. Onwards!”
 
 ## Ability

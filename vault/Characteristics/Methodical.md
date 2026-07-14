@@ -10,6 +10,7 @@ reminders:
     - "Methodical: Learnt this player's characteristic is in play."
 ---
 > [!infobox]
+> ![[Unknown.svg]]
 >  “If we pursue a systematic procedure, we will ensure our success.”
 
 ## Ability

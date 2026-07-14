@@ -16,7 +16,7 @@ attributes:
 > | Team | Loyalist |
 > | Type | Agent |
 > | [[Attributes]] | Human, Psychic |
-> 
+> ![[Postcog.svg]]
 >  “The event is over. The time has passed. The puzzle pieces fit. What next?”
 
 ## Ability

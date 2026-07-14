@@ -46,6 +46,7 @@ chars:
   - Vigilant
 ---
 > [!infobox]
+> ![[Unknown.svg]]
 > “Tossing and turning, all the long night through; Now there are many, but soon there will be few.”
 
 ## Summary

@@ -10,6 +10,7 @@ reminders:
     - "Observant: This player woke due to their ability."
 ---
 > [!infobox]
+> ![[Unknown.svg]]
 >  “I heard each and every one. 32 footsteps, I counted them myself.”
 
 ## Ability

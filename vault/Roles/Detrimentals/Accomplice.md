@@ -21,7 +21,7 @@ reminders:
 > | Team | Subversive |
 > | Type | Detrimental |
 > | [[Attributes]] | Human |
-> 
+> ![[Accomplice.svg]]
 >  “My fingerprints? No, you must be mistaken.”
 
 ## Ability

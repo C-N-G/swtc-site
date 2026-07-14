@@ -6,6 +6,7 @@ ability: |
 orderType: char_with_recurring_info
 ---
 > [!infobox]
+> ![[Unknown.svg]]
 >  “Every little detail matters.”
 
 ## Ability

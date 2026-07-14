@@ -9,6 +9,7 @@ reminders:
     - "Patient: Has used their ability."
 ---
 > [!infobox]
+> ![[Unknown.svg]]
 >  “Take a seat, and watch the world go by. When our time is here, it will be so.”
 
 ## Ability

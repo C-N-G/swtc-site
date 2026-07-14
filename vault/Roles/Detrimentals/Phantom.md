@@ -15,7 +15,7 @@ attributes:
 > | Team | Loyalist |
 > | Type | Detrimental |
 > | [[Attributes]] | Psychic, Spirit |
-> 
+> ![[Phantom.svg]]
 >  “What do you mean dead? I'm right here.”
 
 ## Ability

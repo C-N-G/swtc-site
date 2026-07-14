@@ -46,6 +46,7 @@ chars:
   - Shrewd
 ---
 > [!infobox]
+> ![[Unknown.svg]]
 > “What the-.”
 ## Summary
 The Experiment is a scenario designed for testing heavily WIP features and content.
