@@ -13,6 +13,10 @@ For a full list of changes to the SWTCpedia, please visit:
 
 ## ??/??/????
 ### Additions
+#### Art / Media
+- All roles now have their own icons. These are currently concept designs and will be refined and replaced with original artwork in the future. The current artwork is a mixture of public domain imagery, AI-generated content, and our own edits.
+- There is now an unknown role and characteristic icon for use in-game whenever a player's role or characteristic is unknown.
+- All pages that should have artwork but currently don't are using the unknown icon as a placeholder.
 #### [[Scenario|Scenarios]]
 ###### [[Restless Sleep]]
 - A new [[scenario]] titled "[[Restless Sleep]]" is now available, most significantly featuring the [[Bogeyman]] [[antagonist]] and [[The Forum - Compound 12]] [[location]], amongst other new content.
