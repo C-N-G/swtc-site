@@ -14,9 +14,7 @@ For a full list of changes to the SWTCpedia, please visit:
 ## ??/??/????
 ### Featured Updates
 - The game now includes a "[[Location|locations]]" system that will help to further differentiate the various [[Scenario|scenarios]] and provide interesting and challenging mechanics for all [[Player|players]].
-- All roles now have their own icons. These are currently concept designs and will be refined and replaced with original artwork in the future. The current artwork is a mixture of public domain imagery, AI-generated content, and our own edits.
-- There is now an unknown role and characteristic icon for use in-game whenever a player's role or characteristic is unknown.
-- All pages that should have artwork but currently don't are using the unknown icon as a placeholder.
+- All roles now have their own icons. These are currently concept designs and will be refined and replaced with original artwork in the future. The current artwork is a mixture of public domain imagery, AI-generated content, and our own edits. There is an unknown role and characteristic icon for use in-game whenever a player's role or characteristic is unknown. All pages that should have artwork but currently don't are using the unknown icon as a placeholder.
 ### Additions
 #### [[Scenario|Scenarios]]
 ###### [[Restless Sleep]]
