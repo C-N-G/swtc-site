@@ -10,7 +10,7 @@ reminders:
     - "Adaptable: Has used their ability."
 ---
 > [!infobox]
-> ![[Unknown.svg]]
+> ![[Adaptable.svg]]
 >  “I'll do whatever I can, with whatever I have. I don't have the tools? I'll make them. Improvise and overcome.”
 
 ## Ability
