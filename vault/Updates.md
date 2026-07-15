@@ -12,16 +12,16 @@ For a full list of changes to the SWTCpedia, please visit:
 [SWTCpedia GitHub Commit History](https://github.com/C-N-G/swtc-site/commits/main/)
 
 ## ??/??/????
-### Additions
-#### Art / Media
+### Featured Updates
+- The game now includes a "[[Location|locations]]" system that will help to further differentiate the various [[Scenario|scenarios]] and provide interesting and challenging mechanics for all [[Player|players]].
 - All roles now have their own icons. These are currently concept designs and will be refined and replaced with original artwork in the future. The current artwork is a mixture of public domain imagery, AI-generated content, and our own edits.
 - There is now an unknown role and characteristic icon for use in-game whenever a player's role or characteristic is unknown.
 - All pages that should have artwork but currently don't are using the unknown icon as a placeholder.
+### Additions
 #### [[Scenario|Scenarios]]
 ###### [[Restless Sleep]]
 - A new [[scenario]] titled "[[Restless Sleep]]" is now available, most significantly featuring the [[Bogeyman]] [[antagonist]] and [[The Forum - Compound 12]] [[location]], amongst other new content.
 #### [[Location|Locations]]
-- The game now includes a "[[Location|locations]]" system that will help to further differentiate the various [[Scenario|scenarios]] and provide interesting and challenging mechanics for all [[Player|players]].
 ###### [[The Catacombs - Compound 3]]
 - A new [[location]] that allows dead [[Player|players]] to participate in the [[dismissal]] process as if they were still alive.
 ###### [[The Octagon - Compound 8]]
