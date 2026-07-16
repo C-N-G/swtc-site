@@ -5,7 +5,7 @@ ability: |
   You can not change team.
 ---
 > [!infobox]
-> ![[Unknown.svg]]
+> ![[Chaste.svg]]
 >  “There are some amongst us who would claim my chastity is not by choice.”
 
 ## Ability
