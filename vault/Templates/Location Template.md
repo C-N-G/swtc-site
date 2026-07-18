@@ -1,18 +1,10 @@
 ---
 name: Placeholder Name
 flavour: Placeholder Flavour
-ability: |
+effect: |
   Placeholder Ability
-orderType: Placeholder orderType
-attributes:
-  - Placeholder Attribute
-setup:
-  - - Placeholder Setup Effect Description
-    - Placeholder Setup Effect Command
-reminders:
-  - - ❌
-    - "#FFFFFF"
-    - "Placeholder Reminder Name: Placeholder Reminder Description"
+config: 
+  placeholder_location_setting: true
 publish: false
 ---
 > [!infobox]
