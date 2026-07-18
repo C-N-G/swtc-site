@@ -1,7 +1,7 @@
 ---
 name: The Octagon - Compound 8
 flavour: “Perhaps the earth itself was merely bending up before him and into infinity so that his eyes could wander across all of its beauty.”
-ability: |
+effect: |
   This location has no effect.
 ---
 > [!infobox]

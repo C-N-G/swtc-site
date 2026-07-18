@@ -1,8 +1,10 @@
 ---
 name: The Forum - Compound 12
 flavour: Those who have nothing to hide have nothing to fear.
-ability: |
+effect: |
   All votes are public.
+config:
+  allow_public_votes: true
 ---
 > [!infobox]
 > ![[Unknown.svg]]
