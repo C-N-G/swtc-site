@@ -26,3 +26,4 @@ pnpm-debug.log*
 vault-reduced/
 src/content/docs/swtcpedia
 public/swtcpedia
+src/assets/swtcpedia
