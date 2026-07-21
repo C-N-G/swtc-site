@@ -36,7 +36,7 @@ For a full list of changes to the SWTCpedia, please visit:
 ###### [[Prophet]]
 - A new [[Agent]] [[role]] that can make a prophecy and will die if it is true.
 ###### [[Supervisor]]
-- A new [[Agent]] [[role]] that is hard confirmed from the start of the game.
+- A new [[Agent]] [[role]] that is mechanically confirmed as their role from the start of the game.
 ##### [[Detrimental|Detrimentals]]
 ###### [[Archivist]]
 - A new [[Loyalist]] [[Detrimental]] [[role]] that gives information to the [[Antagonist]] when they die.
