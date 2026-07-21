@@ -20,6 +20,7 @@ reminders:
 > | Team | Loyalist |
 > | Type | Agent |
 > | [[Attributes]] | Human, Psychic |
+> 
 > ![[Telepath.svg]]
 >  “I’d like to walk around in your mind.”
 

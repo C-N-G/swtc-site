@@ -10,6 +10,7 @@ reminders:
     - "Approachable: Chose this player."
 ---
 > [!infobox]
+> 
 > ![[Approachable.svg]]
 >  “It's all in the body language, my friend.”
 

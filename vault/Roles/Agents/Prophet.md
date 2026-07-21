@@ -20,6 +20,7 @@ reminders:
 > | Team | Loyalist |
 > | Type | Agent |
 > | [[Attributes]] | Human, Psychic |
+> 
 > ![[Prophet.svg]]
 >  “And in those days of spring, when the flowers bloom, you shall wither and be lost.”
 

@@ -16,6 +16,7 @@ attributes:
 > | Team | Loyalist |
 > | Type | Agent |
 > | [[Attributes]] | Human, Psychic |
+> 
 > ![[Precog.svg]]
 >  “I have seen most of the pieces of the puzzle, though I am not yet sure how they fit together.”
 

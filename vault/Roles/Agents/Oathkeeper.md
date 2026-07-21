@@ -19,6 +19,7 @@ reminders:
 > | Team | Loyalist |
 > | Type | Agent |
 > | [[Attributes]] | Human |
+> 
 > ![[Oathkeeper.svg]]
 >  “Say the words. Embody the purpose of the Agency. You are all that separates our kind from annihilation.” 
 

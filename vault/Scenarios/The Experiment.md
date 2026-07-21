@@ -45,6 +45,7 @@ chars:
   - Shrewd
 ---
 > [!infobox]
+> 
 > ![[Unknown.svg]]
 > “What the-.”
 ## Summary

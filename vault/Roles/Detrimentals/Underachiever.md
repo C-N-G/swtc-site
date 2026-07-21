@@ -21,6 +21,7 @@ reminders:
 > | Team | [[Loyalist]] |
 > | [[Type]] | [[Detrimental]] |
 > | [[Attributes]] | Human |
+> 
 > ![[Underachiever.svg]]
 >  “Almost there...”
 

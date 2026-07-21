@@ -9,6 +9,7 @@ chars:
 publish: false
 ---
 > [!infobox]
+> 
 > ![[Unknown.svg]]
 > “Placeholder Flavour”
 

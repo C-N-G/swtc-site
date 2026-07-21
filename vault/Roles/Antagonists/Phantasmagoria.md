@@ -21,6 +21,7 @@ publish: false
 > | Team | Subversive |
 > | Type | Antagonist |
 > | [[Attributes]] | Psychic, Spirit |
+> 
 > ![[Unknown.svg]]
 >  “Step right up! See the impossible! There has never been a show like it! Prepare for an experience you will remember for the rest of your lives!”
 

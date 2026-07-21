@@ -14,6 +14,7 @@ attributes:
 > | Team | Loyalist |
 > | Type | Detrimental |
 > | [[Attributes]] | Human |
+> 
 > ![[VIP.svg]]
 >  “Special? No, no, no. Special is your lover bringing you flowers. Me? I’m important.”
 

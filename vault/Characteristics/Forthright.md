@@ -5,6 +5,7 @@ ability: |
   On your first day, your characteristic is announced to all players.
 ---
 > [!infobox]
+> 
 > ![[Unknown.svg]]
 >  “There's no time for such dilly-dallying. This is me. This is what I am.”
 

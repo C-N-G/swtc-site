@@ -19,6 +19,7 @@ publish: false
 > |  |  |
 > | ---- | ---- |
 > | [[Attributes]] | Placeholder Attribute |
+> 
 > ![[Unknown.svg]]
 >  “Placeholder Flavour”
 

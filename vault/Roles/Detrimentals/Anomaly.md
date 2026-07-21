@@ -20,6 +20,7 @@ reminders:
 > | Team | Either |
 > | Type | Detrimental |
 > | [[Attributes]] | Psychic, Spirit |
+> 
 > ![[Anomaly.svg]]
 >  “weWEwe wereWEREwere alwaysALWAYSalways hereHEREhere.”
 

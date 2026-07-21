@@ -24,6 +24,7 @@ reminders:
 > | Team | Subversive |
 > | Type | Antagonist |
 > | [[Attributes]] | Human, Psychic, Spirit |
+> 
 > ![[Vessel.svg]]
 >  “For I am merely a ship to sail, a cup to drink out of, a vessel for a higher power.”
 

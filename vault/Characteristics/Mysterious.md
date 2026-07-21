@@ -5,6 +5,7 @@ ability: |
   Any ability that targets you might not work, or might yield arbitrary information.
 ---
 > [!infobox]
+> 
 > ![[Unknown.svg]]
 >  “The more unknowable it is, the more beautiful it is, don't you think?”
 

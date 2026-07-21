@@ -15,6 +15,7 @@ attributes:
 > | Team | Either |
 > | Type | Detrimental |
 > | [[Attributes]] | Human |
+> 
 > ![[Turncoat.svg]]
 >  “Which way? This way, or that way? I say, whichever way the wind blows.”
 

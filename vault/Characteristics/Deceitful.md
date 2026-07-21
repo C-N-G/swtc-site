@@ -6,6 +6,7 @@ ability: |
   On your first night, you must a choose different characteristic to appear to other players as.
 ---
 > [!infobox]
+> 
 > ![[Unknown.svg]]
 >  “It's the truth, I swear on my mother's life.”
 

@@ -14,6 +14,7 @@ attributes:
 > | Team | Loyalist |
 > | Type | Agent |
 > | [[Attributes]] | Human |
+> 
 > ![[Supervisor.svg]]
 >  “I'm your boss, you idiots!”
 

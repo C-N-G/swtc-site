@@ -19,6 +19,7 @@ reminders:
 > | Team | Loyalist |
 > | Type | Agent |
 > | [[Attributes]] | Human |
+> 
 > ![[Psychologist.svg]]
 >  “I'm sorry, but it's the opinion of the entire staff that Agent Johnson is clinically insane.”
 

@@ -20,6 +20,7 @@ appears:
 > | Team | Loyalist |
 > | Type | Detrimental |
 > | [[Attributes]] | Human |
+> 
 > ![[Prisoner.svg]]
 >  “How long will you keep me here? I beg you just let it end!”
 

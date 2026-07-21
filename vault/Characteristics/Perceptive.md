@@ -10,6 +10,7 @@ reminders:
     - "Perceptive: Learnt this player."
 ---
 > [!infobox]
+> 
 > ![[Unknown.svg]]
 >  “I saw that scar on your hand when you first arrived, do you mind telling me how you got it?”
 

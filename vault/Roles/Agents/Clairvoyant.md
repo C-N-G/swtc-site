@@ -20,6 +20,7 @@ reminders:
 > | Team | Loyalist |
 > | Type | Agent |
 > | [[Attributes]] | Human, Psychic |
+> 
 > ![[Clairvoyant.svg]]
 >  “I close my eyes. I see where I am not.”
 

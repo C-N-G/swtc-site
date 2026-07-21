@@ -5,6 +5,7 @@ ability: |
   You can't malfunction.
 ---
 > [!infobox]
+> 
 > ![[Unknown.svg]]
 >  “One hundred steps required. One hundred steps taken.”
 

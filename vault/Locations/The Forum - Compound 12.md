@@ -7,6 +7,7 @@ config:
   allow_public_votes: true
 ---
 > [!infobox]
+> 
 > ![[Unknown.svg]]
 >  “Those who have nothing to hide have nothing to fear.”
 

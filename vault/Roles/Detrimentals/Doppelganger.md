@@ -23,6 +23,7 @@ reminders:
 > | Team | Subversive |
 > | Type | Detrimental |
 > | [[Attributes]] | Psychic, Spirit |
+> 
 > ![[Doppelganger.svg]]
 >  “I find myself haunted. I turn the corner, and there you are. Always over my shoulder. Always behind my own eyes. I'm there, but so are you. What is left for me to rest my world upon? All has slipped away, besides the dirt beneath my feet, and all that remains in its place is confusion.”
 

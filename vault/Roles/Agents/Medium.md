@@ -20,6 +20,7 @@ reminders:
 > | Team | Loyalist |
 > | Type | Agent |
 > | [[Attributes]] | Human, Psychic |
+> 
 > ![[Medium.svg]]
 >  “I am in communion with the deceased, their powerful spirits are restless! I hear their voices... one of them used to occupy a position of power in this compound. SILENCE! They are speaking to me! "I used to clean the toilet stalls." Oh...”
 

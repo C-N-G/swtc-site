@@ -9,6 +9,7 @@ reminders:
     - "Alert: Has used their ability."
 ---
 > [!infobox]
+> 
 > ![[Alert.svg]]
 >  “Hm? What was that sound? There it is again! No, no, it wasn't just the wind!”
 

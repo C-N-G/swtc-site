@@ -9,6 +9,7 @@ reminders:
     - "Prideful: Lost their ability."
 ---
 > [!infobox]
+> 
 > ![[Unknown.svg]]
 >  “Injure my pride? You think yourself capable of such a feat?”
 

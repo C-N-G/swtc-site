@@ -20,6 +20,7 @@ reminders:
 > | Team | Subversive |
 > | Type | Antagonist |
 > | [[Attributes]] | Psychic, Spirit |
+> 
 > ![[Bogeyman.svg]]
 >  “Full of fear they’ll get no rest, consumed with terror and distress, and when that fear is all that’s left, here comes the Bogeyman.”
 

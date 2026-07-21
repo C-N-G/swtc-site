@@ -10,6 +10,7 @@ reminders:
     - "Inquisitive: Learnt this player's role."
 ---
 > [!infobox]
+> 
 > ![[Unknown.svg]]
 >  “May I take a closer look?”
 

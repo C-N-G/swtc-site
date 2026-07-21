@@ -46,6 +46,7 @@ chars:
   - Shrewd
 ---
 > [!infobox]
+> 
 > ![[Unknown.svg]]
 > “It must be mine, give it to me! It should be mine, give it to me!”
 ## Summary

@@ -14,6 +14,7 @@ attributes:
 > | Team | Loyalist |
 > | Type | Detrimental |
 > | [[Attributes]] | Human |
+> 
 > ![[Executioner.svg]]
 >  “Perverse incentive? I have no idea what you mean.”
 

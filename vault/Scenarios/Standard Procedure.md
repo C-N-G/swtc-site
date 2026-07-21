@@ -45,6 +45,7 @@ chars:
   - Trustworthy
 ---
 > [!infobox]
+> 
 > ![[Unknown.svg]]
 > “Attention, following the death of [[Agent]] Johnson the compound is now on high alert. The standard procedures for such a situation are now in effect until the culprit is found and eliminated.”
 

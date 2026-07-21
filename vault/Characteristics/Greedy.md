@@ -5,6 +5,7 @@ ability: |
   The vote power of your votes, and all votes against you is increased by +1.
 ---
 > [!infobox]
+> 
 > ![[Unknown.svg]]
 >  “I... just... need... a... little... more...”
 

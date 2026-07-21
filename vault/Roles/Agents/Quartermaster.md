@@ -19,6 +19,7 @@ reminders:
 > | Team | Loyalist |
 > | Type | Agent |
 > | [[Attributes]] | Human |
+> 
 > ![[Quartermaster.svg]]
 >  “Form an orderly line! It’s important we ration our supplies!”
 

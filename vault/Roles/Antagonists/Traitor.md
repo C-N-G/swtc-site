@@ -19,6 +19,7 @@ reminders:
 > | Team | Subversive |
 > | Type | Antagonist |
 > | [[Attributes]] | Human |
+> 
 > ![[Traitor.svg]]
 >  “What?! It’s not me!”
 

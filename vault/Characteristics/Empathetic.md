@@ -15,6 +15,7 @@ reminders:
 > |  |  |
 > | ---- | ---- |
 > | [[Attributes]] | Psychic |
+> 
 > ![[Unknown.svg]]
 >  “A whisper reverberates within them; I feel it too.”
 

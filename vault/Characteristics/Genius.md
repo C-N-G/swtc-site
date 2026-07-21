@@ -13,6 +13,7 @@ reminders:
     - "Genius: Learnt this player's characteristic is in play."
 ---
 > [!infobox]
+> 
 > ![[Unknown.svg]]
 >  “It's all rather simple.”
 

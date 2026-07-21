@@ -21,6 +21,7 @@ reminders:
 > | Team | Subversive |
 > | Type | Detrimental |
 > | [[Attributes]] | Human |
+> 
 > ![[Pawn.svg]]
 >  “Chess? I'm more of a checkers player myself.”
 

@@ -5,6 +5,7 @@ ability: |
   Each day, if you nominate first, your vote power increases by +1 for that nomination.
 ---
 > [!infobox]
+> 
 > ![[Unknown.svg]]
 >  “Ah, I see you're late as usual.”
 

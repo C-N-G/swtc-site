@@ -19,6 +19,7 @@ reminders:
 > | Team | Loyalist |
 > | Type | Agent |
 > | [[Attributes]] | Human |
+> 
 > ![[Therapist.svg]]
 >  “Agent Johnson? That boy needs therapy!”
 

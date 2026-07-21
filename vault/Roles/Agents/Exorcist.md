@@ -19,6 +19,7 @@ reminders:
 > | Team | Loyalist |
 > | Type | Agent |
 > | [[Attributes]] | Human, Psychic |
+> 
 > ![[Exorcist.svg]]
 >  “You see, a Spirit is just a coalescence of psychic energy, and with the right equipment, it's possible to... smooth out that discrepancy, so to speak.”
 
