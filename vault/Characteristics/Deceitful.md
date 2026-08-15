@@ -7,7 +7,7 @@ ability: |
 ---
 > [!infobox]
 > 
-> ![[Unknown.svg]]
+> ![[Deceitful.svg]]
 >  “It's the truth, I swear on my mother's life.”
 
 ## Ability

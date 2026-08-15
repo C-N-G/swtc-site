@@ -10,7 +10,7 @@ reminders:
 ---
 > [!infobox]
 > 
-> ![[Unknown.svg]]
+> ![[Defiant.svg]]
 >  “No.”
 
 ## Ability

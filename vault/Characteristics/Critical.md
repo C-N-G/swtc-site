@@ -11,7 +11,7 @@ reminders:
 ---
 > [!infobox]
 > 
-> ![[Unknown.svg]]
+> ![[Critical.svg]]
 >  “I must admit, it does seem rather derivative. Can't you do something else?”
 
 ## Ability

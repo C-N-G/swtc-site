@@ -10,7 +10,7 @@ reminders:
 ---
 > [!infobox]
 > 
-> ![[Unknown.svg]]
+> ![[Cunning.svg]]
 >  “No, I'm not a linguist.”
 
 ## Ability

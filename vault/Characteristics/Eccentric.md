@@ -7,7 +7,7 @@ orderType: char_converts_self
 ---
 > [!infobox]
 > 
-> ![[Unknown.svg]]
+> ![[Eccentric.svg]]
 >  “You ask if I could not be so weird, as if it were so easy to take apart my own self.”
 
 ## Ability

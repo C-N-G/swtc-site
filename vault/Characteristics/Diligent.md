@@ -6,7 +6,7 @@ ability: |
 ---
 > [!infobox]
 > 
-> ![[Unknown.svg]]
+> ![[Diligent.svg]]
 >  “One hundred steps required. One hundred steps taken.”
 
 ## Ability
