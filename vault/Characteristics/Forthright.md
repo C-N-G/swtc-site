@@ -6,7 +6,7 @@ ability: |
 ---
 > [!infobox]
 > 
-> ![[Unknown.svg]]
+> ![[Forthright.svg]]
 >  “There's no time for such dilly-dallying. This is me. This is what I am.”
 
 ## Ability

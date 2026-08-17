@@ -14,7 +14,7 @@ reminders:
 ---
 > [!infobox] 
 > 
-> ![[Unknown.svg]]
+> ![[Enamoured.svg]]
 >  “You and I, were meant to be together. You and I, were meant to live forever. You and I, were always meant to die.”
 
 ## Ability
