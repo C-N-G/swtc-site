@@ -32,7 +32,7 @@ On your first night, you learn the role of a neighbouring Antagonist, and they l
 You neighbour an [[Antagonist]].
 
 ## Examples
-- John is the Traitor. The Accomplice starts neighbouring John. The Accomplice learns that John is the Antagonist, and John learns who the Accomplice is.
+- John is the Traitor. The Accomplice starts neighbouring John. The Accomplice learns that John is the Traitor, and John learns who the Accomplice is.
 
 ## How to Play
 - Be careful that you are not found out to be the Accomplice! If the Loyalist team know you're the Accomplice then they know that at least one of your neighbours is an Antagonist!
