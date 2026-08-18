@@ -149,6 +149,7 @@ For a full list of changes to the SWTCpedia, please visit:
 - [[Test Subject]] now has flavour text.
 ###### [[Turncoat]]
 - [[Turncoat]] now has flavour text.
+- Added setup ability to prevent the Turncoat learning who the Subversive team are.
 ###### [[Whistleblower]]
 - [[Whistleblower]] ability changed to only give information to 1 [[Antagonist]] at a time.
 - Previous Ability — Each night, the [[Antagonist|Antagonists]] learn an [[Agent]] [[player]] and their [[role]], until there are no more left to learn.
