@@ -136,7 +136,7 @@ For a full list of changes to the SWTCpedia, please visit:
 - [[Accomplice]] reworked and split into an additional [[role]]: the [[Pawn]].
 - Removed [[confusion]] from the [[Accomplice]].
 - Previous Ability — You are [[Confusion|confused]] about being an [[Agent]]. On your first night, all [[Antagonist|Antagonists]] learn who you are.
-- New Ability — On your first night, you learn which of your neighbours are [[Antagonist|Antagonists]], and they learn your [[role]].
+- New Ability — On your first night, you learn the role of a neighbouring Antagonist, and they learn your role.
 ###### [[Doppelganger]]
 - [[Doppelganger]] now has flavour text.
 - [[Doppelganger]] changed to clarify when the [[Doppelganger]] wakes up.
