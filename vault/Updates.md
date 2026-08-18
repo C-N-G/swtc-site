@@ -13,6 +13,7 @@ For a full list of changes to the SWTCpedia, please visit:
 
 ## ??/??/????
 ### Featured Updates
+- All Subversive players, unless otherwise specified, now start the game knowing who else is on their team, as per the updated [[2. Goals]] page. This will provide a needed buff for the Subversive team. Additionally, this will bring the game closer to the classic social deduction experience of the informed minority versus the uninformed majority. Thanks [Dmitry Davidoff](https://en.wikipedia.org/wiki/Mafia_(party_game)#History).
 - The game now includes a "[[Location|locations]]" system that will help to further differentiate the various [[Scenario|scenarios]] and provide interesting and challenging mechanics for all [[Player|players]].
 - All roles now have their own icons. These are currently concept designs and will be refined and replaced with original artwork in the future. The current artwork is a mixture of public domain imagery, AI-generated content, and our own edits. There is an unknown role and characteristic icon for use in-game whenever a player's role or characteristic is unknown. All pages that should have artwork but currently don't are using the unknown icon as a placeholder.
 - The game now features announcement sound effects that play when the game phase progresses from night to day and from day to night. These announcements become increasingly unnerving and corrupted as the game progresses.
