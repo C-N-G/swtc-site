@@ -4,7 +4,7 @@ team: Subversive
 type: Detrimental
 flavour: My fingerprints? No, you must be mistaken.
 ability: |
-  On your first night, you learn which of your neighbours are Antagonists, and they learn your role.
+  On your first night, you learn the role of a neighbouring Antagonist, and they learn your role.
 attributes:
   - Human
 setup:
@@ -26,7 +26,7 @@ reminders:
 >  “My fingerprints? No, you must be mistaken.”
 
 ## Ability
-On your first night, you learn which of your neighbours are Antagonists, and they learn your role.
+On your first night, you learn the role of a neighbouring Antagonist, and they learn your role.
 
 ## Setup Effects
 You neighbour an [[Antagonist]].
