@@ -4,7 +4,7 @@ team: Either
 type: Detrimental
 flavour: weWEwe wereWEREwere alwaysALWAYSalways hereHEREhere.
 ability: |
-  Each night, you must choose a player (not yourself): you join their opposing team. You do not know which team you are on.
+  Each night, you must choose a player (not yourself): you join their opposing team. You do not know which team you are on, or if you started on the Subversive team, who else is on your team.
 orderType: role_converts_self
 attributes:
   - Psychic
@@ -25,7 +25,7 @@ reminders:
 >  “weWEwe wereWEREwere alwaysALWAYSalways hereHEREhere.”
 
 ## Ability
-Each night, you must choose a player (not yourself): you join their opposing team. You do not know which team you are on.
+Each night, you must choose a player (not yourself): you join their opposing team. You do not know which team you are on, or if you started on the Subversive team, who else is on your team.
 
 ## Examples
 - John is on the Loyalist team. The Anomaly wakes up and chooses John. The Anomaly joins the Subversive team because John was on the Loyalist team.
