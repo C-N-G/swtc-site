@@ -5,9 +5,11 @@ type: Detrimental
 flavour: Which way? This way, or that way? I say, whichever way the wind blows.
 ability: |
   Each night, after the first, you change team.
-orderType: role_converts_self
 attributes:
   - Human
+setup:
+  - - You do not know who else is on the Subversive team.
+orderType: role_converts_self
 ---
 > [!infobox]
 > |  |  |
@@ -22,6 +24,9 @@ attributes:
 ## Ability
 Each night, after the first, you change team.
 
+## Setup
+You do not know who else is on the Subversive team.
+
 ## Examples
 - The Turncoat starts the game on the Loyalist team. The following night the Turncoat joins the Subversive team. The Turncoat dies whilst on the Subversive team and remains Subversive for the rest of the game.
 - The Turncoat starts the game on the Subversive team. The following night the Turncoat joins the Loyalist team. The Turncoat dies whilst on the Loyalist team and remains Loyalist for the rest of the game.
@@ -35,3 +40,4 @@ Each night, after the first, you change team.
 
 ## How to Narrate
 - Choose which team the Turncoat starts the game on. Every night, wake up the Turncoat and tell them they have changed team. Send them back to sleep.
+- If the Turncoat starts the game on the Subversive team, do not tell them who else is on the Subversive team.
