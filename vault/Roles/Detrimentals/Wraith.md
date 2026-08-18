@@ -34,7 +34,6 @@ Once per game, during the night, you may choose to kill the player who last nomi
 
 ## How to Play
 - Try to disguise yourself. If you choose to kill a player, the night immediately after you were nominated, then players are likely to suspect that you are the Wraith. If you wait a day, or two, you might be able to frame another player as the Wraith.
-- Be wary of using your ability without knowing the team of the player who nominated you. You could kill players on your team by mistake!
 
 ## How to Narrate
 - Each night, if the Wraith has been nominated previously, ask them if they want to kill the player who last nominated them. Send them back to sleep.
