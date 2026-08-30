@@ -14,7 +14,7 @@ reminders:
 ---
 > [!infobox]
 > 
-> ![[Unknown.svg]]
+> ![[Genius.svg]]
 >  “It's all rather simple.”
 
 ## Ability

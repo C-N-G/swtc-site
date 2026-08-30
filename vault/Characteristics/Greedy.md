@@ -6,7 +6,7 @@ ability: |
 ---
 > [!infobox]
 > 
-> ![[Unknown.svg]]
+> ![[Greedy.svg]]
 >  “I... just... need... a... little... more...”
 
 ## Ability
