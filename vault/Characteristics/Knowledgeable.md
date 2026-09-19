@@ -11,7 +11,7 @@ reminders:
 ---
 > [!infobox]
 > 
-> ![[Unknown.svg]]
+> ![[Knowledgeable.svg]]
 >  “I make it my business to know things.”
 
 ## Ability

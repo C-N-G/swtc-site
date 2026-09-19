@@ -11,7 +11,7 @@ reminders:
 ---
 > [!infobox]
 > 
-> ![[Unknown.svg]]
+> ![[Inquisitive.svg]]
 >  “May I take a closer look?”
 
 ## Ability

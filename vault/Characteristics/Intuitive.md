@@ -16,7 +16,7 @@ reminders:
 > | ---- | ---- |
 > | [[Attributes]] | Psychic |
 > 
-> ![[Unknown.svg]]
+> ![[Intuitive.svg]]
 >  “It's a feeling in the gut, an unconscious knowing, an inner sense.”
 
 ## Ability
