@@ -7,7 +7,7 @@ orderType: char_with_recurring_info
 ---
 > [!infobox]
 > 
-> ![[Unknown.svg]]
+> ![[Meticulous.svg]]
 >  “Every little detail matters.”
 
 ## Ability

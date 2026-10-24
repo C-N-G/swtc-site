@@ -11,7 +11,7 @@ reminders:
 ---
 > [!infobox]
 > 
-> ![[Unknown.svg]]
+> ![[Methodical.svg]]
 >  “If we pursue a systematic procedure, we will ensure our success.”
 
 ## Ability

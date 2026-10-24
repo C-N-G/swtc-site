@@ -10,7 +10,7 @@ reminders:
 ---
 > [!infobox]
 > 
-> ![[Unknown.svg]]
+> ![[Manipulative.svg]]
 >  “With a barbed tongue you can pierce, but with a soft tongue you can caress.”
 
 ## Ability
