@@ -1,5 +1,6 @@
 {
   "accentColor": "",
   "theme": "moonstone",
-  "cssTheme": "ITS Theme"
+  "cssTheme": "ITS Theme",
+  "showRibbon": true
 }
