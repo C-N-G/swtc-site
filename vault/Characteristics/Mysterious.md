@@ -6,7 +6,7 @@ ability: |
 ---
 > [!infobox]
 > 
-> ![[Unknown.svg]]
+> ![[Mysterious.svg]]
 >  “The more unknowable it is, the more beautiful it is, don't you think?”
 
 ## Ability
