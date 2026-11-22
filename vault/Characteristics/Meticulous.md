@@ -11,7 +11,7 @@ orderType: char_with_recurring_info
 >  “Every little detail matters.”
 
 ## Ability
-Each night, you learn if you are [[malfunctioning]]. This ability cannot [[Malfunctioning|malfunction]].
+Each night, you learn if you are [[Malfunctioning]]. This ability cannot [[Malfunctioning|malfunction]].
 
 ## Examples
 - On the first night, the Meticulous player is malfunctioning. They wake up and learn that they are malfunctioning.

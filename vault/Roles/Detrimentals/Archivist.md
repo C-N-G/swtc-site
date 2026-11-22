@@ -23,7 +23,7 @@ reminders:
 >  “All the files are in order; everything has been organized and sorted. I've got the key right here!”
 
 ## Ability
-If you die, the [[Antagonist]] learns every [[player]]'s [[identity]] during the night.
+If you die, the [[Antagonist]] learns every [[player]]'s [[Identity]] during the night.
 
 ## Examples
 - The Archivist is dismissed, and dies. The following night, all Antagonists learn every player's identity.

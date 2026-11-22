@@ -14,7 +14,7 @@ reminders:
 >  “Oh be quiet, you imbecile. You don't know what you're talking about, I did nothing of the sort! And besides, I don't smell anything. Hey, pull my finger.”
 
 ## Ability
-Once per game, the first [[player]] (not yourself) to choose you with their ability during the night is [[malfunctioning]] until the day.
+Once per game, the first [[player]] (not yourself) to choose you with their ability during the night is [[Malfunctioning]] until the day.
 
 ## Examples
 - John is the Psychologist. John chooses the Obnoxious player, and becomes malfunctioning. They incorrectly learn that the Obnoxious player is Alert.

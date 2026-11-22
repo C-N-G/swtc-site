@@ -18,7 +18,7 @@ reminders:
 >  “You and I, were meant to be together. You and I, were meant to live forever. You and I, were always meant to die.”
 
 ## Ability
-On your first night, you learn a [[player]] (not yourself) and their [[role]]. If they die, you become [[malfunctioning]].
+On your first night, you learn a [[player]] (not yourself) and their [[role]]. If they die, you become [[Malfunctioning]].
 
 ## Examples
 - On the first night, the Enamoured player learns that John is the Analyst. Later in the game, John dies. The Enamoured player is now malfunctioning.

@@ -24,7 +24,7 @@ reminders:
 >  “Agent Johnson? That boy needs therapy!”
 
 ## Ability
-Each night, you learn how many living players are [[malfunctioning]] or [[Confusion|confused]].
+Each night, you learn how many living players are [[Malfunctioning]] or [[Confusion|confused]].
 
 ## Examples
 - John is the Underachiever. The Therapist wakes up and learns that 1 living player is malfunctioning or confused.

@@ -34,7 +34,7 @@ You are confused about being an Agent.
 ## Examples
 - On the first night, all Subversive players learn who the Pawn is. The Pawn is [[Confusion|confused]] about being the [[Analyst]]. The Subversive team are winning. The [[Narrator]] wakes the Pawn up and interacts with them as if they were the Analyst, and incorrectly tells them that the Loyalist team are winning.
 - On the first night, all Subversive players learn who the Pawn is. The Pawn is [[Confusion|confused]] about being the [[Analyst]]. The Loyalist team are winning. The [[Narrator]] wakes the Pawn up and interacts with them as if they were the Analyst, and tells them that the Loyalist team are winning.
-- The Pawn is [[malfunctioning]], thus no Subversive players learn who the Pawn is, apart from this there is no difference to their ability. The Pawn is confused about being the Analyst. The Subversive team are winning. The [[Narrator]] wakes the Pawn up and interacts with them as if they were the Analyst, and incorrectly tells them that the Loyalist team are winning.
+- The Pawn is [[Malfunctioning]], thus no Subversive players learn who the Pawn is, apart from this there is no difference to their ability. The Pawn is confused about being the Analyst. The Subversive team are winning. The [[Narrator]] wakes the Pawn up and interacts with them as if they were the Analyst, and incorrectly tells them that the Loyalist team are winning.
 
 ## How to Play
 - Just because someone claims to be the [[Antagonist]] and tells you that you're the Pawn doesn't mean they're telling the truth!

@@ -23,7 +23,7 @@ For a full list of changes to the SWTCpedia, please visit:
 - A new [[scenario]] titled "[[Restless Sleep]]" is now available, most significantly featuring the [[Bogeyman]] [[antagonist]] and [[The Forum - Compound 12]] [[location]], amongst other new content.
 #### [[Location|Locations]]
 ###### [[The Catacombs - Compound 3]]
-- A new [[location]] that allows dead [[Player|players]] to participate in the [[dismissal]] process as if they were still alive.
+- A new [[location]] that allows dead [[Player|players]] to participate in the [[Dismissal]] process as if they were still alive.
 ###### [[The Octagon - Compound 8]]
 - A new [[location]] that functions as the default game experience, and provides no unique changes to gameplay mechanics.
 ###### [[The Forum - Compound 12]]
@@ -42,7 +42,7 @@ For a full list of changes to the SWTCpedia, please visit:
 ###### [[Archivist]]
 - A new [[Loyalist]] [[Detrimental]] [[role]] that gives information to the [[Antagonist]] when they die.
 ###### [[Executioner]]
-- A new [[Loyalist]] [[Detrimental]] [[role]] that must vote yes on every nomination for [[dismissal]].
+- A new [[Loyalist]] [[Detrimental]] [[role]] that must vote yes on every nomination for [[Dismissal]].
 ###### [[Pawn]]
 - A new [[Subversive]] [[Detrimental]] [[role]] that is [[Confusion|confused]] about being an [[Agent]]. See the [[Accomplice]] changes for more information.
 ###### [[Intern]]
@@ -73,7 +73,7 @@ For a full list of changes to the SWTCpedia, please visit:
 ###### [[Reckless]]
 - A new [[characteristic]] that can immediately dismiss [[Player|players]] of their own team.
 ###### [[Reflective]]
-- A new [[characteristic]] that can learn the team of [[Player|players]] who vote on them for [[dismissal]].
+- A new [[characteristic]] that can learn the team of [[Player|players]] who vote on them for [[Dismissal]].
 ###### [[Vigilant]]
 - A new [[characteristic]] that learns how many of their neighbours were chosen by other [[Player|players]] each night.
 ### Changes
@@ -135,7 +135,7 @@ For a full list of changes to the SWTCpedia, please visit:
 ##### [[Detrimental|Detrimentals]]
 ###### [[Accomplice]]
 - [[Accomplice]] reworked and split into an additional [[role]]: the [[Pawn]].
-- Removed [[confusion]] from the [[Accomplice]].
+- Removed [[Confusion]] from the [[Accomplice]].
 - Previous Ability — You are [[Confusion|confused]] about being an [[Agent]]. On your first night, all [[Antagonist|Antagonists]] learn who you are.
 - New Ability — On your first night, you learn the role of a neighbouring Antagonist, and they learn your role.
 ###### [[Doppelganger]]
@@ -206,8 +206,8 @@ For a full list of changes to the SWTCpedia, please visit:
 ###### [[Obnoxious]]
 - [[Obnoxious]] now has flavour text.
 - [[Obnoxious]] changed to once per game to prevent situations where the [[Obnoxious]] [[player]] could be effectively immortal.
-- Previous Ability — The first [[player]] (not yourself) to choose you with their ability during the night is [[malfunctioning]] until the day.
-- New Ability — Once per game, the first [[player]] (not yourself) to choose you with their ability during the night is [[malfunctioning]] until the day.
+- Previous Ability — The first [[player]] (not yourself) to choose you with their ability during the night is [[Malfunctioning]] until the day.
+- New Ability — Once per game, the first [[player]] (not yourself) to choose you with their ability during the night is [[Malfunctioning]] until the day.
 ###### [[Observant]]
 - [[Observant]] now has flavour text.
 ###### [[Perceptive]]
@@ -241,13 +241,13 @@ For a full list of changes to the SWTCpedia, please visit:
 - Changed the [[Necromancer]]'s ability so that [[Player|players]] converted by the [[Necromancer]] learn they were chosen.
 #### Rules and Mechanics
 ###### [[Confusion]]
-- Altered [[confusion]] slightly to allow for situations where hypothetically [[Player|Players]] can now be [[Confusion|confused]] about things other than just their own [[role]] or [[characteristic]].
+- Altered [[Confusion]] slightly to allow for situations where hypothetically [[Player|Players]] can now be [[Confusion|confused]] about things other than just their own [[role]] or [[characteristic]].
 
 ## 31/10/2024
 ### Additions
 #### [[Scenario|Scenarios]]
 ###### [[Possessions and Obsessions]]
-- A new [[scenario]] titled "[[Possessions and Obsessions]]" is now available, featuring new [[Role|roles]] and [[Characteristic|characteristics]], and some old [[Role|roles]] that used to be part of the [[Standard Procedure]] module before the [[Scenario]] changes. It mainly centres around the new mechanic of [[obsession]].
+- A new [[scenario]] titled "[[Possessions and Obsessions]]" is now available, featuring new [[Role|roles]] and [[Characteristic|characteristics]], and some old [[Role|roles]] that used to be part of the [[Standard Procedure]] module before the [[Scenario]] changes. It mainly centres around the new mechanic of [[Obsession]].
 #### [[Role|Roles]]
 ##### [[Agent|Agents]]
 ###### [[Dreamer]]
@@ -284,7 +284,7 @@ For a full list of changes to the SWTCpedia, please visit:
 - A new [[Antagonist]] [[role]] (which some of you may have seen before the changes to the [[Scenario]] system) that can kill themselves to give their [[role]] and team to another [[player]].
 ##### [[Characteristic|Characteristics]]
 ###### [[Critical]]
-- A new [[characteristic]] that can determine if another [[player]] might be subject to [[obsession]].
+- A new [[characteristic]] that can determine if another [[player]] might be subject to [[Obsession]].
 ###### [[Cunning]]
 - A new [[characteristic]] that can swap themselves as the target of an ability with another [[player]].
 ###### [[Honest]]
@@ -303,6 +303,6 @@ For a full list of changes to the SWTCpedia, please visit:
 ### Changes
 #### [[Characteristic|Characteristics]]
 ###### [[Obnoxious]]
-- [[Obnoxious]] changed to prevent it being used to make the [[Antagonist]] permanently [[malfunctioning]].
-- Previous Ability — The first person (not yourself) to choose you with their ability becomes [[malfunctioning]].
-- New Ability — The first [[player]] (not yourself) to choose you with their ability during the night is [[malfunctioning]] until the day.
+- [[Obnoxious]] changed to prevent it being used to make the [[Antagonist]] permanently [[Malfunctioning]].
+- Previous Ability — The first person (not yourself) to choose you with their ability becomes [[Malfunctioning]].
+- New Ability — The first [[player]] (not yourself) to choose you with their ability during the night is [[Malfunctioning]] until the day.

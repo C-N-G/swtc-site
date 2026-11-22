@@ -34,7 +34,7 @@ You are confused about being an Agent.
 ## Examples
 - The Underachiever is [[Confusion|confused]] about being the [[Analyst]]. The Subversive team are winning. The [[Narrator]] wakes the Underachiever up and interacts with them as if they were the Analyst, and incorrectly tells them that the Loyalist team are winning.
 - The Underachiever is [[Confusion|confused]] about being the [[Analyst]]. The Loyalist team are winning. The [[Narrator]] wakes the Underachiever up and interacts with them as if they were the Analyst, and tells them that the Loyalist team are winning.
-- The Underachiever is [[malfunctioning]]. There is no difference to their ability. The Underachiever is confused about being the Analyst. The Subversive team are winning. The [[Narrator]] wakes the Underachiever up and interacts with them as if they were the Analyst, and incorrectly tells them that the Loyalist team are winning.
+- The Underachiever is [[Malfunctioning]]. There is no difference to their ability. The Underachiever is confused about being the Analyst. The Subversive team are winning. The [[Narrator]] wakes the Underachiever up and interacts with them as if they were the Analyst, and incorrectly tells them that the Loyalist team are winning.
 
 ## How to Play
 - Always remember, just because you're confused doesn't mean you will always receive false information. Confused abilities receive arbitrary information at the discretion of the Narrator. However, in most cases you are likely to be given information that will benefit the Subversive team the most.

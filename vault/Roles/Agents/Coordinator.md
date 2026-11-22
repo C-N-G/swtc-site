@@ -30,7 +30,7 @@ On your first night, you learn that 1 of 3 [[Player|players]] is a specific [[De
 - The Coordinator wakes up on their first night, and learns that John, Jane, or Adam is the [[Underachiever]]. Adam is the [[Underachiever]].
 - The Coordinator wakes up on their first night, and learns that there are 0 [[Detrimental|Detrimentals]] in play.
 - The Coordinator wakes up on their first night. There is 1 [[Detrimental]] in play, but they are the [[Prisoner]]. The Coordinator incorrectly learns that there are 0 [[Detrimental|Detrimentals]] in play.
-- The Coordinator is [[malfunctioning]]. The Coordinator wakes up on their first night, and incorrectly learns that John, Jane, or Adam is the [[Underachiever]].
+- The Coordinator is [[Malfunctioning]]. The Coordinator wakes up on their first night, and incorrectly learns that John, Jane, or Adam is the [[Underachiever]].
 
 ## How to Play
 - You should try to correlate your information with other [[player]]'s information to try and determine which of the players is the specific [[Detrimental]] [[role]] that you learnt.

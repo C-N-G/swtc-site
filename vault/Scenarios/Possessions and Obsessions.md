@@ -50,7 +50,7 @@ chars:
 > ![[Unknown.svg]]
 > “It must be mine, give it to me! It should be mine, give it to me!”
 ## Summary
-Possessions and Obsessions is designed to focus on the mechanic of [[obsession]]. It is not recommended for beginner [[Player|players]].
+Possessions and Obsessions is designed to focus on the mechanic of [[Obsession]]. It is not recommended for beginner [[Player|players]].
 
 ## Location
 - [[The Catacombs - Compound 3]]
