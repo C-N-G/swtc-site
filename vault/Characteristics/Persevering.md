@@ -10,7 +10,7 @@ reminders:
 ---
 > [!infobox]
 > 
-> ![[Unknown.svg]]
+> ![[Persevering.svg]]
 >  “There is no foe I cannot best, for my heart still yet beats.”
 
 ## Ability

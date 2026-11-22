@@ -6,7 +6,7 @@ ability: |
 ---
 > [!infobox]
 > 
-> ![[Unknown.svg]]
+> ![[Punctual.svg]]
 >  “Ah, I see you're late as usual.”
 
 ## Ability

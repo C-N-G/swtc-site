@@ -10,7 +10,7 @@ reminders:
 ---
 > [!infobox]
 > 
-> ![[Unknown.svg]]
+> ![[Prideful.svg]]
 >  “Injure my pride? You think yourself capable of such a feat?”
 
 ## Ability

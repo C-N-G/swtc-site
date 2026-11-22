@@ -10,7 +10,7 @@ reminders:
 ---
 > [!infobox]
 > 
-> ![[Unknown.svg]]
+> ![[Obnoxious.svg]]
 >  “Oh be quiet, you imbecile. You don't know what you're talking about, I did nothing of the sort! And besides, I don't smell anything. Hey, pull my finger.”
 
 ## Ability

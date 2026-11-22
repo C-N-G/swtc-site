@@ -6,7 +6,7 @@ ability: |
 ---
 > [!infobox]
 > 
-> ![[Unknown.svg]]
+> ![[Reckless.svg]]
 >  “Our unfortunate casualties are just that, unfortunate. Onwards!”
 
 ## Ability

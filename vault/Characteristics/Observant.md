@@ -11,7 +11,7 @@ reminders:
 ---
 > [!infobox]
 > 
-> ![[Unknown.svg]]
+> ![[Observant.svg]]
 >  “I heard each and every one. 32 footsteps, I counted them myself.”
 
 ## Ability

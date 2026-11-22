@@ -11,7 +11,7 @@ reminders:
 ---
 > [!infobox]
 > 
-> ![[Unknown.svg]]
+> ![[Perceptive.svg]]
 >  “I saw that scar on your hand when you first arrived, do you mind telling me how you got it?”
 
 ## Ability

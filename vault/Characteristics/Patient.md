@@ -10,7 +10,7 @@ reminders:
 ---
 > [!infobox]
 > 
-> ![[Unknown.svg]]
+> ![[Patient.svg]]
 >  “Take a seat, and watch the world go by. When our time is here, it will be so.”
 
 ## Ability
