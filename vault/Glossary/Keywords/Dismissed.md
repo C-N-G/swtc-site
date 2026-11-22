@@ -1,0 +1,1 @@
+A death usually as a result of the [[dismissal]] process. Unlike other forms of day deaths, a player being dismissed for any reason ends the day.
